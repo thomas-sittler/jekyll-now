@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A Path Appears" Book Review
-date: 2015-07-01 07:00
 author: thomassittler
 comments: true
 categories: [Uncategorized]
