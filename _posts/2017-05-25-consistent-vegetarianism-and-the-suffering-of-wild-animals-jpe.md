@@ -13,4 +13,3 @@ A revised version of the <a href="https://thomassittler.wordpress.com/2016/07/04
 Abstract:
 
 <blockquote>Ethical consequentialist vegetarians believe that farmed animals have lives that are worse than non-existence. In this paper, I sketch out an argument that wild animals have worse lives than farmed animals, and that consistent vegetarians should therefore reduce the number of wild animals as a top priority. I consider objections to the argument, and discuss which courses of action are open to those who accept the argument.</blockquote>
-</div>
