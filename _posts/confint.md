@@ -1,0 +1,67 @@
+---
+layout: post
+title: A better formalism for interpreting confidence intervals
+---
+
+When we take a sample mean, we should think of it as a random variable, and our measured sample mean as a realisation of that random variable. The sample mean is a random variable because it is the result of random sampling. Repeated sampling involves observing repeated realisations of the random variable.
+
+We should think of confidence intervals around this mean as realisations of a  _random interval_, an interval whose bounds are random variables rather than real numbers. This is an attractive formalism because it resolves many confusions around the interpretation of confidence intervals. 
+
+Suppose the true population mean is the number $Y$. The mean of a random sample from this population is the random variable $\bar{y}$. Then, without being too rigorous about it, the random interval
+
+$$[ \bar{y} - 1.96 se(\bar{y})    ,   \bar{y} + 1.96 se(\bar{y}) ]$$
+
+has a 95% probability of containing $Y$. 
+
+Suppose in our sample $\bar{y}$ takes the realisation $1230$. The sample size is $100$ and the standard deviation of the sample is $54$. So an instance of the above random interval is the confidence interval:
+
+$$[ 1230 - 1.96 * \frac{54}{ \sqrt{100} }   ,   1230 + 1.96 * \frac{54}{ \sqrt{100} } ]$$
+
+The confidence interval either contains or does not contain $Y$. 
+
+Once we have the formal notion of a random interval, interpreting confidence intervals becomes easy and robust: 
+
+>  $[ 1230 - 1.96 * \frac{54}{ \sqrt{100} }   ,   1230 + 1.96 * \frac{54}{ \sqrt{100} } ]$  is a realisation of  $[ \bar{y} - 1.96 se(\bar{y})    ,   \bar{y} + 1.96 se(\bar{y}) ]$. The probability $P( Y \in[ \bar{y} - 1.96 se(\bar{y})    ,   \bar{y} + 1.96 se(\bar{y}) ]) = 0.95$. 
+
+# The ugly and the bad
+
+Unfortunately, my preferred formalism does not appear to be popular. Let me show some of the alternatives I have seen and explain why they are inferior. 
+
+## 1
+
+[Oxford department of statistics](https://www.stats.ox.ac.uk/pub/bdr/IAUL/Course1Notes5.pdf):
+
+> The interval is random, not the parameter. Thus, we talk of the probability of the
+> interval containing the parameter, not the probability of the parameter lying in
+> the interval.
+
+This is the worst example, and is admittedly rarely seen in print. But in speech I've seen it used often, even by academics who were trying to explain the correct interpretation of confidence intervals! The problem with this of course is that once you write it down in mathematical language, the probability of the interval containing the parameter is exactly the same object as the probability of the parameter lying in the interval. In our example it is simply $P(Y \in [ 1230 - 1.96 * \frac{54}{ \sqrt{100} }   ,   1230 + 1.96 * \frac{54}{ \sqrt{100} } ]) $. It is equal to 1 or 0.
+
+## 2
+
+Quantitative Economics lecture notes for Oxford undergraduates:
+
+> "Were this procedure to be repeated on multiple samples, the calculated confidence interval (which would differ for each sample) would encompass the true population parameter 95% of the time."
+
+I don't like this because:
+* It invokes the clunky counterfactual "were this procedure to be repeated". What if it's impossible to take repeated samples? We still want to be able to make statements about our confidence interval.
+* It doesn't have a clear mathematical formalisation. how do I write "95% of the time" in terms of probabilities?
+* The actual confidence interval we have is nowhere mentioned. For what is supposed to be an interpretation of that object, that's a little confusing. 
+
+My formalism solves these three problems. 
+
+## 3
+
+Wikipedia:
+
+> "There is a 90% probability that the calculated confidence interval from some future experiment encompasses the true value of the population parameter."
+
+Similar complaint here: why do we need to refer to future experiments? We want an interpretation of the confidence interval we actually have. 
+
+## 4
+
+[Harvard University](http://bcb.dfci.harvard.edu/~keegan/stat324/STAT324_0303_CI_1.pdf):
+
+> For this reason, for a 95% CI, we say that we have 95% confidence that the interval will cover the true population  mean. We use the term ‘confidence’ instead of probability because although the sample mean is random, the single interval we calculate is fixed. We also cannot talk about the probability that the population mean will lie within a certain interval, since it is also fixed.
+
+This needlessly introduces the new concept of 'confidence', which is bound to cause confusion. It's much better to use probabilities, a concept we already understand and for which we have a formal notation.
