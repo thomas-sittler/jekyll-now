@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "A Path Appears" Book Review
-author: thomassittler
-comments: true
-categories: [Uncategorized]
 ---
 
 This my book review of Nicholas Kristof and Sheryl WuDunn's "A Path Appears". (Also available on scribd <a href="https://www.scribd.com/doc/266439002/A-Path-Appears-Book-Review">here</a>). In 2015, the review won the Sciences Po - Books prize, a book review competition organized by my University and the magazine <a href="books.fr">Books</a>. It was published in French translation in the June 2015 edition of Books, of which I've <a href="https://thomassittler.files.wordpress.com/2015/05/books-juin-2015.pdf">scanned</a> the relevant pages.
