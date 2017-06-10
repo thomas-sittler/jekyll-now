@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "A Path Appears" Book Review
+title: A Path Appears Book Review
+date: 2015-07-01 07:00
+author: thomassittler
+comments: true
+categories: [Uncategorized]
 ---
+
 
 This my book review of Nicholas Kristof and Sheryl WuDunn's "A Path Appears". (Also available on scribd <a href="https://www.scribd.com/doc/266439002/A-Path-Appears-Book-Review">here</a>). In 2015, the review won the Sciences Po - Books prize, a book review competition organized by my University and the magazine <a href="books.fr">Books</a>. It was published in French translation in the June 2015 edition of Books, of which I've <a href="https://thomassittler.files.wordpress.com/2015/05/books-juin-2015.pdf">scanned</a> the relevant pages.
 <p style="padding-left:30px;">In May 2013 TIME magazine’s cover called millennials –those born between 1980 and 2000– the “Me Me Me Generation”. It featured a young woman taking a selfie, the emblematic act of a generation of smartphone-toting, selfish narcissists. Yet statistics such as those by the Pew Research Center describe an empathetic age group that votes less often, but is more likely to do volunteer work than their parents were. Most likely, Millennials are simply doing things differently, both shaping and reacting to the ways altruism and citizenship are being reinvented. That, at least, is the hopeful message captured in the title of Nicholas Kristof and Sheryl WuDunn’s new book <em>A Path Appears</em>. A generation ago, they say, “’giving back’ was what we did in December, hunched over a checkbook and relying on guesswork. In recent years, advances in neuroscience and economics –and a flowering of carefully monitored experiments- have given us much greater insight into what works to create opportunity worldwide, and much greater prospects for personal satisfaction from giving”. The sunlit path towards creating a better lives for others, they say, appears before us clearer than ever. And they want you to take it: the book is sold as a “galvanizing narrative about making a difference here and abroad—a road map to becoming the most effective global citizens we can be.”</p>
