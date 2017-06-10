@@ -2,6 +2,7 @@
 layout: post
 date: 2016-07-04 17:10
 author: thomassittler
+title: Oxford Uehiro Prize in Practical Ethics, “How should vegetarians actually live?
 comments: true
 categories: [Philosophy]
 ---
