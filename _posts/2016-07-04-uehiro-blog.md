@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oxford Uehiro Prize in Practical Ethics: “How should vegetarians actually live? A reply to Xavier Cohen.”
+title: Oxford Uehiro Prize in Practical Ethics: How should vegetarians actually live? 
 date: 2016-07-04 17:10
 author: thomassittler
 comments: true
