@@ -67,4 +67,4 @@ But this raises a problem: suppose god zaps you with an electric shock every tim
 
 But suppose that god now says he will zap you every time you use X* on a Tuesday. In this case, it would be better to use CDT instead of X*. 
 
-Since X can be any decision theory, this shows that there exists no decision theory which works well in all cases. So we need to be pragmatic and choose the decision theory that works best given the cases we expect to face. But this just means using the meta-decision theory that tells you to do that. 
+Since X can be any decision theory, this shows that there exists no decision theory which works well in all cases. So we need to be pragmatic and choose the decision theory that works best given the cases we expect to face. But this just means using the meta-decision theory that tells you to do that.  
