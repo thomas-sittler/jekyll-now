@@ -33,8 +33,11 @@ But these are not lists of counterfactuals. How can we sharpen this?
 K_1:
 
 $$(p=0.9)(u=+1)$$Harry bets on the Yankees $$\boxright$$ the Yankees win.
+
 $$(p=0.1)(u=-2)$$Harry bets on the Yankees $$\boxright$$ the Sox win.
+
 $$(p=0.9)(u=-1)$$Harry bets on the Sox $$\boxright$$ the Yankees win.
+
 $$(p=0.1)(u=+2)$$Harry bets on the Sox $$\boxright$$ the Sox win.
 
 --> bet on the Yankees
