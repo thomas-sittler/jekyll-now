@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /all/
-tite: all posts
+title: all posts
 ---
 
 <div class="posts">
