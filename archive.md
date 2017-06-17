@@ -1,5 +1,7 @@
 ---
-layout: defaut
+layout: page
+permalink: /all/
+tite: all posts
 ---
 
 <div class="posts">
