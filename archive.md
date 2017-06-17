@@ -1,5 +1,5 @@
 ---
-layout:defaut
+layout: defaut
 ---
 
 <div class="posts">
