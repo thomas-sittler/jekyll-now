@@ -13,9 +13,11 @@ layout: default
       <h1 class=homepage-title><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-        {{ post.content }}
-      </div>
-    <br><br><br>
+        {{ post.excerpt }}
+        
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>      </div>
+
+      <br>
   </article>
   {% endfor %}
 </div>
