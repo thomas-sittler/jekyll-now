@@ -168,14 +168,16 @@ img {
   }
 }
 
+
+.site-banner{
+  border-radius: 3px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
 .site-avatar {
   float: left;
   width: 70px;
   height: 70px;
   margin-right: 15px;
-  
-  border-radius: 3px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
 	
   @include mobile {
     float: none;
