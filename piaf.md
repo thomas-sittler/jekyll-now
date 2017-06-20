@@ -52,9 +52,8 @@ $$P_b= \{K_y,K_s\}$$
 ($$K_y$$ for "Yankees win" and $$K_s$$ for "Sox win")
 
 $$K_y = \{C_1,C_2     \}$$
-$$K_s = \{C_3,C_4     \}$$
 
-$$\usepackage{txfonts}$$
+$$K_s = \{C_3,C_4     \}$$
 
 $$C_1 = \text{Harry bets on the Yankees} \boxright \text{Harry +1\$}$$
 $$C_2 = \text{Harry bets on the Sox} \boxright \text{Harry -1\$}$$
@@ -75,6 +74,7 @@ $$P_w= \{K_w,K_l\}$$
 ($$K_w$$ for "Harry wins his bet" and $$K_l$$ for "Harry loses his bet")
 
 $$K_w = \{C_5,C_6     \}$$
+
 $$K_l = \{C_7,C_8     \}$$
 
 $$C_5 = \text{Harry bets on the Yankees} \boxright \text{Harry +1\$}$$
