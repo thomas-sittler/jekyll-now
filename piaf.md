@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "'Why ain't causal decision theorists rich Some speculations'"
+title:  "Why ain't causal decision theorists rich? Some speculations"
 ---
 # CDT is underspecified
 Standard causal decision theory is underspecified. It needs a theory of counterfactual reasoning. 
