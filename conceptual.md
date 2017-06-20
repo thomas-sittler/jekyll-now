@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Successful conceptual analyses: language returned from holiday'
 ---
 

@@ -1,3 +1,7 @@
+---
+layout: post
+title:
+---
 # CDT is underspecified
 Standard causal decision theory is underspecified. It needs a theory of counterfactual reasoning. 
 
