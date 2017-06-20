@@ -54,6 +54,8 @@ $$P_b= \{K_y,K_s\}$$
 $$K_y = \{C_1,C_2     \}$$
 $$K_s = \{C_3,C_4     \}$$
 
+$$\usepackage{txfonts}$$
+
 $$C_1 = \text{Harry bets on the Yankees} \boxright \text{Harry +1\$}$$
 $$C_2 = \text{Harry bets on the Sox} \boxright \text{Harry -1\$}$$
 
