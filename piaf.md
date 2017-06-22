@@ -62,6 +62,7 @@ $$C_3 = \text{Harry bets on the Yankees } \square\!\mathord\to \text{Harry -2\$}
 $$C_4 = \text{Harry bets on the Sox } \square\!\mathord\to \text{Harry +2\$}$$
 
 And Harry has the following credences[^cred]:
+
 [^cred]: This isn't fully rigorous, since Ks are lists of (counterfactual) propositions, so you can't have a credence in a K. What I mean by $$Cr(K_y)=0.9$$ is that Harry has credence 0.9 in every C in K, and (importantly) he also has credence 0.9 in in their conjunction $$C_1 \land C_2$$. But I drop this formalism in the body of the post, which I feel already suffers from an excess of pedantry as it stands!
 
 $$Cr(K_y)=0.9$$
@@ -98,6 +99,7 @@ Arntzenius crafts this thought experiment as a case where, purportedly:
 [^ahmed]:This is denied by Ahmed and Price
 
 I'll leave both of these claims undefended for now, taking them for granted. I'll also skip over how one is supposed to systematically determine which partition is the "correct" one[^sec6].  What is the point of proposing _Predictor_? We know that EDT does predictably better than CDT in _Newcomb_. _Predictor_ is a case where CDT does predictably better than EDT, provided that it uses the appropriate partition. But we already knew this from more mundane cases like _Smoking lesion_ ([Egan 2007](http://www.jstor.org/stable/20446939)). 
+
 [^sec6]: Arntzenius provides an answer in section 6, "Good and Bad Partitions".
 
 
