@@ -22,7 +22,7 @@ What will turn out to be crucial for our purposes is that there is more than one
 In other words, there is the following hierarchy:
 * Choose a causal situation partition P out of the set of possible partitions $$\{P_1,P_2,...,P_k\}$$ (the causal situation superpartition?).
 * This partition defines a list of possible causal situations: $$P = \{K_1,K_2,...,K_j\}$$. 
-* Each causal situation K defines a list of counterfactuals of length n: $$K = \{C_1,C_2,...,C_n\}$$. Where each counterfactual $$C_i$$ is of the form "$$A_i \boxright X$$". You have a credence distribution over Ks.
+* Each causal situation K defines a list of counterfactuals of length n: $$K = \{C_1,C_2,...,C_n\}$$. Where each counterfactual $$C_i$$ is of the form "$$A_i \square\!\mathord\to X$$". You have a credence distribution over Ks.
 
 # Sox-Yankees
 Now let's consider the following case, _Game_ also from Arntzenius (2008):
@@ -55,11 +55,11 @@ $$K_y = \{C_1,C_2     \}$$
 
 $$K_s = \{C_3,C_4     \}$$
 
-$$C_1 = \text{Harry bets on the Yankees} \boxright \text{Harry +1\$}$$
-$$C_2 = \text{Harry bets on the Sox} \boxright \text{Harry -1\$}$$
+$$C_1 = \text{Harry bets on the Yankees} \square\!\mathord\to \text{Harry +1\$}$$
+$$C_2 = \text{Harry bets on the Sox} \square\!\mathord\to \text{Harry -1\$}$$
 
-$$C_3 = \text{Harry bets on the Yankees} \boxright \text{Harry -2\$}$$
-$$C_4 = \text{Harry bets on the Sox} \boxright \text{Harry +2\$}$$
+$$C_3 = \text{Harry bets on the Yankees} \square\!\mathord\to \text{Harry -2\$}$$
+$$C_4 = \text{Harry bets on the Sox} \square\!\mathord\to \text{Harry +2\$}$$
 
 And Harry has the following credences[^cred]:
 [^cred]: This isn't fully rigorous, since Ks are lists of (counterfactual) propositions, so you can't have a credence in a K. What I mean by $$Cr(K_y)=0.9$$ is that Harry has credence 0.9 in every C in K, and (importantly) he also has credence 0.9 in in their conjunction $$C_1 \land C_2$$. But I drop this formalism in the body of the post, which I feel already suffers from an excess of pedantry as it stands!
@@ -77,11 +77,11 @@ $$K_w = \{C_5,C_6     \}$$
 
 $$K_l = \{C_7,C_8     \}$$
 
-$$C_5 = \text{Harry bets on the Yankees} \boxright \text{Harry +1\$}$$
-$$C_6 = \text{Harry bets on the Sox} \boxright \text{Harry +2\$}$$
+$$C_5 = \text{Harry bets on the Yankees} \square\!\mathord\to \text{Harry +1\$}$$
+$$C_6 = \text{Harry bets on the Sox} \square\!\mathord\to \text{Harry +2\$}$$
 
-$$C_7 = \text{Harry bets on the Yankees} \boxright \text{Harry -2\$}$$
-$$C_8 = \text{Harry bets on the Sox} \boxright \text{Harry -1\$}$$
+$$C_7 = \text{Harry bets on the Yankees} \square\!\mathord\to \text{Harry -2\$}$$
+$$C_8 = \text{Harry bets on the Sox} \square\!\mathord\to \text{Harry -1\$}$$
 
 Now we come to the tricky question of what Harry's credences are in $$K_w$$ and $$K_l$$. Arntzenius writes: "It immediately follows that no matter what $$Cr(K_w)$$ and $$Cr(K_l)$$ are the expected utility of betting on the red sox is always higher". So Harry should bet on the red sox regardless of his credences. 
 
