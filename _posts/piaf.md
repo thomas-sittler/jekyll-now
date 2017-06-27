@@ -86,9 +86,10 @@ $$C_6 = \text{Harry bets on the Sox} \mathbin{\square\!\mathord\to} \text{Harry 
 $$C_7 = \text{Harry bets on the Yankees} \mathbin{\square\!\mathord\to} \text{Harry -2\$}$$
 $$C_8 = \text{Harry bets on the Sox} \mathbin{\square\!\mathord\to} \text{Harry -1\$}$$
 
-Now we come to the tricky question of what Harry's credences are in $$K_w$$ and $$K_l$$. Arntzenius writes: "It immediately follows that no matter what $$Cr(K_w)$$ and $$Cr(K_l)$$ are the expected utility of betting on the red sox is always higher". So Harry should bet on the red sox regardless of his credences. 
+Now we come to the tricky question of what Harry's credences are in $$K_w$$ and $$K_l$$. Arntzenius writes: "It immediately follows that no matter what $$Cr(K_w)$$ and $$Cr(K_l)$$ are the expected utility of betting on the red sox is always higher". So Harry should bet on the red sox regardless of his credences.
 
-Suppose Harry reasons thus and bets on the Sox. But now, given that the Yankees win 90% of the time, Harry will immediately infer that $$Cr(K_l)=0.9$$. In other words, after he's made the decision, he immediately regrets it since doing so puts him in the postion of knowing he will lose money. So Harry violates what Arntzenius calls "weak desire reflection" if he uses the win/lose partition. 
+<!--  is wrong, neeeds to be fixed-->
+<!-- Suppose Harry reasons thus and bets on the Sox. But now, given that the Yankees win 90% of the time, Harry will immediately infer that $$Cr(K_l)=0.9$$. In other words, after he's made the decision, he immediately regrets it since doing so puts him in the postion of knowing he will lose money. So Harry violates what Arntzenius calls "weak desire reflection" if he uses the win/lose partition. -->
 
 # Sox/Yankees with a predictor
 Now consider the case _Predictor_:
