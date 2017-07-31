@@ -4,7 +4,8 @@ layout: post
 ---
 
 # Table of contents
-* Will be replaced with the ToC, excluding the "Contents" header {:toc}
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
 
 # Summary
 Many aspiring effective altruists report splitting their donations between two or more charities. Expected utility reasoning suggests that for small donations, one should never split, and always donate all the money to the organisation with the highest expected cost-effectiveness. So prima facie we should not split. Are there any convincing reasons to split? I review 6 arguments in favour of splitting. I end with my recommendation.
