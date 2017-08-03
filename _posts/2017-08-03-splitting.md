@@ -153,7 +153,7 @@ Sometimes being (very) uncertain about which donation opportunity is best is pre
 High uncertainty is only a reason to split or diversify if one is [risk averse](https://en.wikipedia.org/wiki/Risk_aversion). Is it sensible to be risk averse about one's altruistic decisions? No. As Carl Schuman [writes](https://80000hours.org/2012/01/salary-or-startup-how-do-gooders-can-gain-more-from-risky-careers/):
 
 > ### What am I going to do with my tenth vaccine? Vaccinate another kid!
-> While Sam’s 10th pair of shoes does him little additional good, a tenth donation can vaccinate a tenth child, or a pay for the work of a tenth scientist doing high impact research such as vaccine development. So long as Sam’s donations don’t become huge relative to the cause he is working on (using up the most efficient donation opportunities) he can often treat a charitable donation of $$1,000 as just as worthwhile as a 1 in 10 chance of a $$10,000 donation.
+> While Sam’s 10th pair of shoes does him little additional good, a tenth donation can vaccinate a tenth child, or a pay for the work of a tenth scientist doing high impact research such as vaccine development. So long as Sam’s donations don’t become huge relative to the cause he is working on (using up the most efficient donation opportunities) he can often treat a charitable donation of $1,000 as just as worthwhile as a 1 in 10 chance of a $10,000 donation.
 
 ## Moral uncertainty
 The EA funds FAQ says that another reason for splitting could be "If you are more uncertain about your values (for example, you think that Animal Welfare and the Long-Term Future are equally important causes)".
@@ -189,15 +189,15 @@ It's generally thought that for small (sub-six-figure) donors, $$A=0$$, that is,
 
 However, many people believe that at the level of the EA community, there should be splitting. What does this imply in the above model?
 
-Let's assume that the EA community moves $$X = $$100 million$$ per year (including Good Ventures). Some people take the view that the best focus area is more than an [order of magnitude](https://concepts.effectivealtruism.org/concepts/variation-in-cost-effectiveness/) more cost-effective than others (although it's not always clear which margin this claim applies to). Under some such view, marginal returns would need to diminish by more than 10 times over the 0-100M range in order to get a significant amount of splitting. To me, this seems intuitively unlikely. (Of course, some areas may have much faster diminishing returns than others[^exemp].) Michael Dickens [writes](http://effective-altruism.com/ea/wr/how_should_a_large_donor_prioritize_cause_areas/#diminishing-utility-over-large-amounts-of-money):
+Let's assume that the EA community moves $$X = $100 million$$ per year (including Good Ventures). Some people take the view that the best focus area is more than an [order of magnitude](https://concepts.effectivealtruism.org/concepts/variation-in-cost-effectiveness/) more cost-effective than others (although it's not always clear which margin this claim applies to). Under some such view, marginal returns would need to diminish by more than 10 times over the 0-100M range in order to get a significant amount of splitting. To me, this seems intuitively unlikely. (Of course, some areas may have much faster diminishing returns than others[^exemp].) Michael Dickens [writes](http://effective-altruism.com/ea/wr/how_should_a_large_donor_prioritize_cause_areas/#diminishing-utility-over-large-amounts-of-money):
 
-> The US government spends about $$6 billion annually on biosecurity5. According to a Future of Humanity Institute survey, the median respondent believed that superintelligent AI was more than twice as likely to cause complete extinction as pandemics, which suggests that, assuming AI safety isn’t a much simpler problem than biosecurity, it would be appropriate for both fields to receive a similar amount of funding. (Sam Altman, head of Y Combinator, said in a Business Insider interview, “If I were Barack Obama, I would commit maybe $$100 billion to R&D of AI safety initiatives.”) Currently, less than $$10 million a year goes into AI safety research.
+> The US government spends about $6 billion annually on biosecurity5. According to a Future of Humanity Institute survey, the median respondent believed that superintelligent AI was more than twice as likely to cause complete extinction as pandemics, which suggests that, assuming AI safety isn’t a much simpler problem than biosecurity, it would be appropriate for both fields to receive a similar amount of funding. (Sam Altman, head of Y Combinator, said in a Business Insider interview, “If I were Barack Obama, I would commit maybe $100 billion to R&D of AI safety initiatives.”) Currently, less than $10 million a year goes into AI safety research.
 > 
-> Open Phil can afford to spend something like $$200 million/year. Biosecurity and AI safety, Open Phil’s top two cause areas within global catastrophic risk, could likely absorb this much funding without experiencing much diminishing marginal utility of money. (AI safety might see diminishing marginal utility since it’s such a small field right now, but if it were receiving something like $$1 billion/year, that would presumably make marginal dollars in AI safety “only” as useful as marginal dollars in biosecurity.)
+> Open Phil can afford to spend something like $200 million/year. Biosecurity and AI safety, Open Phil’s top two cause areas within global catastrophic risk, could likely absorb this much funding without experiencing much diminishing marginal utility of money. (AI safety might see diminishing marginal utility since it’s such a small field right now, but if it were receiving something like $1 billion/year, that would presumably make marginal dollars in AI safety “only” as useful as marginal dollars in biosecurity.)
 > 
 > To take another approach, let’s look at animal advocacy. Extrapolating from Open Phil’s estimates, its grants on cage-free campaigns are probably about ten thousand times more cost-effective than GiveDirectly (if you don’t heavily discount non-human animals, which you shouldn’t) (more on this later), and perhaps a hundred times better after adjusting for robustness. Since grants on criminal justice reform are not significantly more robust than grants on cage-free campaigns, the robustness adjustments look similar for each, so it’s fair to compare their cost-effectiveness estimates rather than their posteriors.
 > 
-> Open Phil’s estimate for PSPP suggests that cage-free campaigns are a thousand times more effective. If we poured way more money into animal advocacy, we’d see diminishing returns as the top interventions became more crowded, and then less strong interventions became more crowded. But for animal advocacy grants to look worse than grants in criminal justice, marginal utility would have to diminish by a factor of 1000. I don’t know what the marginal utility curve looks like, but it’s implausible that we would hit that level of diminished returns before increasing funding in the entire field of farm animal advocacy by a factor of 10 at least. If I’m right about that, that means we should be putting $$100 million a year into animal advocacy before we start making grants on criminal justice reform.
+> Open Phil’s estimate for PSPP suggests that cage-free campaigns are a thousand times more effective. If we poured way more money into animal advocacy, we’d see diminishing returns as the top interventions became more crowded, and then less strong interventions became more crowded. But for animal advocacy grants to look worse than grants in criminal justice, marginal utility would have to diminish by a factor of 1000. I don’t know what the marginal utility curve looks like, but it’s implausible that we would hit that level of diminished returns before increasing funding in the entire field of farm animal advocacy by a factor of 10 at least. If I’m right about that, that means we should be putting $100 million a year into animal advocacy before we start making grants on criminal justice reform.
 
 I find this line of argument moderately convincing. Therefore, my guess is that people who believe that their preferred focus area is orders of magnitude better than others, should generally also believe that the whole EA community should donate only to that focus area.
 
@@ -273,18 +273,18 @@ f <- data.frame(read_csv("~/split/Anonomized EA Funds donation spreadsheet - Amo
 exchr <- 1.27
 
 # convert everything to usd
-f$$dusd <- ifelse(f$$Currency=="GBP",exchr*f$$Donation.amount,f$$Donation.amount)
+f$dusd <- ifelse(f$Currency=="GBP",exchr*f$Donation.amount,f$Donation.amount)
 
 #naive histogram of allocation percentages
 bseq=seq(0,100,5)
-n <- hist(f$$Allocation.percentage, breaks=bseq, freq=FALSE, xlab="Allocation Percentage", main="")
-n_n <- data.frame(bucket=w$$breaks[2:length(n$$breaks)],prob=(n$$counts/sum(n$$counts)))
+n <- hist(f$Allocation.percentage, breaks=bseq, freq=FALSE, xlab="Allocation Percentage", main="")
+n_n <- data.frame(bucket=w$breaks[2:length(n$breaks)],prob=(n$counts/sum(n$counts)))
 
 
 # weighted histogram
 bseq=seq(0,100,5)
-w <- weighted.hist(f$$Allocation.percentage,f$$dusd,breaks=bseq,freq = FALSE, xlab="Allocation Percentage", ylab = "Density, weighted by donation size")
-w_n <- data.frame(bucket=w$$breaks[2:length(w$$breaks)],prob=(w$$counts/sum(w$$counts)))
+w <- weighted.hist(f$Allocation.percentage,f$dusd,breaks=bseq,freq = FALSE, xlab="Allocation Percentage", ylab = "Density, weighted by donation size")
+w_n <- data.frame(bucket=w$breaks[2:length(w$breaks)],prob=(w$counts/sum(w$counts)))
 
 #user totals
 f <- ddply(f,.(UserID),transform,usersum=sum(dusd))
@@ -294,15 +294,15 @@ u <- ddply(u,.(UserID),transform,usersum=sum(dusd))
 f <- ddply(f,.(UserID, Fund.Name),transform,usersum_fund=sum(dusd))
 
 # fundfrac
-f$$fundfrac <- f$$usersum_fund/f$$usersum
+f$fundfrac <- f$usersum_fund/f$usersum
 
 # remove appropriate duplicates
-f$$isdupl <- duplicated(f[,c(2,5)])
+f$isdupl <- duplicated(f[,c(2,5)])
 f2 <- subset(f, isdupl == FALSE)
 
 # weighted histogram of fundfrac
-z <- weighted.hist(f2$$fundfrac,f2$$usersum_fund,breaks=bseq/100,freq = FALSE, xlab="Fund fraction (per user)", ylab = "Density, weighted by fund sum (per user)")
-z_n <- data.frame(bucket=z$$breaks[2:length(z$$breaks)],prob=(z$$counts/sum(z$$counts)))
+z <- weighted.hist(f2$fundfrac,f2$usersum_fund,breaks=bseq/100,freq = FALSE, xlab="Fund fraction (per user)", ylab = "Density, weighted by fund sum (per user)")
+z_n <- data.frame(bucket=z$breaks[2:length(z$breaks)],prob=(z$counts/sum(z$counts)))
 ```
 
 ---
