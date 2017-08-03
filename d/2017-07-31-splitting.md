@@ -62,6 +62,7 @@ I compute a histogram of allocation percentages weighted by donation size. In ot
 
 [^data2]:
     The data:
+    
     allocation percentage bucket	|	probability
     --- | ---
     5%	|	0.009
@@ -92,8 +93,8 @@ But this approach might still be problematic, because it is not invariant to how
 
 Allocation ID | Name | Fund | Allocation % | Donation amount
 ---| --- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-1 | Alice | Health | 100% | $1000
 2 | Alice | Future | 100% | $1000
+1 | Alice | Health | 100% | $1000
 3 | Bob | Health | 50% | $1000
 3 | Bob | Future | 50% | $1000
 
@@ -114,6 +115,7 @@ This allows me to create a histogram of the fraction of a user total represented
 
 [^data3]:
     The data are:
+    
     fraction of user total bucket	|	probability
     --- | ---
     5%	|	0.013
