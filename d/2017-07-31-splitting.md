@@ -4,7 +4,7 @@ layout: post
 ---
 
 # Table of contents
-* Will be replaced with the ToC, excluding the "Contents" header
+1. Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
 
 # Summary
