@@ -153,7 +153,7 @@ Sometimes being (very) uncertain about which donation opportunity is best is pre
 High uncertainty is only a reason to split or diversify if one is [risk averse](https://en.wikipedia.org/wiki/Risk_aversion). Is it sensible to be risk averse about one's altruistic decisions? No. As Carl Schuman [writes](https://80000hours.org/2012/01/salary-or-startup-how-do-gooders-can-gain-more-from-risky-careers/):
 
 > ### What am I going to do with my tenth vaccine? Vaccinate another kid!
-> While Sam’s 10th pair of shoes does him little additional good, a tenth donation can vaccinate a tenth child, or a pay for the work of a tenth scientist doing high impact research such as vaccine development. So long as Sam’s donations don’t become huge relative to the cause he is working on (using up the most efficient donation opportunities) he can often treat a charitable donation of $1,000 as just as worthwhile as a 1 in 10 chance of a $10,000 donation.
+> While Sam’s 10th pair of shoes does him little additional good, a tenth donation can vaccinate a tenth child, or a pay for the work of a tenth scientist doing high impact research such as vaccine development. So long as Sam’s donations don’t become huge relative to the cause he is working on (using up the most efficient donation opportunities) he can often treat a charitable donation of $$1,000 as just as worthwhile as a 1 in 10 chance of a $$10,000 donation.
 
 ## Moral uncertainty
 The EA funds FAQ says that another reason for splitting could be "If you are more uncertain about your values (for example, you think that Animal Welfare and the Long-Term Future are equally important causes)".
@@ -181,39 +181,39 @@ A good reason to split would be if you face diminishing returns. At what margins
 
 ![](/images/diminishing.png)
 
-Suppose there are two charities, whose impact $f$ and $g$ are monotone increasing with monotone decreasing first derivatives. Then you should start splitting at $D$ such that $g'(0)>f'(D)$. 
+Suppose there are two charities, whose impact $$f$$$ and $$g$$ are monotone increasing with monotone decreasing first derivatives. Then you should start splitting at $$D$$ such that $$g'(0)>f'(D)$$. 
 
-If you have $X$, you should donate $X-A$ to charity f and $A$ to charity g such that $g'(A)=f'(X-A)$. 
+If you have $$X$$, you should donate $$X-A$$ to charity f and $$A$$ to charity g such that $$g'(A)=f'(X-A)$$. 
 
-It's generally thought that for small (sub-six-figure) donors, $A=0$, that is, returns aren't diminishing noticeably compared to the difference in cost-effectiveness between charities.
+It's generally thought that for small (sub-six-figure) donors, $$A=0$$, that is, returns aren't diminishing noticeably compared to the difference in cost-effectiveness between charities.
 
 However, many people believe that at the level of the EA community, there should be splitting. What does this imply in the above model?
 
-Let's assume that the EA community moves $X = $100 million$ per year (including Good Ventures). Some people take the view that the best focus area is more than an [order of magnitude](https://concepts.effectivealtruism.org/concepts/variation-in-cost-effectiveness/) more cost-effective than others (although it's not always clear which margin this claim applies to). Under some such view, marginal returns would need to diminish by more than 10 times over the 0-100M range in order to get a significant amount of splitting. To me, this seems intuitively unlikely. (Of course, some areas may have much faster diminishing returns than others[^exemp].) Michael Dickens [writes](http://effective-altruism.com/ea/wr/how_should_a_large_donor_prioritize_cause_areas/#diminishing-utility-over-large-amounts-of-money):
+Let's assume that the EA community moves $$X = $$100 million$$ per year (including Good Ventures). Some people take the view that the best focus area is more than an [order of magnitude](https://concepts.effectivealtruism.org/concepts/variation-in-cost-effectiveness/) more cost-effective than others (although it's not always clear which margin this claim applies to). Under some such view, marginal returns would need to diminish by more than 10 times over the 0-100M range in order to get a significant amount of splitting. To me, this seems intuitively unlikely. (Of course, some areas may have much faster diminishing returns than others[^exemp].) Michael Dickens [writes](http://effective-altruism.com/ea/wr/how_should_a_large_donor_prioritize_cause_areas/#diminishing-utility-over-large-amounts-of-money):
 
-> The US government spends about $6 billion annually on biosecurity5. According to a Future of Humanity Institute survey, the median respondent believed that superintelligent AI was more than twice as likely to cause complete extinction as pandemics, which suggests that, assuming AI safety isn’t a much simpler problem than biosecurity, it would be appropriate for both fields to receive a similar amount of funding. (Sam Altman, head of Y Combinator, said in a Business Insider interview, “If I were Barack Obama, I would commit maybe $100 billion to R&D of AI safety initiatives.”) Currently, less than $10 million a year goes into AI safety research.
+> The US government spends about $$6 billion annually on biosecurity5. According to a Future of Humanity Institute survey, the median respondent believed that superintelligent AI was more than twice as likely to cause complete extinction as pandemics, which suggests that, assuming AI safety isn’t a much simpler problem than biosecurity, it would be appropriate for both fields to receive a similar amount of funding. (Sam Altman, head of Y Combinator, said in a Business Insider interview, “If I were Barack Obama, I would commit maybe $$100 billion to R&D of AI safety initiatives.”) Currently, less than $$10 million a year goes into AI safety research.
 > 
-> Open Phil can afford to spend something like $200 million/year. Biosecurity and AI safety, Open Phil’s top two cause areas within global catastrophic risk, could likely absorb this much funding without experiencing much diminishing marginal utility of money. (AI safety might see diminishing marginal utility since it’s such a small field right now, but if it were receiving something like $1 billion/year, that would presumably make marginal dollars in AI safety “only” as useful as marginal dollars in biosecurity.)
+> Open Phil can afford to spend something like $$200 million/year. Biosecurity and AI safety, Open Phil’s top two cause areas within global catastrophic risk, could likely absorb this much funding without experiencing much diminishing marginal utility of money. (AI safety might see diminishing marginal utility since it’s such a small field right now, but if it were receiving something like $$1 billion/year, that would presumably make marginal dollars in AI safety “only” as useful as marginal dollars in biosecurity.)
 > 
 > To take another approach, let’s look at animal advocacy. Extrapolating from Open Phil’s estimates, its grants on cage-free campaigns are probably about ten thousand times more cost-effective than GiveDirectly (if you don’t heavily discount non-human animals, which you shouldn’t) (more on this later), and perhaps a hundred times better after adjusting for robustness. Since grants on criminal justice reform are not significantly more robust than grants on cage-free campaigns, the robustness adjustments look similar for each, so it’s fair to compare their cost-effectiveness estimates rather than their posteriors.
 > 
-> Open Phil’s estimate for PSPP suggests that cage-free campaigns are a thousand times more effective. If we poured way more money into animal advocacy, we’d see diminishing returns as the top interventions became more crowded, and then less strong interventions became more crowded. But for animal advocacy grants to look worse than grants in criminal justice, marginal utility would have to diminish by a factor of 1000. I don’t know what the marginal utility curve looks like, but it’s implausible that we would hit that level of diminished returns before increasing funding in the entire field of farm animal advocacy by a factor of 10 at least. If I’m right about that, that means we should be putting $100 million a year into animal advocacy before we start making grants on criminal justice reform.
+> Open Phil’s estimate for PSPP suggests that cage-free campaigns are a thousand times more effective. If we poured way more money into animal advocacy, we’d see diminishing returns as the top interventions became more crowded, and then less strong interventions became more crowded. But for animal advocacy grants to look worse than grants in criminal justice, marginal utility would have to diminish by a factor of 1000. I don’t know what the marginal utility curve looks like, but it’s implausible that we would hit that level of diminished returns before increasing funding in the entire field of farm animal advocacy by a factor of 10 at least. If I’m right about that, that means we should be putting $$100 million a year into animal advocacy before we start making grants on criminal justice reform.
 
 I find this line of argument moderately convincing. Therefore, my guess is that people who believe that their preferred focus area is orders of magnitude better than others, should generally also believe that the whole EA community should donate only to that focus area.
 
 [^exemp]: One extreme example would be a disease eradication programme, where returns stay high until they go to zero after eradicaiton has been successful, vs. cash transfers where returns diminish very slowly. 
 
 ## Achieving a community-wide split
-Suppose you do think, for reasons like those described in the previous section, that because of diminishing returns, the community's split should be $A=30%X$. (There may be other reasons to believe this, for instance if the impact of different causes is [multiplicative rather than additive](http://measuringshadowsblog.blogspot.fr/2015/08/multiplicative-factors-in-games-and.html).)
+Suppose you do think, for reasons like those described in the previous section, that because of diminishing returns, the community's split should be $$A=30%X$$. (There may be other reasons to believe this, for instance if the impact of different causes is [multiplicative rather than additive](http://measuringshadowsblog.blogspot.fr/2015/08/multiplicative-factors-in-games-and.html).)
 
 There are two ways that this could lead to you prefer splitting your individual donation: cooperation with other donors, and lack of information.
 
 ### Cooperation with other donors
-Suppose that at time t, before you donate, the communty splits $A_t = 50%X$. You are trying to move the final allocation to $A= 30%X$, so you should donate everything to $f$ (assuming your donation is small relative to the community). If the community's allocation was $A_t = 90%X$, however, you should donate everything to $g$. We can call this view the _single-player perspective_. 
+Suppose that at time t, before you donate, the communty splits $$A_t = 50%X$$. You are trying to move the final allocation to $$A= 30%X$$, so you should donate everything to $$f$$ (assuming your donation is small relative to the community). If the community's allocation was $$A_t = 90%X$$, however, you should donate everything to $$g$$. We can call this view the _single-player perspective_. 
 
 From this perspective, it's very important to find out what the community's current allocation is, since this completely changes how you should act.
 
-But now suppose that there other donors, who also use the single-player perspective. For the sake of simplicity we can assume they also believe the correct community-wide split is $A= 30%X$[^extension]. The following problem occurs:
+But now suppose that there other donors, who also use the single-player perspective. For the sake of simplicity we can assume they also believe the correct community-wide split is $$A= 30%X$$[^extension]. The following problem occurs:
 
 > Everyone is encouraged to spend a lot of time looking into current margins, to work out what the best cause is. Worse, if the community as a whole is being close to efficient in allocation, in fact what is best at the margin changes a whole lot as things scale up, and probably isn’t much better than second- or third-best thing. This means that it’s potentially lots of work to form a stable view on where to give, and it doesn’t even matter that much.[^owen]
 
@@ -228,9 +228,9 @@ From a rule-consequentialist perspective, you should cooperate in prisonner's di
 Even if we find rule-consequentialism unconvincing, act-consequentialism would still recommend investing resources to make it more likely that the community as a whole cooperates. This could include publicly advocating for the cooperative perspective, or getting a group of high-profile EA donors to promise to cooperate amongst themselves.
 
 ### Lack of information
-Suppose information about the community's split was impossible or prohibitively expensive to come by. Then someone using the single-player perspective would have to rely on their priors. One reasonable-sounding prior would be one that is symmetrical on either side of $A_t=30%X$, or otherwise has the expected value $A_t=30%X$. This prior assumes that given no information about where others are donating, they are equally likely to collectively undershoot as to overshoot their preferred community-wide split. 
+Suppose information about the community's split was impossible or prohibitively expensive to come by. Then someone using the single-player perspective would have to rely on their priors. One reasonable-sounding prior would be one that is symmetrical on either side of $$A_t=30%X$$, or otherwise has the expected value $$A_t=30%X$$. This prior assumes that given no information about where others are donating, they are equally likely to collectively undershoot as to overshoot their preferred community-wide split. 
 
-On this prior, the best thing you can do is to donate 70% to $f$ and 30% to $g$. So given some priors, and when there is no information about others' donations, the single-player perspective converges with the cooperative perspective. 
+On this prior, the best thing you can do is to donate 70% to $$f$$ and 30% to $$g$$. So given some priors, and when there is no information about others' donations, the single-player perspective converges with the cooperative perspective. 
 
 ## Remaining open-minded or avoiding confirmation bias
 Because of confirmation bias and consistency effects, donating 100% to one charity may bias us in the direction of believing that this charity is more cost-effective. For example, one GiveWell staff member [writes](http://blog.givewell.org/2015/12/09/staff-members-personal-donations-for-giving-season-2015/)[^more]: 
@@ -273,18 +273,18 @@ f <- data.frame(read_csv("~/split/Anonomized EA Funds donation spreadsheet - Amo
 exchr <- 1.27
 
 # convert everything to usd
-f$dusd <- ifelse(f$Currency=="GBP",exchr*f$Donation.amount,f$Donation.amount)
+f$$dusd <- ifelse(f$$Currency=="GBP",exchr*f$$Donation.amount,f$$Donation.amount)
 
 #naive histogram of allocation percentages
 bseq=seq(0,100,5)
-n <- hist(f$Allocation.percentage, breaks=bseq, freq=FALSE, xlab="Allocation Percentage", main="")
-n_n <- data.frame(bucket=w$breaks[2:length(n$breaks)],prob=(n$counts/sum(n$counts)))
+n <- hist(f$$Allocation.percentage, breaks=bseq, freq=FALSE, xlab="Allocation Percentage", main="")
+n_n <- data.frame(bucket=w$$breaks[2:length(n$$breaks)],prob=(n$$counts/sum(n$$counts)))
 
 
 # weighted histogram
 bseq=seq(0,100,5)
-w <- weighted.hist(f$Allocation.percentage,f$dusd,breaks=bseq,freq = FALSE, xlab="Allocation Percentage", ylab = "Density, weighted by donation size")
-w_n <- data.frame(bucket=w$breaks[2:length(w$breaks)],prob=(w$counts/sum(w$counts)))
+w <- weighted.hist(f$$Allocation.percentage,f$$dusd,breaks=bseq,freq = FALSE, xlab="Allocation Percentage", ylab = "Density, weighted by donation size")
+w_n <- data.frame(bucket=w$$breaks[2:length(w$$breaks)],prob=(w$$counts/sum(w$$counts)))
 
 #user totals
 f <- ddply(f,.(UserID),transform,usersum=sum(dusd))
@@ -294,15 +294,15 @@ u <- ddply(u,.(UserID),transform,usersum=sum(dusd))
 f <- ddply(f,.(UserID, Fund.Name),transform,usersum_fund=sum(dusd))
 
 # fundfrac
-f$fundfrac <- f$usersum_fund/f$usersum
+f$$fundfrac <- f$$usersum_fund/f$$usersum
 
 # remove appropriate duplicates
-f$isdupl <- duplicated(f[,c(2,5)])
+f$$isdupl <- duplicated(f[,c(2,5)])
 f2 <- subset(f, isdupl == FALSE)
 
 # weighted histogram of fundfrac
-z <- weighted.hist(f2$fundfrac,f2$usersum_fund,breaks=bseq/100,freq = FALSE, xlab="Fund fraction (per user)", ylab = "Density, weighted by fund sum (per user)")
-z_n <- data.frame(bucket=z$breaks[2:length(z$breaks)],prob=(z$counts/sum(z$counts)))
+z <- weighted.hist(f2$$fundfrac,f2$$usersum_fund,breaks=bseq/100,freq = FALSE, xlab="Fund fraction (per user)", ylab = "Density, weighted by fund sum (per user)")
+z_n <- data.frame(bucket=z$$breaks[2:length(z$$breaks)],prob=(z$$counts/sum(z$$counts)))
 ```
 
 ---
