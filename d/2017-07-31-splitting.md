@@ -302,3 +302,5 @@ f2 <- subset(f, isdupl == FALSE)
 z <- weighted.hist(f2$fundfrac,f2$usersum_fund,breaks=bseq/100,freq = FALSE, xlab="Fund fraction (per user)", ylab = "Density, weighted by fund sum (per user)")
 z_n <- data.frame(bucket=z$breaks[2:length(z$breaks)],prob=(z$counts/sum(z$counts)))
 ```
+
+---
