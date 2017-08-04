@@ -33,11 +33,11 @@ These two quotes, I think, overstate how often checking for yourself[^clarif] is
 [^clarif]: In this post, I use "checking for yourself", "thinking for yourself", "thinking and learning", etc., as a stand-in for anything that helps evaluate the truth-value of the "good argument" node in Yudkowsky's diagram. This could include gathering empirical evidence, checking arguments and proofs, as well as acquiring the skills necessary to do this.
 
 # Ain't nobody got time for arguments
-Suppose you were trying to decide which diet is best for your long-term health. The majority of experts believe that the Paleo diet is better than the Neo diet. To simplify, we can assume that either Paleo provides $V$ units more utility than Neo, or vice versa. The cost of research is $C$. If you conduct research, you act according to your conclusions, otherwise, you do what the experts recommend. We can calculate the expected value of research using this value of information diagram:
+Suppose you were trying to decide which diet is best for your long-term health. The majority of experts believe that the Paleo diet is better than the Neo diet. To simplify, we can assume that either Paleo provides $$V$$ units more utility than Neo, or vice versa. The cost of research is $$C$$. If you conduct research, you act according to your conclusions, otherwise, you do what the experts recommend. We can calculate the expected value of research using this value of information diagram:
 
 ![](/images/authority.png)
 
-$EV(research)$ simplifies to $Vpq-Vkp+Vk-C$. 
+$$EV(research)$$ simplifies to $$Vpq-Vkp+Vk-C$$. 
 
 If we suppose that
 * the probability that the experts are correct is $$p	= 0.75$$
