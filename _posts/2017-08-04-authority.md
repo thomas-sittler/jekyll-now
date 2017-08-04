@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Why we don't like arguments from authority'
+title: 'Why don\'t we like arguments from authority?'
 ---
 
 # A tension between bayesiansim and intuition
