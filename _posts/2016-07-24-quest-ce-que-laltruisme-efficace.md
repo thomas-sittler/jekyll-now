@@ -6,8 +6,8 @@ author: thomassittler
 comments: true
 categories: [Altruisme Efficace]
 ---
-<img class="alignnone size-full wp-image-43" src="https://thomassittler.files.wordpress.com/2016/07/dsc_0853-2.jpg"/> 
 
+![](/images/lancement_aef.jpg)
 Evénement de lancement de l'association <a href="http://altruismeefficacefrance.org/">Altruisme Efficace France</a>, à Paris le 5 juillet 2016
 
 <h1>Qu’est-ce que l’altruisme efficace ?</h1>
