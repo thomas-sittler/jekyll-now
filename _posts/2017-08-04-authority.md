@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why don\'t we like arguments from authority?"
+title: "Why don't we like arguments from authority?"
 ---
 
 # A tension between bayesiansim and intuition
@@ -8,7 +8,15 @@ When considering arguments from authority, there would appear to be a tension be
 
 Yet we feel that there would be something wrong about someone who entirely gave up on learning and thinking, in favour the far more efficient method unquestionably adopting all expert views. Personally, I still feel embarassed when, in conversation, I am forced to say "I believe X because Very Smart Person Y said it". 
 
-And it's not just that we think it unvirtuous. We strongly associate arguments from authority with irrationality. Scholastic philosophy went down a blind alley by worshipping the authority of Aristotle. We think there is something _espistemicaly_ superior about thinking for yourself, enough to justify the effort, at least sometimes. 
+And it's not just that we think it unvirtuous. We strongly associate arguments from authority with irrationality. Scholastic philosophy went down a blind alley by worshipping the authority of Aristotle. We think there is something _espistemicaly_ superior about thinking for yourself, enough to justify the effort, at least sometimes.[^dc]
+
+[^dc]: 
+    This is importantly different from another concern about updating based on other people's beliefs, that of double counting evidence or evidential overlap. Amanda Askell [writes](http://www.rationalreflection.net/transmitting-credences-and-transmitting-evidence/): "suppose that as I’m walking down the street I meet six people in a row who all tell me that a building four blocks away is on fire. I reasonably assume that some of these six people have seen the fire themselves or that they’ve heard that there’s a fire from different people who have seen it. I conclude that I’ve got good testimonial evidence that there’s a fire four blocks away. But suppose that none of them have seen the fire: they’ve all just left a meeting in which a charismatic person Bob told them that there is a fire four blocks away. If I knew that there wasn’t actually any more evidence for the fire claim than Bob’s testimony, I would not have been so confident that there’s a fire four blocks away.
+    
+    In this case, the credence that I ended up with was based on the testimony of those six people, which I reasonably assumed represented a diverse body of evidence. This means that anyone asking me what makes me confident that there’s a fire will also receive misleading evidence that there’s a diverse body of evidence for the fire claim. This is a problem of evidential overlap: when several people independently tell me that they have some credence in P, I have a reasonable prior about how much overlap there is in their evidence. But in cases like the one above, that prior is incorrect."
+
+    The problem of evidential overlap stems from reasonable-seeming but incorrect priors about the truth of a proposition, conditional on (the conjunction of) various testimonies. The situations I want to talk about concern agents with entirely correct priors, who update on testimony the adequate Bayesian amount. In my case the ideal Bayesian behaves counterintuitively, in Amanda's example, Bayesianism and intuition agree since bad priors lead to bad beliefs. 
+
 
 # Argument screens of authority
 Eliezer Yudkowsky has an excellent post, ["Argument screens off authority"](http://lesswrong.com/lw/lx/argument_screens_off_authority/), about this issue. You should read it to understand the rest of my post, which will be an extension of it.
