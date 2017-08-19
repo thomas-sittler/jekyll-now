@@ -2,21 +2,11 @@
 layout: default
 ---
 
-<script type="text/javascript" async
-  src="https://cdn.rawgit.com/thomas-sittler/MathJax/master/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
 <div class="posts">
+  <ul style="list-style-type:square">
+ 
   {% for post in site.posts %}
-    <article class="post">
-
-      <h1 class=homepage-title><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-        
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>      </div>
-
-  </article>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><br></li>
   {% endfor %}
+  </ul>
 </div>
