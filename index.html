@@ -3,7 +3,10 @@ layout: default
 ---
 
 <div class="posts">
+  <ul style="list-style-type:square">
+ 
   {% for post in site.posts %}
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><br>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><br></li>
   {% endfor %}
+  </ul>
 </div>
