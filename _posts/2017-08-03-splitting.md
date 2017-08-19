@@ -152,7 +152,8 @@ Sometimes being (very) uncertain about which donation opportunity is best is pre
 
 High uncertainty is only a reason to split or diversify if one is [risk averse](https://en.wikipedia.org/wiki/Risk_aversion). Is it sensible to be risk averse about one's altruistic decisions? No. As Carl Schulman [writes](https://80000hours.org/2012/01/salary-or-startup-how-do-gooders-can-gain-more-from-risky-careers/):
 
-> ### What am I going to do with my tenth vaccine? Vaccinate another kid!
+> **What am I going to do with my tenth vaccine? Vaccinate another kid!**
+>
 > While Sam’s 10th pair of shoes does him little additional good, a tenth donation can vaccinate a tenth child, or a pay for the work of a tenth scientist doing high impact research such as vaccine development. So long as Sam’s donations don’t become huge relative to the cause he is working on (using up the most efficient donation opportunities) he can often treat a charitable donation of $1,000 as just as worthwhile as a 1 in 10 chance of a $10,000 donation.
 
 ## Moral uncertainty
