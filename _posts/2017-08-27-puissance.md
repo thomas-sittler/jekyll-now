@@ -3,6 +3,8 @@ layout: post
 title: 'Extrême pauvreté: les surprenantes lois de puissance du don efficace'
 ---
 
+_Inspiré d'un [billet](https://www.jefftk.com/p/the-unintuitive-power-laws-of-giving) de Jeff Kaufman_
+
 J'ai pour la première fois découvert l'altruisme efficace à travers le [plaidoyer](https://livre.fnac.com/a2607837/Peter-Singer-Sauver-une-vie) de Peter Singer pour une approche stratégique à la lutte contre la pauvreté. 
 
 S’il me fallait résumer la force de ses arguments en une seule image, ce serait avec la juxtaposition ces deux graphiques.
