@@ -35,7 +35,7 @@ Le second graphique montre le rapport coût-efficacité de 108 interventions de 
 
 Ces calculs de QALYs servent avant tout d'exemple illustratif. Ils soulignent l'importance de la quantification et l'utilité d'une mesure d'impact standardisée. L'altruisme efficace ne se limite pourtant pas aux calculs de QALYs, loin s'en faut. Dès qu'il s'agit de comparer des interventions en-dehors du domaine de la médecine ou de la santé publique, [d'autres méthodes](/_posts/2016-07-24-quest-ce-que-laltruisme-efficace.md) s'imposent, et sont fréquemment utilisées.[^eg]
 
-[^who]:  http://www.who.int/quantifying_ehimpacts/publications/en/9241546204chap3.pdf
+[^who]:  [Organisation Mondiale de la Santé](http://www.who.int/quantifying_ehimpacts/publications/en/9241546204chap3.pdf)
 
 [^qaly]: 
     Les pondérations expriment la moyenne des préférences exprimées par les patients. Il y a plusieurs méthodes pour les mesurer, mais la plus commune consiste à demander aux patients de choisir s’ils préfèrent rester en vie avec une certaine maladie pendant une période donnée, ou vivre moins longtemps mais dans un état de santé parfaite (Torrance, George E. (1986). "[Measurement of health state utilities for economic appraisal: A review](https://drive.google.com/open?id=0B16cnVspvUSLaW0ySFQwXzFCR1U)". Journal of Health Economics. 5: 1–30). Cette méthode présente certains désavantages, mais les systèmes de santé sont de toute façon obligés de hiérarchiser les maladies pour faire le meilleur usage de leur budget limité, et le QALY est pour l’instant l’outil de plus utilisé.
