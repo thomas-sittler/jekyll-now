@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Path Appears Book Review
+title: _A Path Appears_ Book Review
 date: 2015-07-01 07:00
 author: thomassittler
 comments: true
