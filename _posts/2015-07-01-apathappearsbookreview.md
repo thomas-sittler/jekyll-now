@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _A Path Appears_ Book Review
+title: <i>A Path Appears</i> Book Review
 date: 2015-07-01 07:00
 author: thomassittler
 comments: true
