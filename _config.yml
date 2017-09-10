@@ -55,6 +55,28 @@ baseurl: ""
 
 permalink: /:title/
 
+# prose.io entries
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://thomas-sittler.github.io/'
+  # relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'media'
+  metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
