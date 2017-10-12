@@ -75,7 +75,8 @@ This is technically too early to evaluate, but we are pessimistic about it: we d
 
 This goal was a major factor in our decisions of which applicants to admit to the project. We selected several people who had less experience with EA topics, but who were interested and talented, in order to increase our chance of achieving this sub-goal. In retrospect, this was clearly a mistake, since getting these people up to speed proved far more difficult than we expected, and we still don’t think we had a counterfactual impact on their careers. Looking back, we recognise that there was some evidence for this that we interpreted incorrectly at the time, so we made a mistake in expectation, but not an obvious one.
 
-As often, we suspect the impact in this category was extremely skewed across individuals. While we think we had no impact on most members, we think there is a small (<5%)[^probguess] chance that we have counterfactually changed the interests and abilities of one team member, such that this person will in the future work in global priorities research. 
+As often, we suspect the impact in this category was extremely skewed across individuals. While we think we had no impact on most members, we think there is a small (<5%)[^probguess] chance that we have counterfactually changed the interests and abilities of one team member, such that this person will in the future work in global priorities research.
+
 [^probguess]:Tom’s guess: 15% chance this person goes into prioritisation research. Conditional on him or her doing so, a ~30% chance we caused it.
 
 ### 3: Training for earn-to-givers
