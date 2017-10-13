@@ -1,0 +1,89 @@
+---
+layout: post
+title: "Fighting the evil influence of Facebook: a manifesto and how-to guide"
+---
+
+![](/images/smbc.png)
+From [SMBC-comics.com](www.smbc-comics.com/comic/the-pleasure-button)
+
+_Note: In a fit of pure indulgence, I began this essay with the manifesto bit, 1400 words where I rage against certain shades of red and criticise Norvegian studies. You might justifiably prefer to skip straight to the [how-to-guide](#v)._ 
+# I.
+Every day, 10,000 versions of Facebook are being A/B tested, with one goal: making you spend more time on the website, and less on life. The shade of red of the notification button, you can be sure, is the result of a ruthless optimisation process in which less addictive hues were terminated. Now, whenever that guy you met at a party three years ago likes one of your comments, the red badge sparks to life and you get to feel, for one second, like a caged rat receiving a joyless orgasm through a wire. This state of affairs has been scientifically determined to be optimal from the point of view of the shareholders of Facebook, Inc.
+
+When Facebook started out, the best way to make users spend more time on the website was to make it more useful to them. Hence for instance photo-sharing, events, or messaging. And Facebook is still providing that value, and more. It facilitates what is good about social interaction as well as what is bad. When all these features have exhausted their potential, however, what remains to create marginal increases in engagement is to make the product more addictive.
+
+Facebook has embraced this strategy with tremendous success. When outcomes can be easily measured and experiments are cheap to run, optimisation can proceed very quickly and does not require an understanding of the underlying mechanisms. If you used every nudge the disciplines of psychology and economics have uncovered to make an addictive website, you wouldn't come close to this level of optimality.
+
+# II.
+Okay, I've been theorising a lot. This is the part where I planned to say: "How about some empirical evidence?", hoping to settle the case with any naysayers while showcasing my epistemic virtue. Turns out the studies didn't really agree with me, but instead of changing my mind I doubted the studies.
+
+405 Norwegian university students were [asked](http://journals.sagepub.com/doi/abs/10.2466/02.09.18.PR0.110.2.501-517) how often during the last year they :"(i) Spent a lot of time thinking about Facebook or planned use of
+Facebook?", "(ii) Felt an urge to use Facebook more and more?" or (iii) "Tried to cut down on the use of Facebook without success?". On average they replied that they "rarely" or "very rarely" did so.[^scale]. Among the big five, low conscientiousness predicted higher Facebook usage. Turkish researchers [found](https://sci-hub.cc/https://doi.org/10.1089/cyber.2012.0249) similar results. The time-honoured method of eyeballing standard deviations suggests that maybe 15% of the students report engaging in addictive behaviours "sometimes" or more often. 
+
+[^scale]: Averages were less than 2 on the following scale: 1: Very rarely, 2: Rarely, 3: Sometimes, 4: Often, 5: Very often.
+
+I found these studies a bit underwhelming. Is it really true that failing to cut down on Facebook usage is a "rare" or "very rare" event? That doesn't match what I observe in myself and others around me. Among my peers, checking one's notifications right before and right after a class seems like average behaviour. With lectures and meals, if people don't bother to do so it's because they're often on their phones _during_ the event.
+
+Cal Newport's _Deep Work_[^quot], and the research he discusses, rang far more true to me than the Norwegian and Turkish studies. The finding that students find Facebook only moderately addictive is also in tension with the fact that people with low conscientiousness spend more time on Facebook. (Or maybe everyone out there just has _great_ conscientiousness, thank you very much?). For what it's worth, I'm giving about 50% weight to these peer-reviewed, N>400, 100+-citation studies, and 50% to my intuitive guesses here.
+
+[^quot]:  Typical quote: "every moment of potential boredom in your life—say, having to wait five minutes in line or sit alone in a restaurant until a friend arrives—is relieved with a quick glance at your smartphone."
+
+I can see how this might start to look bad. I'd better get back to pontificating without the nuisance of empirical data.
+
+# III.
+
+I haven't even talked yet about the second of Facebook's harms: social competition. Do you ever feel pain when you see pictures of your friends' amazingly successful and carefree life, socially, romantically, and professionally speaking? I do. Social competition is a zero-sum game, and Facebook is giving us a way to shovel even more of our resources into this pit of destruction. Not only that, but Facebook is unique among dominance-hierarchy tools in giving each user near-complete control over the aspects of their life they choose to show. Everyone spends more time making themselves look good, and also feels like a social failure when comparing their actual life to the airbrushed version of other people's. It's like a massive prisoners' dilemma where 2 billion people constantly defect on each other. Everyone loses, except, of course, Facebook, which collects a smidgen of revenue every time a user posts a photo and makes someone else sad.
+
+This time peer review has valiantly come to my support. One [study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069841&mbid=synd_msnhealth) using experience sampling reports: "The more people used Facebook at one time point, the worse they felt the next time we text-messaged them; the more they used Facebook over two-weeks, the more their life satisfaction levels declined over time." A [study](https://www.ncbi.nlm.nih.gov/pubmed/28093386) on panel data which used objective measures of Facebook use, pulled directly from participants’ Facebook accounts, found that "a 1-standard-deviation increase in likes, links clicked, or status updates was associated with a decrease of 5%-8% of a standard deviation in self-reported mental health".
+
+Okay, but we should be sceptical of differences-in-differences. How about an RCT? I found a few experiments[^exp], and they all show that Facebook usage makes people sadder. This was especially the case for passive use as opposed to active use (posting, messaging, commenting); and envy[^envy] was thought to be a major explanation. I especially liked this [Danish study](http://online.liebertpub.com/doi/full/10.1089/cyber.2016.0259) which asked randomly assigned half of 1095 people to quit facebook for a week (participants claimed 87% compliance!). It found that the quitters were happier,  p < 0.001. The effects were strongest for subjects who reported feeling high levels of envy when browsing Facebook. Sadly, there were strong selection effects since participants were recruited by voluntary sign-up through a link posted on Facebook. 
+
+[^envy]: For much more on envy, see [Krasnova, Hanna, et al. "Envy on Facebook: A hidden threat to users’ life satisfaction?." (2013): 1477-1491](http://www.ara.cat/2013/01/28/855594433.pdf).
+
+[^exp]: 
+    [Tromholt, Morten. "The Facebook experiment: quitting facebook leads to higher levels of well-being." Cyberpsychology, Behavior, and Social Networking 19.11 (2016): 661-666.](http://online.liebertpub.com/doi/full/10.1089/cyber.2016.0259)
+    
+    [Sagioglou, Christina, and Tobias Greitemeyer. "Facebook’s emotional consequences: Why Facebook causes a decrease in mood and why people still use it." Computers in Human Behavior 35 (2014): 359-363.](http://www.sciencedirect.com/science/article/pii/S0747563214001241?via%3Dihub
+    )
+    
+    [Verduyn, Philippe, et al. "Passive Facebook usage undermines affective well-being: Experimental and longitudinal evidence." Journal of Experimental Psychology: General 144.2 (2015): 480.](https://ppw.kuleuven.be/okp/_pdf/Verduyn2015PFUUA.pdf)
+    
+
+# IV.
+To sum up: the raw material of Facebook is information about every player's maneuvers in your local social constellation. Who's up, who's down, who's making allies or enemies with whom, and crucially, who's fucking whom. No wonder your crave this stuff, since the very reason our brains are so big is that they evolved in an arms race to move up in the tribe's hierarchy of sexual success, at least according to [one leading theory](https://www.amazon.co.uk/Mating-Mind-Sexual-Choice-Evolution/dp/0099288249
+). This juicy raw material is then presented in maximally addictive packaging.
+
+If Facebook is so bad for people, why don't they stop using it? A first level of explanation is addictiveness. Just like the human in the comic above, it's perfectly possible for organisms to repeatedly make choices that create more pain in their lives overall, if they receive carefully timed hits of pleasure and relief. At a second level, evolutionary biology tells us that winning the social rat race will be favoured by your genes even if it makes you miserable.
+
+Third are network effects. I have tried to convince you that Facebook causes large harms, but I think it also creates a lot of value. So I would guess that quitting Facebook as an individual, while better than you probably think, could end up not being worth it for many people. But why then don't they switch to a different social network, with all of the benefits and none of the costs? (Perhaps one that makes money from subscription fees, aligning its incentives with yours.) Because of network effects. It's very hard to start a movement to a new network when everyone is already on Facebook.
+
+This brings me to my proposed solution, which fights the evil in Facebook while retaining some of the good. I've been very happy with this trade-off; aggressively pushing back against Facebook use has improved my life. Here is what I've done.
+
+# V.
+
+Facebook has billions of dollars and hundreds of shade-of-red-optimising engineers in this fight. That means you need to bring the big guns too.
+
+The main theme here is: keep valuable sources of information, relentlessly cull everything else.
+
+
+* Install [Delayed Gratification](https://chrome.google.com/webstore/detail/delayed-gratification/ifhndomfnbmggdgodaicfebeggdphlcn?hl=en) in your browser. The key thing here is that the 15-30 second delay gives you a chance to reconsider and close the tab, but since it's only a delay you're not tempted to circumvent the tool.
+* Install [News Feed Eradicator](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en) on your browser. This one is great if you manage to make it to the point where you don't regularly circumvent it. That took me a while, and during that time it wasn't so useful, but now I haven't used the news feed in over a year and it's been the biggest improvement for me.
+* Install [Cold Turkey](https://getcoldturkey.com/#) ([Self-control](https://selfcontrolapp.com/) on Mac). This is some deep-level blocking. You can't circumvent it short of reinstalling the operating system, I think. So start with short experiments. Eventually move on to giving yourself some daily windows to use Facebook, and block it during all other times. I've got it set up so Facebook is accessible between noon and 2pm, and between 6pm and 10pm. Once you've found a schedule you like, the next step is to lock the schedule[^h] for a month or more.
+* Install [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en) and then get the following styles for it:
+  * [Facebook dull notification count](http://userstyles.org/styles/133753)
+  * [Facebook events focus](https://userstyles.org/styles/109511/facebook-events-focus) 
+  * [Facebook hide chat](https://userstyles.org/styles/128439/facebook-hide-chat). Completely stop using facebook.com for chats. Only use [messenger.com](http://messenger.com)
+  * [Facebook post interlude](https://userstyles.org/styles/127266/facebook-post-interlude)
+  * [Facebook: Hide X NEW POSTS on friend grid](https://userstyles.org/styles/138302/facebook-hide-x-new-posts-on-friend-grid) 
+  * _Super-secret advanced tip_: install [Ascetic Monk Mode](https://userstyles.org/styles/141499/z-ascetic-monk-mode) and enable it only for Facebook.com. This one's not a must, and it's a little more radical, but I've been loving it.
+* Delete the Facebook app from your phone. This one should be obvious. (With [buffer](https://play.google.com/store/apps/details?id=org.buffer.android&hl=en) you can still post from your phone)
+* Set the messenger app notifications on your phone to always be silent
+* On the messenger app, whenever someone posts to "my day", long-press their name and tap "hide". Ruthlessness is key here.
+
+[^h]:In Cold Turkey, it's Settings -> Lock schedule
+
+I think that's all I have. Good luck! ⚔️
+ 
+
+<!-- <hr> to be added before footnotes-->
+---
