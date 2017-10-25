@@ -55,7 +55,7 @@ In addition to these give object-level goals, a sixth goal:
 1. The value of information of the Oxford Prioritisation Project  
 *Much of the expected impact of the Project comes from discovering whether this kind of project project can work, and whether it can be replicated in local groups around the world in order to get the object-level impacts many times over*
 
-### 1: Publish online documents detailing concrete prioritisation reasoning
+### Publish online documents detailing concrete prioritisation reasoning (1)
 
 Quantity-wise, this goal was achieved. We published 38 blog posts, including individuals describing their current views, minor technical contributions to bayesian probability theory, discussion transcripts and, most importantly, quantitative models.
 
@@ -67,7 +67,7 @@ Though we did not expect to break major new conceptual ground in prioritisation 
 
 [^wc]: A useful distinction is between ‘considerations’-type arguments and ‘weighing’-type arguments. Considerations-type arguments contain new facts or reasoning that should shift our views, other things being equal, in a certain direction. Sometimes, in addition to the direction of the shift, these arguments give an intuitive idea of its magnitude. Weighing-type arguments, on the other hand, take existing considerations and use them to arrive at an all-things-considered view. The magnitude of different effects is explicitly weighed. Considerations-type arguments involve fewer questionable judgement calls and more conceptual novelty, which is one reason we believe they are oversupplied relative to weighing-type arguments. While Tom believed this sufficiently strongly to contribute to motivating him to launch the Project, we both agree that this is something reasonable people can disagree about. On a draft of this piece, Max Dalton wrote: "They also tend to produce shifts in view that are less significant, both in the sense of less revolutionary, and in the sense of the changes tending to have less impact. This is partly because weighing-type arguments are more commonly used in cases where you're picking between two good options. Because I think weighing-type arguments tend to be lower-impact, I'm not sure I agree with your conclusion. My view here is pretty low-resilience."
 
-### 2: Prioritisation researchers
+### Prioritisation researchers (2)
 
 This is technically too early to evaluate, but we are pessimistic about it: we do not think the project caused any member who otherwise would not have considered it to now consider prioritisation research as a career[^car]. This is based on impressions of, and conversations with, members.
 
@@ -79,15 +79,15 @@ As often, we suspect the impact in this category was extremely skewed across ind
 
 [^probguess]:Tom’s guess: 15% chance this person goes into prioritisation research. Conditional on him or her doing so, a ~30% chance we caused it.
 
-### 3: Training for earn-to-givers
+### Training for earn-to-givers (3)
 
 This was not achieved, for two reasons. While at the outset, we believed that there were about 3 team members who might consider earning to give in the future, by the end we think only one of them has a >50% chance of choosing that career path. So even though we provided an opportunity to practice prioritisation thinking, and especially quantitative modelling, we don’t think we had an impact by improving the decisions of future earn-to-givers. Regardless, we believe that this practice failed to increase the prioritisation skill of our team (see previous sections), so we wouldn’t have had impact here anyway.
 
-### 4: Give local groups something to do
+### Give local groups something to do (4)
 
 This goal was achieved. We designed and implemented a new form of object-level group engagement that could theoretically be replicated in other locations. However, it’s debatable whether the cost:benefit ratio of such replications is sufficiently high. See the section: ["Should there be more similar projects? Lessons for replication"](#should-there-be-more-similar-projects-lessons-for-replication)
 
-### 5: Local group epistemics
+### Local group epistemics (5)
 
 This goal was not achieved. 
 
@@ -113,7 +113,7 @@ The local community was largely indifferent to the Project, as evidenced by an a
 
 Overall we clearly didn’t achieve this goal.
 
-### 6. The value of information of the Oxford Prioritisation Project
+### The value of information of the Oxford Prioritisation Project (6)
 
 This goal was arguably achieved, in the sense that the Project produced several unexpected results which carry important implications for future projects. The information gained included:
 
