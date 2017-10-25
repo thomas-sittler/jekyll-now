@@ -3,10 +3,16 @@ layout: default
 ---
 
 <div class="posts">
-  <ul style="list-style-type:square">
- 
-  {% for post in site.posts %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br><br></li>
-  {% endfor %}
-  </ul>
+
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h1 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
+    <ul style="list-style-type:square">
+    {% assign date = currentdate %}
+  {% endif %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a><br><br></li>
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}
 </div>
