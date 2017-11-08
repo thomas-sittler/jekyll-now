@@ -4,7 +4,7 @@ title: "Why don't we like arguments from authority?"
 ---
 
 # Contents
-{.no_toc}
+{: .no_toc}
 1. toc
 {:toc}
 
