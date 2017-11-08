@@ -4,8 +4,9 @@ title: "Why don't we like arguments from authority?"
 ---
 
 # Contents
+{:no_toc}
 1. toc
-{:toc} 
+{:toc}
 
 # A tension between bayesiansim and intuition
 When considering arguments from authority, there would appear to be a tension between widely shared intuitions about these arguments, and how Bayesianism treats them. Under the Bayesian definition of evidence, the opinion of experts, of people with good track records, even of individuals with a high IQ, is just another source of data. Provided the evidence is equally strong, there is nothing to distinguish it from other forms of inference such as carefully gathering data, conducting experiments, and checking proofs.
