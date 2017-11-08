@@ -17,8 +17,8 @@ And it's not just that we think it unvirtuous. We strongly associate arguments f
 
     The problem of evidential overlap stems from reasonable-seeming but incorrect priors about the truth of a proposition, conditional on (the conjunction of) various testimonies. The situations I want to talk about concern agents with entirely correct priors, who update on testimony the adequate Bayesian amount. In my case the ideal Bayesian behaves counterintuitively, in Amanda's example, Bayesianism and intuition agree since bad priors lead to bad beliefs. 
 
-
-# Argument screens of authority
+# Attempting to reconcile the tension
+## Argument screens of authority
 Eliezer Yudkowsky has an excellent post, ["Argument screens off authority"](http://lesswrong.com/lw/lx/argument_screens_off_authority/), about this issue. You should read it to understand the rest of my post, which will be an extension of it.
 
 I'll give you the beginning of the post:  
@@ -40,12 +40,12 @@ These two quotes, I think, overstate how often checking for yourself[^clarif] is
 
 [^clarif]: In this post, I use "checking for yourself", "thinking for yourself", "thinking and learning", etc., as a stand-in for anything that helps evaluate the truth-value of the "good argument" node in Yudkowsky's diagram. This could include gathering empirical evidence, checking arguments and proofs, as well as acquiring the skills necessary to do this.
 
-# Ain't nobody got time for arguments
+## Ain't nobody got time for arguments
 Suppose you were trying to decide which diet is best for your long-term health. The majority of experts believe that the Paleo diet is better than the Neo diet. To simplify, we can assume that either Paleo provides $$V$$ units more utility than Neo, or vice versa. The cost of research is $$C$$. If you conduct research, you act according to your conclusions, otherwise, you do what the experts recommend. We can calculate the expected value of research using this value of information diagram:
 
 ![](/images/authority.png)
 
-$$EV(research)$$ simplifies to $$Vpq-Vkp+Vk-C$$. 
+$$EV(research)$$ simplifies to $$Vpq-Vkp+Vk-C$$.  
 
 If we suppose that
 * the probability that the experts are correct is $$p	= 0.75$$
@@ -64,19 +64,38 @@ Still, I would claim that the model is not sufficiently wrong to reverse my main
 
 At least given numbers I find intuitive, this model suggests it's almost never worth thinking independently instead of acting on the views of the best authorities. Perhaps thinking critically should leave me with a hollow feeling in my heart, the feeling of goals ill-pursed? Argument may screen off authority, but in the real world, ain't nobody got time for arguments. More work needs to be done if we want to salvage our anti-authority intuitions in a Bayesian framework.
 
-# Free-riding on authority
-My proposed resolution is the following. From a selfish individual's point of view, V is small. But not so for a group.
 
-Assuming that others can see when you pay the cost to acquire evidence, they come to see you as an authority, to some degree. Every member of the group thus updates their beliefs slighly based on your research, in expectation moving towards the truth. 
+
+## Free-riding on authority?
+Here's one attempt to do so. From a selfish individual's point of view, V is small. But not so for a group.
+
+Assuming that others can see when you pay the cost to acquire evidence, they come to see you as an authority, to some degree. Every member of the group thus updates their beliefs slightly based on your research, in expectation moving towards the truth. 
 
 More importantly, the value of the four outcomes from the diagram above can differ drastically under this model. In particular, the value of correctly overturning the expert consensus can be tremendous. If you publish your reasoning, the experts who can understand it may update strongly towards the truth, leading the non-experts to update as well.
 
 It is only if we consider the positive externalities of knowledge that eschewing authority becomes rational. For selfish individuals, it is rational to free-ride on expert opinion. This suggests that our aversion to arguments from authority can partially be explained as the epistemic analogue of our dislike for free-riders. 
 
-This analysis suggests several additional conclusions:
-* Most learning and thinking is not done to personally acquire more accurate beliefs. It may be out of altruism, for fun, to signal intelligence, or to receive status in a community that rewards discoveries, like academia.
-* If the majority of the value of research is altruistic value, and is realised through changing the views of others, this may lead you to: (i) choose questions that are action-guiding for many people, even if they are not for you (ii) present your conclusions in a particularly accessible format. 
+This analysis also suggests that most learning and thinking is not done to personally acquire more accurate beliefs. It may be out of altruism, for fun, to signal intelligence, or to receive status in a community that rewards discoveries, like academia.
+
+Is the free-riding account of our anti-authority intuitions accurate? In a previous version of this essay, I used to think so. But David Moss commented:
+
+> Even in a situation where an individual is the only non-expert, say there are only five other people and they are all experts, I think the intuition against deferring to epistemic authority would remain strong. Indeed I expect it may be even stronger than it usually is. Conversely, in a situation where there are many billions of non-experts all deferring to only a couple of experts, I expect the intuition against deferring would remain, though likely be weaker. This seems to count against the intuition being significantly driven by positive epistemic externalities.
+
+This was a great point, and largely changed my mind. (Although I would ideally like to get more data on people's intuitions about such cases.)
+
+# What to do?
+So it looks like the common-sense intuitions against authority are hard to salvage. Yet this empirical conclusion does not imply that, normatively, we should entirely give up on learning and thinking. 
+
+Instead the cost-benefit analysis above offers a number of normative insights:
+* The majority of the value of research is altruistic value, and is realised through changing the minds of others. This may lead you to: (i) choose questions that are action-guiding for many people, even if they are not for you (ii) present your conclusions in a particularly accessible format. 
 * Specialisation is beneficial. It is an efficient division of labour if each person acquires knowledge in one field, and everyone accepts the authority of the specialists over their magisterium.
 * Reducing C can have large benefits for an epistemic community by allowing far more people to cheaply verify arguments. This could be one reason formalisation is so useful, and has tended to propel formal disciplines towards fast progress. To an idealised solitary scientist, translating into formal language arguments he already knows with high confidence to be sound may seem like a waste of time. But the benefit of doing so is that it replaces intuitions others can't duplicate without thirty years of experience with inferential steps that they can check mechanically with a "dumb" algorithm.
+
+A few months after I wrote the first version of this piece, Grew Lewis [wrote](http://effective-altruism.com/ea/1g7/in_defence_of_epistemic_modesty/) (my emphasis):
+> Modesty could be parasitic on a community level. If one is modest, one need never trouble oneself with any ‘object level’ considerations at all, and simply cultivate the appropriate weighting of consensuses to defer to. If everyone free-rode like that, no one would discover any new evidence, have any new ideas, and so collectively stagnate. Progress only happens if people get their hands dirty on the object-level matters of the world, try to build models, and make some guesses - sometimes the experts have gotten it wrong, and one won’t ever find that out by deferring to them based on the fact they usually get it right. 
+> 
+> The distinction between ‘credence by my lights’ versus ‘credence all things considered’ allows the best of both worlds. One can say ‘by my lights, P’s credence is X’ yet at the same time ‘all things considered though, I take P’s credence to be Y’. **One can form one’s own model of P, think the experts are wrong about P, and marshall evidence and arguments for why you are right and they are wrong; yet soberly realise that the chances are you are more likely mistaken; yet also think this effort is nonetheless valuable because even if one is most likely heading down a dead-end, the corporate efforts of people like you promises a good chance of someone finding a better path.**
+
+I probably agree with Greg here; and I believe that the bolded part was a crucial and somewhat overlooked part of his [widely-discussed essay](http://effective-altruism.com/ea/1g7/in_defence_of_epistemic_modesty/). While Greg believes we should form our credences entirely based on authority, he also believes it can be valuable to deeply explore object-level questions. The much more difficult question is how to navigate this trade-off, that is, how to decide when it's worth investigating an issue.
 
 ---
