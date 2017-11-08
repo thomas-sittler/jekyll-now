@@ -12,6 +12,7 @@ To discuss this document, please go to the [effective altruism forum](http://eff
 The [Oxford Prioritisation Project](https://oxpr.io/) was a research group between January and May 2017. The team conducted research to allocate £10,000 in the most impactful way, and published all our work on our [blog](https://oxpr.io/blog/). Tom Sittler was the Project’s director and Jacob Lagerros was its secretary, closely supporting Tom. This document is our (Jacob and Tom’s) in-depth review and impact evaluation of the Project. Our main conclusions are that the Project was an exciting and ambitious experiment with a new form of EA volunteer work. Although its impact fell short of our expectations in many areas, we learned an enormous amount and produced useful quantitative models.
 
 # Contents
+{: .no_toc}
 1. toc
 {:toc}
 
