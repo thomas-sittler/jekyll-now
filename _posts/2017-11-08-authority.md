@@ -86,12 +86,12 @@ Is the free-riding account of our anti-authority intuitions accurate? In a previ
 
 > Even in a situation where an individual is the only non-expert, say there are only five other people and they are all experts, I think the intuition against deferring to epistemic authority would remain strong. Indeed I expect it may be even stronger than it usually is. Conversely, in a situation where there are many billions of non-experts all deferring to only a couple of experts, I expect the intuition against deferring would remain, though likely be weaker. This seems to count against the intuition being significantly driven by positive epistemic externalities.
 
-This was a great point, and largely changed my mind. (Although I would ideally like to get more data on people's intuitions about such cases.)
+This was a great point, and convinced me that at the very least, the free-riding picture can't fully explain our anti-authority intuitions. However, my intuitions about more complicated cases like David's are quite unstable; and at this point my intuitions are heavily influenced by bayesian theory as well. So it would be interesting to get more thoughtful people's intuitions about such cases.
 
 # What to do?
-So it looks like the common-sense intuitions against authority are hard to salvage. Yet this empirical conclusion does not imply that, normatively, we should entirely give up on learning and thinking. 
+It looks like the common-sense intuitions against authority are hard to salvage. Yet this empirical conclusion does not imply that, normatively, we should entirely give up on learning and thinking. 
 
-Instead the cost-benefit analysis above offers a number of normative insights:
+Instead the cost-benefit analysis above offers a number of slightly different normative insights:
 * The majority of the value of research is altruistic value, and is realised through changing the minds of others. This may lead you to: (i) choose questions that are action-guiding for many people, even if they are not for you (ii) present your conclusions in a particularly accessible format. 
 * Specialisation is beneficial. It is an efficient division of labour if each person acquires knowledge in one field, and everyone accepts the authority of the specialists over their magisterium.
 * Reducing C can have large benefits for an epistemic community by allowing far more people to cheaply verify arguments. This could be one reason formalisation is so useful, and has tended to propel formal disciplines towards fast progress. To an idealised solitary scientist, translating into formal language arguments he already knows with high confidence to be sound may seem like a waste of time. But the benefit of doing so is that it replaces intuitions others can't duplicate without thirty years of experience with inferential steps that they can check mechanically with a "dumb" algorithm.
