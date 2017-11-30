@@ -6,9 +6,5 @@ title: testing
 
 force rebuild :)
 
---- <!--test comment-->
-
-asda
-
-<hr>
+<hr> <!--test comment-->
 
