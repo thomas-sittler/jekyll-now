@@ -3,8 +3,7 @@ layout: page
 title: testing
 ---
 
-
-force rebuild :)
+Testing the test. but now?
 
 <hr> <!--test comment-->
 
