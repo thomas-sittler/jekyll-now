@@ -3,7 +3,10 @@ layout: post
 title: "Philosophy success story: predicate logic"
 ---
 
+*This is part of my series on success stories in philosophy. See [this page](/ps) for an explanation of the project and links to other items in the series.*
+
 # Contents
+
 {: .no_toc}
 1. toc
 {:toc}
@@ -155,14 +158,14 @@ Russell's analysis of definite descriptions could have stood on its own as a suc
 As Wikipedia writes:
 > The need for the concept of a limit came into force in the 17th century when Pierre de Fermat attempted to find the slope of the tangent line at a point $$x$$ of a function such as $$f(x)=x^{2}$$. Using a non-zero, but almost zero quantity, $$E$$, Fermat performed the following calculation:
 >
-> 
+>
 > $$ \begin{aligned}
 > slope &= \frac{f(x+E)-f(x)}{E} \\
 > &= \frac{x^2 +2xE + E^2 -x^2}{E} \\
 > &= 2x + E \\
 > &= 2x
 > \end{aligned} $$
-> 
+>
 >
 > The key to the above calculation is that since $$E$$ is non-zero one can divide $$f(x+E)-f(x)$$ by $$E$$, but since $$E$$ is close to $$0$$, $$2x+E$$ is essentially $$2x$$. Quantities such as $$E$$ are called infinitesimals. The problem with this calculation is that mathematicians of the era were unable to rigorously define a quantity with properties of $$E$$ although it was common practice to 'neglect' higher power infinitesimals and this seemed to yield correct results.
 
