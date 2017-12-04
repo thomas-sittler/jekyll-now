@@ -151,7 +151,7 @@ In fact, as John P. Burgess writes:
 ## How predicate logic dissolved the confusion
 Russell's _[On denoting](https://en.wikipedia.org/wiki/On_Denoting)_, as the most famous case of a solved philosophical problem, needs no introduction. (Wikipedia gives a good treatment, and so does Sider's _Logic for Philosophy_, section 5.3.3.)
 
-Russell's analysis of definite descriptions could have stood on its own as a success story. The tools of predicate logic were not, strictly speaking, necessary to arrive at the insight that definite descriptions are existence claims, not referring expressions. In fact it may seem surprising that no-one made this discovery earlier. But as literate people of the 21st century, it can be hard for us to imagine the intellectual poverty of a world without predicate logic. So we must not be too haughty. The most likely conclusion, it seems to me, is that Russell's insight was, in fact, very difficult to achieve without the precision afforded by Frege's logic.
+Russell's analysis of definite descriptions could have stood on its own as a success story. The tools of predicate logic were not, strictly speaking, necessary to discover the two possible interpretations of empty definite descriptions. In fact it may seem surprising that no-one made this discovery earlier. But as literate people of the 21st century, it can be hard for us to imagine the intellectual poverty of a world without predicate logic. So we must not be too haughty. The most likely conclusion, it seems to me, is that Russell's insight was, in fact, very difficult to achieve without the precision afforded by Frege's logic.
 
 # The epsilon-delta definition of a limit
 ## How people were confused
