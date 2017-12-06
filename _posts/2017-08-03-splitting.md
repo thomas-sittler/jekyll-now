@@ -22,7 +22,7 @@ I wanted to study EAs' splitting behaviour more systematically, so I looked at a
 In the following sections, I describe various possible analyses of the data. You can skip to "best approach: user totals" if you just want the bottom line. The R code I used is [in the appendix](#appendix-r-code).
 
 I was given access to a list of every EA funds donation between 2017-03-23 and 2017-06-19. Data on allocation precentages was included. For example, if a donor went to the EA funds website and gave $1000, setting the split to 50% "global health and development" and 50% "long-term future", there would be two entries, each for $500 and with an allocation percentage of 50%. In the following, I call these two entries _EA funds donations_, and the $1000 an _EA funds allocation_. 
- 
+
 ### Naive approach: distribution of allocation percentages
 The simplest analysis is to look at a histogram of the "allocation percentage" variable. The result looks like this[^data1]:
 
@@ -31,7 +31,7 @@ The simplest analysis is to look at a histogram of the "allocation percentage" v
 
 [^data1]: 
     The underlying data are:
-    
+
     allocation percentage bucket	|	probability
     --- | ---
     5%	|	0.088
@@ -62,9 +62,9 @@ I compute a histogram of allocation percentages weighted by donation size. In ot
 
 ![lessnaive](../images/lessnaive.png)
 
-[^data2]:
+[^data2]: 
     The data:
-    
+
     allocation percentage bucket	|	probability
     --- | ---
     5%	|	0.009
@@ -93,18 +93,18 @@ Here, much more of the probability mass is on the right hand side. This means la
 
 But this approach might still be problematic, because it is not invariant to how donors decide to spread their donations across allocations. For instance, suppose we have the following:
 
-Allocation ID | Name | Fund | Allocation % | Donation amount
----| --- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-2 | Alice | Future | 100% | $1000
-1 | Alice | Health | 100% | $1000
-3 | Bob | Health | 50% | $1000
-3 | Bob | Future | 50% | $1000
+| Allocation ID | Name  | Fund   | Allocation % | Donation amount |
+| ------------- | ----- | ------ | ------------ | --------------- |
+| 2             | Alice | Future | 100%         | $1000           |
+| 1             | Alice | Health | 100%         | $1000           |
+| 3             | Bob   | Health | 50%          | $1000           |
+| 3             | Bob   | Future | 50%          | $1000           |
 
-Here, Alice and Bob both split their donations equally between two funds. They merely used the website interface differently: Alice by creating two separate 100% allocations (perhaps on different days), and Bob by creating just one allocation but setting the sliders for each of the funds to 50%.
+Here, Alice and Bob both split their $2000 donations equally between two funds. They merely used the website interface differently: Alice by creating two separate 100% allocations (perhaps the next month), and Bob by creating just one allocation but setting the sliders for each of the funds to 50%.
 
 However, if we used this approach, we would count Alice as not splitting at all. 
 
-It's an open question how much time should elapse between two donations to different charities until it is no longer considered splitting, but rather changing one's mind. In the individual examples I gave above, I took one year. Since we have less than a year of EA funds data, it seems reasonable to consider any donations made to more than one fund as splitting. This is the approach I take in the next section.
+It's an open question how much time should elapse between two donations to different charities until it is no longer considered splitting, but rather changing one's mind. In the individual examples I gave above, I took one month, which seems like a clear case of splitting. Up to a year seems reasonable to me. Since we have less than a year of EA funds data, it's plausible to consider any donations made to more than one fund as splitting. This is the approach I take in the next section.
 
 ### Best approach: user totals
 For each user, I compute:
@@ -115,9 +115,9 @@ This allows me to create a histogram of the fraction of a user total represented
 
 ![best](../images/best.png)
 
-[^data3]:
+[^data3]: 
     The data are:
-    
+
     fraction of user total bucket	|	probability
     --- | ---
     5%	|	0.013
@@ -193,11 +193,11 @@ However, many people believe that at the level of the EA community, there should
 Let's assume that the EA community moves $$X = $100 million$$ per year (including Good Ventures). Some people take the view that the best focus area is more than an [order of magnitude](https://concepts.effectivealtruism.org/concepts/variation-in-cost-effectiveness/) more cost-effective than others (although it's not always clear which margin this claim applies to). Under some such view, marginal returns would need to diminish by more than 10 times over the 0-100M range in order to get a significant amount of splitting. To me, this seems intuitively unlikely. (Of course, some areas may have much faster diminishing returns than others[^exemp].) Michael Dickens [writes](http://effective-altruism.com/ea/wr/how_should_a_large_donor_prioritize_cause_areas/#diminishing-utility-over-large-amounts-of-money):
 
 > The US government spends about $6 billion annually on biosecurity5. According to a Future of Humanity Institute survey, the median respondent believed that superintelligent AI was more than twice as likely to cause complete extinction as pandemics, which suggests that, assuming AI safety isn’t a much simpler problem than biosecurity, it would be appropriate for both fields to receive a similar amount of funding. (Sam Altman, head of Y Combinator, said in a Business Insider interview, “If I were Barack Obama, I would commit maybe $100 billion to R&D of AI safety initiatives.”) Currently, less than $10 million a year goes into AI safety research.
-> 
+>
 > Open Phil can afford to spend something like $200 million/year. Biosecurity and AI safety, Open Phil’s top two cause areas within global catastrophic risk, could likely absorb this much funding without experiencing much diminishing marginal utility of money. (AI safety might see diminishing marginal utility since it’s such a small field right now, but if it were receiving something like $1 billion/year, that would presumably make marginal dollars in AI safety “only” as useful as marginal dollars in biosecurity.)
-> 
+>
 > To take another approach, let’s look at animal advocacy. Extrapolating from Open Phil’s estimates, its grants on cage-free campaigns are probably about ten thousand times more cost-effective than GiveDirectly (if you don’t heavily discount non-human animals, which you shouldn’t) (more on this later), and perhaps a hundred times better after adjusting for robustness. Since grants on criminal justice reform are not significantly more robust than grants on cage-free campaigns, the robustness adjustments look similar for each, so it’s fair to compare their cost-effectiveness estimates rather than their posteriors.
-> 
+>
 > Open Phil’s estimate for PSPP suggests that cage-free campaigns are a thousand times more effective. If we poured way more money into animal advocacy, we’d see diminishing returns as the top interventions became more crowded, and then less strong interventions became more crowded. But for animal advocacy grants to look worse than grants in criminal justice, marginal utility would have to diminish by a factor of 1000. I don’t know what the marginal utility curve looks like, but it’s implausible that we would hit that level of diminished returns before increasing funding in the entire field of farm animal advocacy by a factor of 10 at least. If I’m right about that, that means we should be putting $100 million a year into animal advocacy before we start making grants on criminal justice reform.
 
 I find this line of argument moderately convincing. Therefore, my guess is that people who believe that their preferred focus area is orders of magnitude better than others, should generally also believe that the whole EA community should donate only to that focus area.
