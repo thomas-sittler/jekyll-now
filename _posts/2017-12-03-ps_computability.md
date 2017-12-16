@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Philosophy success story: the analysis of computability"
+title: "Philosophy success story II: the analysis of computability"
 ---
 
 <p style="text-align:right;"> a computing machine is really a logic machine. Its circuits embody

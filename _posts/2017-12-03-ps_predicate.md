@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Philosophy success story: predicate logic"
+title: "Philosophy success story I: predicate logic"
 ---
 
 *This is part of my series on success stories in philosophy. See [this page](/ps) for an explanation of the project and links to other items in the series.*
