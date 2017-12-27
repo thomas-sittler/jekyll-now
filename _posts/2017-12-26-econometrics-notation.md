@@ -172,15 +172,15 @@ $$
 Y_i = \beta_0 + \beta_1 X_i + u_i
 $$
 
-Not as a regression equation, but as a complete causal account of everything causally affecting $$Y$$. (Sometimes the equation is said to describe the _data generating process_, another case of dressing a big implausible claim in sheep's clothing). For example, if there are $$\phi$$ things causally affecting $$Y$$, we have:
+Not as a regression equation, but as a complete causal account of everything causally affecting $$Y$$. (Sometimes the equation is said to describe the _data generating process_, which packs a big claim into an innocuous-sounding phrase). For example, if there are $$\phi$$ things causally affecting $$Y$$, we have:
 
 $$
-Y_i = \beta_0 + \beta_1 X_i + \beta_2A_i + \beta_3 B_i + ... + \beta_\phi \phi_i
+Y_i = \beta_0 + \beta_1 X_i + \beta_2A_i + \beta_3 B_i + ... + \beta_\phi \Omega_i
 $$
 
-We can think of this claim as equivalent to an infinite lists of counterfactuals, giving the potential values of $$Y$$ for every combination of values of the causal factors $$X,A,B...,\phi$$. It also makes the claim that nothing else has a causal effect on $$Y$$ and that the causal effects are the same for every undividual (since there are no $$i$$ subscripts on the betas).[^determinism]
+We can think of this claim as equivalent to an infinite lists of counterfactuals, giving the potential values of $$Y$$ for every combination of values of the causal factors $$X,A,B...,\Omega$$. It also makes the claim that nothing else has a causal effect on $$Y$$ and that the causal effects are the same for every individual (since there are no $$i$$ subscripts on the betas).[^determinism]
 
-[^determinism]: if we think the world is non-deterministic, the claim becomes $$Y_i = \beta_0 + \beta_1 X_i + \beta_2A_i + \beta_3 B_i + ... + \beta_\phi \phi_i + \varepsilon_i$$, where $$\varepsilon_i$$ are $$i$$ random variables, and we have a list of counterfactuals giving the potential _distributions_ of $$Y$$ for every combination of values of the causal factors.
+[^determinism]: If we think the world is non-deterministic, the claim becomes $$Y_i = \beta_0 + \beta_1 X_i + \beta_2A_i + \beta_3 B_i + ... + \beta_\phi \Omega_i + \varepsilon_i$$, where $$\varepsilon_i$$ are random variables, and we have a list of counterfactuals giving the potential _distributions_ of $$Y$$ for every combination of values of the causal factors. (I'm not super sure about this).
 
 That's a rather huge claim. In any realistic case, causal chains are incredibly long and entangled, so that basically everything affects everything else in some small way. So the claim often amounts to an entire causal model of the world.
 
