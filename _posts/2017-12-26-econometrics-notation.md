@@ -133,7 +133,7 @@ Stock and Watson, p. 187 (Claim C):
 
 This quote is the biggest culprit. After many conversations, I finally understood that we're supposed to take the quote to mean:
 
-> The OLS estimators, $$\hat{\beta_0}$$ and $$\hat{\beta_1}$$ are the values of $$b_0$$ and $$b_1$$ that minimise $$\sum_{i=1}^j (Y^{sample}_i - b_0 - b_1 X^{sample}_i)^2$$, where $$j$$ is the number of observations in the sample ($$j<n$$ if $$n$$ is the sample size) and  $$Y^{sample}_i$$ and $$X^{sample}_i$$ are the $$i$$th values in the sample.
+> The OLS estimators, $$\hat{\beta_0}$$ and $$\hat{\beta_1}$$ are the values of $$b_0$$ and $$b_1$$ that minimise $$\sum_{i=1}^j (Y^{sample}_i - b_0 - b_1 X^{sample}_i)^2$$, where $$j$$ is the number of observations in the sample ($$j<n$$ if $$n$$ is the population size) and  $$Y^{sample}_i$$ and $$X^{sample}_i$$ are the $$i$$th values in the sample.
 
 I swear, I'm not taking this quote out of context! Nowhere, in the entire textbook, would you find a clue that the $$X_i$$ and $$Y_i$$ in claim C are _completely different quantities_ than $$X_i$$ and $$Y_i$$ in claim A. This is criminal negligence. (I'm also not cherry-picking. My lecture notes cheerfully call $$\hat{\beta_0}$$ and $$\hat{\beta_1}$$ the 'OLS' solutions, and this usage is standard.)
 
