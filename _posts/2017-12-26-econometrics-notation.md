@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adventures in econometricland
+title: Econometric adventures
 date: 2017-12-26 22:43
 ---
 
