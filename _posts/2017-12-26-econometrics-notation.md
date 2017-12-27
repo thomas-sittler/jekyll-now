@@ -109,7 +109,7 @@ Two things to note about the facts above.
 * Whether we are using real numbers of random variables does not matter for anything we've said so far. All we have used are the expectation and summation operators and their properties. Textbooks often warn about the important distinction between the sample and the population, but as far as these algebraic facts are concerned the difference is immaterial!
 * I have not used "hat" notation (as in $$\hat{\beta}$$). Instead I have described the results of optimisation procedures carefully using words, like "the solution to this minimisation problem is ...". The way standard econometrics uses the hat is a good example of obfuscatory notation.
 
-# The hermeneutics (I)
+# Hermeneutics I: the hat symbol
 ## Inconsistent hats
 Econometrics textbooks, within the same sentence or paragraph, routinely use the hat in two ways which seem to me to be incompatible.
 
@@ -153,6 +153,7 @@ So _even if_ we amend claim C as I've done above, we still can't say that the ha
 
 # Inconsistent causal language
 Here is an entirely separate category of wrongdoing. In all of the above we have taken the statement
+
 $$
 Y_i = \beta_0 + \beta_1 X_i + u_i
 $$
@@ -166,6 +167,7 @@ In keeping with the above structure, I'll start by clearly stating the causal cl
 ## The causal claim
 
 We think of
+
 $$
 Y_i = \beta_0 + \beta_1 X_i + u_i
 $$
@@ -176,16 +178,16 @@ $$
 Y_i = \beta_0 + \beta_1 X_i + \beta_2A_i + \beta_3 B_i + ... + \beta_\phi \phi_i
 $$
 
-We can think of this claim as equivalent to an infinite lists of counterfactuals, giving the potential values of $$Y$$ for every combination of values of the causal factors $$X,A,B...,\phi$$. It also makes the claim that nothing else has a causal effect on $$Y$$.
+We can think of this claim as equivalent to an infinite lists of counterfactuals, giving the potential values of $$Y$$ for every combination of values of the causal factors $$X,A,B...,\phi$$. It also makes the claim that nothing else has a causal effect on $$Y$$ and that the causal effects are the same for every undividual (since there are no $$i$$ subscripts on the betas).[^determinism]
 
-(if we think the world is non-deterministic, the claim becomes $$Y_i = \beta_0 + \beta_1 X_i + \beta_2A_i + \beta_3 B_i + ... + \beta_\phi \phi_i + \varepsilon_i$$, where $$\varepsilon_i$$ are $$i$$ random variables, and we have a list of counterfactuals giving the potential _distributions_ of $$Y$$ for every combination of values of the causal factors.)
+[^determinism]: if we think the world is non-deterministic, the claim becomes $$Y_i = \beta_0 + \beta_1 X_i + \beta_2A_i + \beta_3 B_i + ... + \beta_\phi \phi_i + \varepsilon_i$$, where $$\varepsilon_i$$ are $$i$$ random variables, and we have a list of counterfactuals giving the potential _distributions_ of $$Y$$ for every combination of values of the causal factors.
 
 That's a rather huge claim. In any realistic case, causal chains are incredibly long and entangled, so that basically everything affects everything else in some small way. So the claim often amounts to an entire causal model of the world.
 
-## Hermeneutics (II)
-In the first part, I have restricted my attention to the confusions that arise when taking the algebraic interpretation as given. It's clearly the interpretation they want you to use. Regression is a mathematical operation, "$$=$$" is an algebraic symbol, and so on. Phrases like "slope of the population regression line" are routinely used while no hint is ever made at any causal meaning of the claim $$Y_i = \beta_0 + \beta_1 X_i + u_i$$. But you'll see below many claims which only make sense under the causal interpretation.
+# Hermeneutics II: causation in sheep's clothing
+In the first part, I have restricted my attention to the confusions that arise when taking the algebraic interpretation as given. This interpretation is by far the most natural one. Regression is a mathematical operation, "$$=$$" is an algebraic symbol, and so on. Phrases like "slope of the population regression line" are routinely used while no hint is ever made at any causal meaning of the claim $$Y_i = \beta_0 + \beta_1 X_i + u_i$$. But you'll see below many claims which only make sense under the causal interpretation.
 
-### Algebra or causes?
+## Algebra or causes?
 Stock and Watson p. 158, claim E: 
 > The term $$u$$ is the error term [...]. This term
 contains all the other factors besides $$X$$ that determine the value of the dependent variable, $$Y$$,
@@ -206,9 +208,9 @@ Wooldrige, p.92f, claim F:
 >
 > When assumption MLR.4 holds, we often say that we have **exogenous explanatory variables**. If $$x_j$$ is correlated with $$u$$ for any reason, then $$x_j$$ is said to be an **endogenous explanatory variable** [...] Unfortunately, we will never know for sure whether the average value of the unobservables is unrelated to the explanatory variables.
 
-Under the algebraic interpretation, MLR.4 is the claim that the conditional expectation function is exactly the regression line. (In the notation I use above, $$e_i=0$$). This is a pretty strong claim, but has nothing to do with exogeneity. The exogeneity part of Claim F only makes sense under the causal interpretation, and I suspect that in the end we are to take Claim F causally. In that case, Claim F uses the language or correlation ("if $$x_j$$ is correlated with $$u$$ for any reason") to make an extremely strong causal claim. "Correlation does not imply causation" is a very good slogan which it would be beneficial to actually apply. 
+Under the algebraic interpretation, MLR.4 is the claim that the conditional expectation function is exactly the regression line. (In the notation I use above, $$e_i=0$$). This is a pretty strong claim, but has nothing to do with exogeneity. The exogeneity part of Claim F only makes sense under the causal interpretation, and I suspect that in the end we are to take Claim F causally. In that case, Claim F uses the language or correlation ("if $$x_j$$ is correlated with $$u$$ for any reason") to make an extremely strong causal claim, inviting confusion.  
 
-While claim F seems to require the causal interpretation, the phrase "error term" in claim E calls for the algebraic one. And most of the quotes from part one, such as claims A and B, which call $$Y_i = \beta_0 + \beta_1 X_i + u_i$$ the "population regression function", rely on the algebraic claim.
+While some parts of claim F seem to require the causal interpretation, the phrase "error term" in claim E calls for the algebraic one. And most of the quotes from part one, such as claims A and B, which call $$Y_i = \beta_0 + \beta_1 X_i + u_i$$ the "population regression function", rely on the algebraic claim.
 
 Stock and Watson, p.131, claim G:
 > The causal effect of a treatment is the expected effect on the outcome of interest of the treatment as measured in a ideal randomized controlled experiment. This effect can be expressed as the difference of two conditional expectations. Specifically, the causal effect on $$Y$$ of treatment level $$x$$ is the difference in the conditional expectations $$E[Y \mid X=x] - E[Y \mid X=0]$$    where $$E[Y\mid X=x]$$ is the expected value of of $$Y$$ for the treatment group (which received treatment level $$X=x$$) in an ideal randomized controlled experiment and $$E[Y \mid X=0]$$ is the expected value of $$Y$$ for the control group (which receives treatment level $$X=0$$).
@@ -220,7 +222,7 @@ Claim G is good because there is appropriate hedging: causal effects are the dif
 
 In claim H however, the sentence "This assumption is a formal mathematical statement about the "other factors" contained in $$u_i$$" trades on the ambiguity between the algebraic and causal claims. Mathematical statements are about sums and products, not about causality in the world. This kind of writing promotes a kind of magical thinking in which, say, the expectation operator (really just a sum) can tell us about the what we would causally "expect" to see if we intervened on the world.
 
-### Knowns or unknowns?
+## Knowns or unknowns?
 I want to go back to a part of claim F, which I did not discuss above:
 > Unfortunately, we will never know for sure whether the average value of the unobservables is unrelated to the explanatory variables.
 
@@ -233,9 +235,9 @@ We see the same talk of unobservables in the University of Oxford Econometrics l
 
 On the causal usage, $$u_i$$ are indeed practically impossible to observe. But then so are $$\beta_1$$ and $$\beta_2$$, but these are simply called parameters, and not unobservables.
 
-But on the algebraic usage, we are presumably to take $$\beta_1$$ and $$\beta_2$$ to be loss function minimising coefficients. Then, if $$y_i$$ and $$x_i$$ are known, so are $$\beta_1$$ and $$\beta_2$$, and by a simple subtraction, $$u_i$$ is known too.
+However, on the algebraic usage (combined with taking $$\beta_1$$ and $$\beta_2$$ to be loss function minimising coefficients), if $$y_i$$ and $$x_i$$ are known, so are $$\beta_1$$ and $$\beta_2$$, and by a simple subtraction, $$u_i$$ is known too.
 
-The same thing happens $$Y_i = E[Y_i \mid X_i] + w_i$$. When that equality is first introduced, it is presented as a mere piece of algebra. If we know $$Y_i$$ and $$X_i$$ we can obviously get $$w_i$$ by a subtraction. Yet econometricians insist on calling $$w_i$$ unknown; they are laying the groundwork to hoodwink you later by switching to the causal usage. 
+We can see the same phenonemon even more clearly with $$Y_i = E[Y_i \mid X_i] + w_i$$. This is equality is always discussed under the algebraic usage. If we know $$Y_i$$ and $$X_i$$ we can obviously get $$w_i$$ by a subtraction. Yet econometricians insist on calling $$w_i$$ unknown; they are laying the groundwork to hoodwink you later by switching to the causal usage. 
 
 # Appendix A
 Proof that the solution to
