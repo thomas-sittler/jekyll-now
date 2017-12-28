@@ -8,5 +8,11 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
-_posts/2015-07-01-apathappearsbookreview.md
-_posts/2015-07-01-apathappearsbookreview.md
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.gz
+*.toc
+*.bib
