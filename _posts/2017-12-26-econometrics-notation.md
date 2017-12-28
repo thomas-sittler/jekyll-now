@@ -178,7 +178,7 @@ $$
 Y_i = \beta_0 + \beta_1 X_i + \beta_2A_i + \beta_3 B_i + ... + \beta_\phi \Omega_i
 $$
 
-We can think of this claim as equivalent to an infinite lists of counterfactuals, giving the potential values of $$Y$$ for every combination of values of the causal factors $$X,A,B...,\Omega$$. It also makes the claim that nothing else has a causal effect on $$Y$$ and that the causal effects are the same for every individual (since there are no $$i$$ subscripts on $$\beta_1,\beta_2,...\beta_\phi$$).[^determinism] The coefficients $$\beta_1,\beta_2,...\beta_\phi$$ are certainly _not_ the values that minimise $$(Y_i - \beta_0 - \beta_1 X_i)^2$$, they are the true causal effects each factor $$X,A,B...,\Omega$$.
+We can think of this claim as equivalent to an infinite lists of counterfactuals, giving the potential values of $$Y$$ for every combination of values of the causal factors $$X,A,B...,\Omega$$.[^determinism] It also makes the claim that nothing else has a causal effect on $$Y$$ and that the causal effects are the same for every individual (since there are no $$i$$ subscripts on $$\beta_1,\beta_2,...\beta_\phi$$). The coefficients $$\beta_1,\beta_2,...\beta_\phi$$ are certainly _not_ the values that minimise $$\sum_i(Y_i - \beta_0 - \beta_1 X_i)^2$$, they are the true causal effects each factor $$X,A,B...,\Omega$$.
 
 [^determinism]: If we think the world is non-deterministic, the claim becomes $$Y_i = \beta_0 + \beta_1 X_i + \beta_2A_i + \beta_3 B_i + ... + \beta_\phi \Omega_i + \varepsilon_i$$, where $$\varepsilon_i$$ are random variables, and we have a list of counterfactuals giving the potential _distributions_ of $$Y$$ for every combination of values of the causal factors. (I'm not super sure about this).
 
