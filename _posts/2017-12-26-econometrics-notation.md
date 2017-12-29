@@ -30,7 +30,7 @@ You can think of $$X_i$$ and $$Y_i$$ as
 all the maths will apply equally. (I will return to this fact and comment on it).
 
 
-## The CEF minimises  $$\sum w_i^2$$
+## The conditional expectation function minimises  $$\sum w_i^2$$
 ### Some algebraic facts
 We write the equality:
 
