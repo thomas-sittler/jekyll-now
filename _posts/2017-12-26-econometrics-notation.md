@@ -43,14 +43,14 @@ Suppose we want to solve
 
 $$\min_{f(X_i)}  \sum w_i^2 \leftrightarrow \min_{f(X_i)}  \sum(Y_i-f(X_i))^2$$
 
-The solution is $$f(X_i)=E[Y_i \mid X_i]$$. The proof of this is in appendix A. Suppose we specify $$f(X_i)$$ as such, we then get:
+The solution is $$f(X_i)=E[Y_i \mid X_i]$$, that is, $f$ is the conditional expectation function (CEF). The proof of this is in appendix A. Suppose we specify $$f(X_i)$$ as such, we then get:
 
 $$ Y_i = E[Y_i \mid X_i] + w_i $$
 
 Now $$f$$ is known and $$w_i$$ is known (by the subtraction $$w_i = Y_i - E[Y_i \mid X_i]$$).
 
 
-##  The LRM minimises $$\sum (e_i + w_i)^2$$
+##  The linear regression model minimises $$\sum (e_i + w_i)^2$$
 ### Some algebraic facts
 
 Now we write the following equality:
@@ -68,7 +68,7 @@ Y_i &= E[Y_i \mid X_i] + w_i \\
 
 As before $$w_i$$ is known, whereas $$e_i$$ is a function of $$\beta_0$$ and $$\beta_1$$. 
 
-Here $$e_i$$ is the distance, for observation $$i$$, between the LRM and the CEF; while $$w_i$$ is the distance between the CEF and the actual value of $$Y_i$$. We can then call $$u_i = e_i + w_i$$ the distance between the LRM and the actual value.[^gripe]
+Here $$e_i$$ is the distance, for observation $$i$$, between the linear regression model (LRM) and the CEF; while $$w_i$$ is the distance between the CEF and the actual value of $$Y_i$$. We can then call $$u_i = e_i + w_i$$ the distance between the LRM and the actual value.[^gripe]
 
 We can also see that $$E[u_i \mid x_i] =0$$ is equivalent to $$e_i=0$$, i.e. the CEF and the LRM occupy the same coordinates.
 
