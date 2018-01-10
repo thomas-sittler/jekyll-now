@@ -3,7 +3,7 @@ layout: post
 title: "Regression anatomy"
 ---
 
-[Valerio Filoso](http://fmwww.bc.edu/repec/bocode/r/reganat.pdf) writes:
+[Valerio Filoso](http://www.stata-journal.com/sjpdf.html?articlenum=st0285) writes:
 >  Most econometrics textbooks limit themselves to providing the formula for the $$\beta$$ vector of the type
 >  
 >  $$\beta = (X′X)^{-1} X'Y.$$
