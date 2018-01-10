@@ -22,7 +22,7 @@ I'm not sure how you would break a multivariate model with $$K$$ independent var
 
 [![](/images/regression-anatomy.png)](images/regression-anatomy.png)
 
-The cool thing is it does not matter in which order you add the independent variables. In my diagram, I start with just $$X_1$$ (equation [1]), then I add $$X_2$$ (equation [2]) and finally I add $$X_3$$ (equation [3]), but we could have done it in any of six ways.
+The cool thing is it does not matter in which order you add the independent variables. In my diagram, I start with just $$X_1$$ (equation [1]), then I add $$X_2$$ (equation [2]) and finally I add $$X_3$$ (equation [3]), but we could have done it in any of $$3!=6$$ ways.
 
 
 
