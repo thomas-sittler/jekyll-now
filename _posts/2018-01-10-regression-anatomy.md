@@ -18,7 +18,7 @@ title: "Regression anatomy"
 
 Judd _et al._ (2017) have a [nice explanation](/images/multiple-regression-judd-et-al.pdf) of this too, pp.107-116.
 
-I'm not sure how you would break a multivariate model with $$K$$ independent variables into $$K$$ bivariate models, it seems like you would need more. For example with three dependent variables and a constant ($$K=4$$), I worked out you need 5 base-level regressions (if you don't count the redundant ones in ligt blue) and 11 regressions of residuals on residuals. Am I missing something?
+I'm not sure how you would break a multivariate model with $$K$$ independent variables into $$K$$ bivariate models, it seems like you would need more. For example with three independent variables and a constant ($$K=4$$), I worked out you need 5 base-level regressions (if you don't count the redundant ones in light blue) and 11 regressions of residuals on residuals. Am I missing something?
 
 [![](/images/regression-anatomy.png)](images/regression-anatomy.png)
 
