@@ -20,7 +20,7 @@ Judd _et al._ (2017) have a [nice explanation](/images/multiple-regression-judd-
 
 I'm not sure how you would break a multivariate model with $$K$$ independent variables into $$K$$ bivariate models, it seems like you would need more. For example with three independent variables and a constant ($$K=4$$), I worked out you need 5 base-level regressions (if you don't count the redundant ones in light blue) and 11 regressions of residuals on residuals. Am I missing something?
 
-[![](/images/regression-anatomy.png)](images/regression-anatomy.png)
+[![](/images/regression-anatomy.png)](/images/regression-anatomy.png)
 
 The cool thing is it does not matter in which order you add the independent variables. In my diagram, I start with just $$X_1$$ (equation [1]), then I add $$X_2$$ (equation [2]) and finally I add $$X_3$$ (equation [3]), but we could have done it in any of $$3!=6$$ ways.
 
