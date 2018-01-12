@@ -15,7 +15,7 @@ Typically in econometrics, giving a causal interpretation is done thus:
 
 Pearl’s method is more explicit: replace $$MLR\{1 \quad 4\}$$ with the causal graph below, where $$:=$$ is used to make it extra clear that the causation only runs one way. MLR1 corresponds to the expression for $$Y$$ (and, redundantly, the two arrows towards $$Y$$), MLR4 corresponds to the absence of arrows connecting $$X$$ and $$U$$. We thus avoid “hiding causal assumptions under the guise of latent variables”. (To see me rant about this, see [here](/econometrics-notation/#inconsistent-causal-language).)
 
-![](/images/regression-causal-diagram.png)]
+![](/images/regression-causal-diagram.png)
 
 The second diagram gives the asymptotic distribution of the IV estimator.
 
