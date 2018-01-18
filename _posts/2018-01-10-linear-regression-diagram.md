@@ -13,7 +13,7 @@ Typically in econometrics, giving a causal interpretation is done thus:
 * MLR1 holds in every possible world (alternatively: it specifies not just actual, but all potential outcomes), hence $$U$$ is unobservable even in principle
 * yet we make assumption MLR4 about $$U$$
 
-Pearl’s method is more explicit: replace $$MLR\{1 \quad 4\}$$ with the causal graph below, where $$:=$$ is used to make it extra clear that the causation only runs one way. MLR1 corresponds to the expression for $$Y$$ (and, redundantly, the two arrows towards $$Y$$), MLR4 corresponds to the absence of arrows connecting $$X$$ and $$U$$. We thus avoid “hiding causal assumptions under the guise of latent variables” (Pearl). (To see me rant about this, see [here](/econometrics-notation/#inconsistent-causal-language).)
+Pearl’s method is more explicit: replace MLR$$\{1 \quad 4\}$$ with the causal graph below, where $$:=$$ is used to make it extra clear that the causation only runs one way. MLR1 corresponds to the expression for $$Y$$ (and, redundantly, the two arrows towards $$Y$$), MLR4 corresponds to the absence of arrows connecting $$X$$ and $$U$$. We thus avoid “hiding causal assumptions under the guise of latent variables” (Pearl). (To see me rant about this, see [here](/econometrics-notation/#inconsistent-causal-language).)
 
 ![](/images/regression-causal-diagram.png)
 
