@@ -6,7 +6,8 @@ title: "Philosophy success story II: the analysis of computability"
 <p style="text-align:right;"> a computing machine is really a logic machine. Its circuits embody
 the distilled insights of a remarkable collection of logicians, developed
 over centuries.<br>
--- Martin Davis (2000) </p>
+— Martin Davis (2000)
+</p>
 
 *This is part of my series on success stories in philosophy. See [this page](/ps) for an explanation of the project and links to other items in the series.*
 
@@ -60,7 +61,15 @@ Stanford has a nice and concise [explanation](https://plato.stanford.edu/entries
 
 ## The halting problem
 
-Given Pascal's and Leibnitz's machines, one might have thought it natural that any function (set $$F​$$ of ordered pairs such that if  $$\langle a,b \rangle \in F​$$ and $$\langle a,c \rangle \in F​$$ then $$b=c​$$ ) which can be precisely specified can be computed in the inuitive sense. But Turing showed that this is not true. For example, the halting problem is not computable; and the *Entscheidungsproblem* (Turing's original motivation for developing his formalism) cannot be solved. Here are some [nice examples](https://mathoverflow.net/questions/29197/non-computable-but-easily-described-arithmetical-functions) of non-computable functions. 
+Given Pascal's and Leibnitz's machines, one might have thought it natural that any function (set $$F​$$ of ordered pairs such that if  $$\langle a,b \rangle \in F​$$ and $$\langle a,c \rangle \in F​$$ then $$b=c​$$ ) which can be precisely specified can be computed in the inuitive sense. But Turing showed that this is not true. For example, the halting problem is not computable; and the *Entscheidungsproblem* (Turing's original motivation for developing his formalism) cannot be solved. 
+
+## Applications in mathamtics
+Here are some lists of examples of non-computable functions:
+* [An example of an easy to understand undecidable problem
+ — Mathematics Stackexchange](https://math.stackexchange.com/questions/80745/an-example-of-an-easy-to-understand-undecidable-problem)
+* [Non-computable but easily described arithmetical functions
+ — Mathoverflow](https://mathoverflow.net/questions/29197/non-computable-but-easily-described-arithmetical-functions)
+* [What are the most attractive Turing undecidable problems in mathematics? — Mathoverflow](https://mathoverflow.net/questions/11540/what-are-the-most-attractive-turing-undecidable-problems-in-mathematics)
 
 There is an analogy here, by the way, to the previous success story: many people thought it natural that any continuous function must be differentiable, the [discovery](https://en.wikipedia.org/wiki/Weierstrass_function) of a function that is everywhere continuous and nowhere differentiable seemed problematic, and the formalisation of the concept of continuity solved the problem.
 
