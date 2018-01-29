@@ -95,3 +95,5 @@ Peter Millican an excellent, concise summary of the point (Turing Lectures, HT16
 > Information processing, and informationally sensitive processes, can be understood in terms of symbolic inputs and outputs, governed by explicit and automatic processes. So information processing need not presuppose an "understanding" mind, and it therefore becomes possible in principle to have processes that involved sophisticated information processing without concious purpose, in much the same way as Darwin brought us sophisticated adaptation without intentional design. 
 
 On the idea of natural selection as an algorithm, see [Dennett](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea). 
+
+<hr> <!-- <hr> to be added before footnotes-->
