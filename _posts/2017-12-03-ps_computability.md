@@ -3,11 +3,10 @@ layout: post
 title: "Philosophy success story II: the analysis of computability"
 ---
 
-<p style="text-align:right;"> a computing machine is really a logic machine. Its circuits embody
+> a computing machine is really a logic machine. Its circuits embody
 the distilled insights of a remarkable collection of logicians, developed
-over centuries.<br>
-— Martin Davis (2000)
-</p>
+over centuries.
+<p style="text-align:right;">— Martin Davis (2000)</p>
 
 *This is part of my series on success stories in philosophy. See [this page](/ps) for an explanation of the project and links to other items in the series.*
 
