@@ -170,7 +170,6 @@ img {
 
 
 .site-banner{
-  margin-bottom: 10px;
   border-radius: 3px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
 }
@@ -214,7 +213,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
-  font-size: 15px; //changed from 16px to 15px to allow space for "quotes" in nav
+  font-size: 16px;
 
   @include mobile {
     margin: 3px 0;
@@ -225,7 +224,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 17px; //changed from 18px to 17px to allow space for "quotes" in nav
+  font-size: 18px;
 
   @include mobile {
     float: none;
