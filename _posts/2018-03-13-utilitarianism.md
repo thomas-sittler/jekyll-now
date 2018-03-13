@@ -3,8 +3,6 @@ layout: post
 title: "The formal structure of ethical theories"
 ---
 
-_Note: absolutely nothing new here. I wrote this for exam revision._
-
 What is utilitarianism? Utilitarianism is an ethical theory. It states that each of us ought to do whatever maximises the sum of everybody's happiness. There are many ways to precisify this slogan, and hence many flavours of utilitarianism. The simplest one is hedonistic total utilitarianism. This diagram illustrates how someone who follows the blue lines at each decision node ends up endorsing hedonistic total utilitarianism.
 
 [![consequentialism](../images/consequentialism.png)](/images/consequentialism.png)
@@ -16,14 +14,15 @@ What is utilitarianism? Utilitarianism is an ethical theory. It states that each
 {:toc} 
 
 # What is consequentialism?
-
-Any consequentialist theory (any variant of theory C) combines a _cardinal axiology_ and a _maximising decision rule_.  
+Any consequentialist theory combines a _cardinal axiology_ and a _decision rule_ that depends only on this axiology. [SEP](https://plato.stanford.edu/entries/consequentialism/) tells us that consequentialism is the view that moral rightness depends only on consequences.
 
 An axiology is a ranking of states of affairs in terms of better and worse overall. A cardinal axiology assigns numerical values to states of affairs. The axiology used by a consequentialist theory must be cardinal in order to be able to apply expected utility theory in cases of uncertainty.
 
 A decision rule, for our purposes, is a procedure that classifies objects of interest (such as possible acts in a certain situation) into right, wrong, or neither. The decision rule is what gives rise to a theory's normative content: its "ought" and "ought not"-statements (much more on this below). A maximising decision rule says that the object which makes states of affairs best (according to some axiology) is right, and all others are wrong.
 
-Theory C says: "There is one ultimate moral aim: that outcomes be as good as possible". It applies to any thing X that might make outcomes better or worse. For any X, it says: "The right X is the X such that if it were to obtain, outcomes would be as good as possible. All others are wrong".
+Consequentialism need not be maximising, it could be satisficing or some other function.
+
+Combining consequentialism with a _maximising decision rule_ gives theory C. Theory C roughly says "There is one ultimate moral aim: that outcomes be as good as possible" (Parfit p.24). It applies to any thing X that might make outcomes better or worse. More precisely, for any X, it says: "The right X is the X such that if it were to obtain, outcomes would be as good as possible. All others are wrong".
 
 # What is hedonistic total utilitarianism?
 Hedonistic total utilitarianism is Theory C combined with a hedonistic, totalist axiology.
@@ -72,10 +71,10 @@ Yet consequentialism is conventionally defined as theory C. In fact, what has re
 The reason for this strange practice has to do with the order in which ethics has progressed. When consequentialist theories were first developed, they were discussed in terms of how they disagreed with the older theories. First, they were shoehorned into the ternary mould of the older theories, which de-emphasised their distinctive structure. Second, they were applied only to acts, like the older theories.
 
 ## Why it matters
-I haven't delved into this pedantic distinction (everyone knows what the god-damned "spirit" of consequentialism is!) just because I'm interested in history of philosophy for its own sake. I think it can actually teach us something. You won't be surprised that what it teaches us is that two common objections to consequentialism are misguided.
+I haven't delved into this pedantic distinction (everyone knows what the god-damned "spirit" of consequentialism is!) just because I'm interested in history of philosophy for its own sake. I think it can actually teach us something. You won't be surprised that what it teaches us is that two common objections to consequentialism are weaker than is typically thought.
 
 ### Demandingness
-Theory C is sometimes said to be too demanding, constantly requiring us to do the _very best_ thing, lest we be hit with the moral opprobrium of the theory. Deontologists think of morality as a matter of whether or not the heavens will part and god will thunder down at you: "WRONG!". And it does seem a bit excessive to be thundered down at every time you don't do literally the most altruistic thing possible. But if we look at the red box, we can see that this is not what consequentialists have in mind. It's more like: if you donate \$3000 to the Against Malaria Foundation, the heavens will part and god will say: "One child under 5 saved in expectation"; if you donate \$6000, the heavens will part and god will say: "Two children under 5 saved in expectation", and so on. Consequentialism needs to be thought of more like an encouragement to maximise good consequences, rather than a master who comes to whip you if you don't attain the exact global maximum.[^railton]
+Theory C is sometimes said to be too demanding, constantly requiring us to do the _very best_ thing, lest we be hit with the moral opprobrium of the theory. Deontologists think of morality as a matter of whether or not the heavens will part and god will thunder down at you: "WRONG!". And it does seem a bit excessive to be thundered down at every time you don't do literally the most altruistic thing possible. But if we look at the red box, we can see that this is not what consequentialists have in mind. It's more like: if you donate \$3000 to the Against Malaria Foundation, the heavens will part and god will say: "One child under 5 saved in expectation"; if you donate \$6000, the heavens will part and god will say: "Two children under 5 saved in expectation", and so on. Consequentialism needs to be thought of more like an encouragement to maximise good consequences, rather than a master who comes to whip you if you don't attain the exact global maximum.[^railton] This dampens, but does not eliminate, demandingness-based anti-consequentialist intuitions.
 
 ### Decision-making and motivation
 Act-consequentialism is often said to be self-defeating in some damaging way. For example: Making decisions by means of consequentialist calculation might lead to a sort of “alienation” between one’s affections and one’s deliberative self – one that in turn leads to a sense of loneliness and emptiness, and is destructive to valuable relationships. Hence even a consequentialist should not, by his own lights, desire that people make decisions by explicit appeal to consequentialist reasoning. Hence Bernard Williams writes “Utilitarianism’s fate is to usher itself from the scene” (‘A critique of utilitarianism’, p.134)[^greaves]. In part I of Reasons and Persons, Parfit painstakingly wipes the floor with these objections. But the solution would have been more obvious had we paid attention to theory C rather than only to act-consequentialism. Theory C (Ord's 'global' consequentialism[^ordthesis]) simply says: "The right explicit moral reasoning is that which makes things best", "the right motive is that which makes things best", "the right act is that which makes things best", and so on. These statements do not contradict each other. Hence there is nothing self-defeating about consequentialism when applied to decision-making and motivation. A further question is whether _homo sapiens_ are best thought of as "choosing" acts, policies, entire sets of motives, or something else. It's a topic for decision theory and psychology. 
