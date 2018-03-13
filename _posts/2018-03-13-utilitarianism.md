@@ -66,7 +66,9 @@ That is why I call everything in the box only the "normative output" of conseque
 ## Why theory C has received so much attention
 What I've said is very obvious. Discussing the definition of theory C as I did may seem rather like a philosophic pedantry. I share that sentiment.
 
-Yet consequentialism is conventionally defined as theory C. In fact, what has received most of the philosophical attention devoted to consequentialist theories is not even theory C but act-consequentialism (green box), the part of C which applies to acts.
+Yet theory C has received most of the philosophical attention devoted to consequentialist theories[^def]. In fact, most of the ink has been spilled not even about theory C but about act-consequentialism (green box), the part of C which applies to acts.
+
+[^def]: Some, like Parfit, _define_ consequentialism as theory C, i.e. the space of consequentialist theories is taken to coincide with the space of C-theories. That is a merely verbal issue which need not distract us.
 
 The reason for this strange practice has to do with the order in which ethics has progressed. When consequentialist theories were first developed, they were discussed in terms of how they disagreed with the older theories. First, they were shoehorned into the ternary mould of the older theories, which de-emphasised their distinctive structure. Second, they were applied only to acts, like the older theories.
 
