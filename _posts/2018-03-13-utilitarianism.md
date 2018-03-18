@@ -18,9 +18,9 @@ What is utilitarianism? Utilitarianism is an ethical theory. It states that each
 
 An axiology is a ranking of states of affairs in terms of better and worse overall. A cardinal axiology assigns numerical values to states of affairs. The axiology used by a consequentialist theory must be cardinal in order to be able to apply expected utility theory in cases of uncertainty.
 
-A decision rule, for our purposes, is a procedure that classifies evaluands (such as possible acts in a certain situation) into right, wrong, or neither. The decision rule is what gives rise to a theory's normative pronouncements: its "ought" and "ought not"-statements (much more on this below). A maximising decision rule says that the object which makes states of affairs best (according to some axiology) is right, and all others are wrong. An example of a non-maximising decision rule is _satisficing_: everything that makes states of affairs better than some threshold is right (or at least not wrong).
+A decision rule, for our purposes, is a procedure that classifies evaluands (such as possible acts in a certain situation) into right, wrong, or neither. The decision rule is what gives rise to a theory's normative pronouncements: its "ought" and "ought not"-statements (much more on this below). A _maximising decision rule_ says that the object which makes states of affairs best (according to some axiology) is right, and all others are wrong. An example of a non-maximising decision rule is _satisficing_: everything that makes states of affairs better than some threshold is right (or at least not wrong).
 
-Combining consequentialism with a _maximising decision rule_ gives theory C. Theory C roughly says: "There is one ultimate moral aim: that outcomes be as good as possible" (Parfit p.24). It applies to any _evaluand_ X, that is, anythinh that might make outcomes better or worse. More precisely, for any evaluand X, it says: "The right X is the X such that if it were to obtain, outcomes would be as good as possible. All others are wrong".
+Combining consequentialism with a maximising decision rule gives theory C[^def]. Theory C roughly says: "There is one ultimate moral aim: that outcomes be as good as possible" (Parfit p.24). It applies to any _evaluand_ X, that is, anythinh that might make outcomes better or worse. More precisely, for any evaluand X, it says: "The right X is the X such that if it were to obtain, outcomes would be as good as possible. All others are wrong".
 
 # What is hedonistic total utilitarianism?
 Hedonistic total utilitarianism is Theory C combined with a hedonistic, totalist axiology.
@@ -70,7 +70,7 @@ Act-C is a doubly watered down of the real idea behind consequentialism.
 ## Why Act-C has received so much attention
 What I've said is very obvious. Discussing the definition of Act-C as I did may seem rather like philosophic pedantry. I share that sentiment.
 
-Yet Act-C has received most of the philosophical attention devoted to consequentialist theories[^def].
+Yet Act-C has received most of the philosophical attention devoted to consequentialist theories.
 
 [^def]: Some, like Parfit, _define_ consequentialism as theory C. In other words, they bake a maximising decision rule into the definition of consequentialism. That is a merely verbal issue which need not distract us.
 
