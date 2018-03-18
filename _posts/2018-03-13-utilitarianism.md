@@ -22,7 +22,7 @@ A decision rule, for our purposes, is a procedure that classifies evaluands (suc
 
 Combining consequentialism with a _maximising decision rule_ gives theory C. Theory C roughly says: "There is one ultimate moral aim: that outcomes be as good as possible" (Parfit p.24). It applies to any _evaluand_ X, that is, anythinh that might make outcomes better or worse. More precisely, for any evaluand X, it says: "The right X is the X such that if it were to obtain, outcomes would be as good as possible. All others are wrong".
 
-w# What is hedonistic total utilitarianism?
+# What is hedonistic total utilitarianism?
 Hedonistic total utilitarianism is Theory C combined with a hedonistic, totalist axiology.
 
 An axiology is _welfarist_ if it's about what makes the life of persons (moral patients) go best. Non-welfarist axiologies might care about other features of states of affairs, like complexity or beauty in the universe, independently of what is good for any person. "Go best" is here intended to encompass a wide range of theories of _self-interest_. Three common theories of self-interest are the _hedonistic_, _desire fulfilment_, and _objective list_ theories discussed by Parfit (1984, Appendix i).
