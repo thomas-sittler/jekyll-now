@@ -3,7 +3,7 @@ layout: post
 title: "The formal structure of ethical theories"
 ---
 
-What is utilitarianism? Utilitarianism is an ethical theory. It states that each of us ought to do whatever maximises the sum of everybody's happiness. There are many ways to precisify this slogan, and hence many flavours of utilitarianism. The simplest one is hedonistic total utilitarianism. This diagram illustrates how someone who follows the blue lines at each decision node ends up endorsing hedonistic total utilitarianism.
+What is utilitarianism? Utilitarianism is an ethical theory. It states that each of us ought to do whatever maximises everybody's happiness. There are many ways to precisify this slogan, and hence many flavours of utilitarianism. The simplest one is hedonistic total utilitarianism. This diagram illustrates how someone who follows the blue lines at each decision node ends up endorsing hedonistic total utilitarianism.
 
 [![consequentialism](../images/consequentialism.png)](/images/consequentialism.png)
 *The structure of theories which involve axiologies*
@@ -14,13 +14,13 @@ What is utilitarianism? Utilitarianism is an ethical theory. It states that each
 {:toc} 
 
 # What is consequentialism?
-Any consequentialist theory combines a _cardinal axiology_ and a _decision rule_ that depends only on this axiology. [SEP](https://plato.stanford.edu/entries/consequentialism/) tells us that consequentialism is the view that moral rightness depends only on consequences.
+[SEP](https://plato.stanford.edu/entries/consequentialism/) tells us that consequentialism is the view that moral rightness depends only on consequences. Any consequentialist theory combines a _cardinal axiology_ and a _decision rule_ that depends only on this axiology.
 
 An axiology is a ranking of states of affairs in terms of better and worse overall. A cardinal axiology assigns numerical values to states of affairs. The axiology used by a consequentialist theory must be cardinal in order to be able to apply expected utility theory in cases of uncertainty.
 
-A decision rule, for our purposes, is a procedure that classifies evaluands (such as possible acts in a certain situation) into right, wrong, or neither. The decision rule is what gives rise to a theory's normative pronouncements: its "ought" and "ought not"-statements (much more on this below). A maximising decision rule says that the object which makes states of affairs best (according to some axiology) is right, and all others are wrong. An example of a non-maximising decision rule is _satisficing_: everything that makes states of affairs better than some threshold is right.
+A decision rule, for our purposes, is a procedure that classifies evaluands (such as possible acts in a certain situation) into right, wrong, or neither. The decision rule is what gives rise to a theory's normative pronouncements: its "ought" and "ought not"-statements (much more on this below). A maximising decision rule says that the object which makes states of affairs best (according to some axiology) is right, and all others are wrong. An example of a non-maximising decision rule is _satisficing_: everything that makes states of affairs better than some threshold is right (or at least not wrong).
 
-Combining consequentialism with a _maximising decision rule_ gives theory C. Theory C roughly says: "There is one ultimate moral aim: that outcomes be as good as possible" (Parfit p.24). It applies to any thing X that might make outcomes better or worse. More precisely, for any X, it says: "The right X is the X such that if it were to obtain, outcomes would be as good as possible. All others are wrong".
+Combining consequentialism with a _maximising decision rule_ gives theory C. Theory C roughly says: "There is one ultimate moral aim: that outcomes be as good as possible" (Parfit p.24). It applies to any _evaluand_ X, that is, anythinh that might make outcomes better or worse. More precisely, for any evaluand X, it says: "The right X is the X such that if it were to obtain, outcomes would be as good as possible. All others are wrong".
 
 # What is hedonistic total utilitarianism?
 Hedonistic total utilitarianism is Theory C combined with a hedonistic, totalist axiology.
