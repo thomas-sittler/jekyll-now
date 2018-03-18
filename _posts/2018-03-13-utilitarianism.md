@@ -32,9 +32,7 @@ In a universe with more than one person, a welfarist also has to give an account
 This is a reasonably clear description of hedonistic total utilitarianism. If we modify the axiology in some ways, we obtain other versions of utilitarianism. I now discuss the meaning of the "normative output" box in the diagram.
 
 # Comparing consequentialist and non-consequentialist theories
-## Theory C vs the spirit of consequentialism
-I must here make a point that may appear somewhat technical and pedantic. But it actually has some importance (especially if you're interested in understanding how academic philosophers talk about consequentialism). Theory C as I here understand it claims only that the unique right X is the X which would make outcomes as good as possible. It picks out just one mandatory X and makes all other Xs impermissible. 
-
+## Older theories
 Older theories of ethics, like, say, the ten commandments or Kantianism, were built entirely around a list of prohibitions. They are essentially _just_ a decision rule, and they only apply to acts. These decision rules pronounce some acts right (and mandatory), some wrong (and forbidden), and make no normative statements about the majority of acts, calling them neither right nor wrong, and permissible. They do not involve an axiology.
 
 This is not to say that these decision rules are chosen by mere intuition (what Will MacAskill would call "[no-theory deontology](https://80000hours.org/2018/01/will-macaskill-moral-philosophy/)"). Philosophers (famously, Kant) have developed intricate justifications for their decision rules. But these justifications do not involve axiologies, or degrees of goodness which are then compressed down by a decision rule. 
@@ -43,10 +41,18 @@ This is not to say that these decision rules are chosen by mere intuition (what 
 
 *The structure of older theories*
 
-The technical point is: theory C has the same formal shape as these older theories. Of course, what is really of interest to consequentialists is something much richer than theory C. What animates us is the algorithm which produces theory C as its output: develop an axiology, assign cardinal values (the red box), then use a maximising decision rule. While theory C is the orange box, the diagram as a whole represents the algorithm.
+## Theory C applied to acts vs the spirit of consequentialism
+I must here make a point that may appear somewhat technical and pedantic. But it actually has some importance (especially if you're interested in understanding how academic philosophers talk about consequentialism). Theory C as I here understand it claims only that the unique right X is the X which would make outcomes as good as possible. It picks out just one mandatory X and makes all other Xs impermissible.
 
-The motivating idea of consequentialism is not to pick out one act as the right one. It's to assign cardinal values to acts (and to motives, dispositions, or anything else you might be able to affect) and to say: "that's how good it is!". That is what we find in the red box. The move from the red box to theory C is an act of lossy compression, throwing out almost all the information and retaining only a ternary[^bin] classification.[^analogies] 
+Theory C applies to every evaluand. Some endorse only part of theory C, for example act-consequentialists only endorse the part of theory C which applies to acts. I will call this part Act-C (in the green box). So theory C logically implies Act-C. 
 
+The technical point is: Act-C has the same formal shape as these older theories. Of course, what is really of interest to consequentialists is something much richer than Act-C. It is richer in two ways. First, consequentialiss care about all of C, not just Act-C. Second, what animates us is not C, but rather the algorithm which produces theory C as its output: develop an axiology, assign cardinal values (the red box), then use a maximising decision rule. While theory C is the orange box, the diagram as a whole represents the algorithm.
+
+On the first point: consequentialists have no particular hang-up about acts. We use whatever evaluand is appropriate.
+
+On the second point: the motivating idea of consequentialism is not to pick out one act as the right one. It's to assign cardinal values to acts (and to motives, dispositions, or anything else you might be able to affect) and to say: "that's how good it is!". That is what we find in the red box. The move from the red box to theory C is an act of lossy compression, throwing out almost all the information and retaining only a ternary[^bin] classification[^analogies]. That is why I call everything in the box only the "normative output" of consequentialism. It's what a consequentialist will say if forced to make "right/wrong"-statements.
+
+Act-C is a doubly watered down of the real idea behind consequentialism.
 
 [^bin]: In consequentialism, the resulting classification is actually just binary, since no acts are merely permissible.
 
@@ -61,19 +67,19 @@ The motivating idea of consequentialism is not to pick out one act as the right 
 
 [^warn]: Warning: you'll only find this analogy funny or informative if you're already acquainted with that particular literature. Those who have been spared that experience are advised to skip to the next section.
 
-That is why I call everything in the box only the "normative output" of consequentialism. It's what a consequentialist will say if forced to make "right/wrong"-statements. But a consequentialist would much rather speak in different terms altogether.
-
 ## Why theory C has received so much attention
-What I've said is very obvious. Discussing the definition of theory C as I did may seem rather like philosophic pedantry. I share that sentiment.
+What I've said is very obvious. Discussing the definition of Act-C as I did may seem rather like philosophic pedantry. I share that sentiment.
 
-Yet theory C has received most of the philosophical attention devoted to consequentialist theories[^def]. In fact, most of the ink has been spilled not even about theory C but about maximising act-consequentialism (green box), the part of C which applies to acts.
+Yet Act-C has received most of the philosophical attention devoted to consequentialist theories[^def].
 
 [^def]: Some, like Parfit, _define_ consequentialism as theory C. In other words, they bake a maximising decision rule into the definition of consequentialism. That is a merely verbal issue which need not distract us.
 
 The reason for this strange practice has to do with the order in which ethics has progressed. When consequentialist theories were first developed, they were discussed in terms of how they disagreed with the older theories. This affected the discussion in two ways. First, consequentialist theories were shoehorned into the ternary mould of the older theories, this de-emphasised their distinctive structure. Second, they were applied only to acts, like the older theories.
 
 ## Why it matters
-I haven't delved into this pedantic distinction (everyone knows what the god-damned "spirit" of consequentialism is!) just because I'm interested in history of philosophy for its own sake. I think it can actually teach us something. Two common objections to consequentialism are (i) that it's too demanding and (ii) that it's self-defeating. The demandingness objection is narrowly targeted at theory C rather than at the spirit of consequentialism, so it is revealed to misconstrue that spirit. The self-defeat objection is aimed even more narrowly at those who (naively) would apply C only to acts rather than to everything. Hence both objections lose much of their force.
+I haven't delved into this pedantic distinction[^eyeroll] just because I'm interested in history of philosophy for its own sake. I think it can actually teach us something. Two common objections to consequentialism are (i) that it's too demanding and (ii) that it's self-defeating in a damaging way. The demandingness objection is narrowly targeted at theory C rather than at the spirit of consequentialism, so it is revealed to misconstrue that spirit. The self-defeat objection is aimed even more narrowly at those who (naively) would apply C only to acts rather than to everything. Hence both objections lose much of their force.
+
+[^eyeroll]: I can already feel you rolling your eyes: everyone knows what the god-damned "spirit" of consequentialism is!
 
 In a sense, the order in which ethics has developed has given an unfair incumbency advantage to the older theories. Those theories shaped the terms of the debate, allowing attention to be focused on strange, shoehorned versions of consequentialism, rather than letting consequentialism shine in its natural form.
 
@@ -82,12 +88,25 @@ Theory C is sometimes said to be too demanding, constantly requiring us to do th
 
 But if we look at the red box, we can see that this is not what consequentialists have in mind. It's more like: if you donate \$3000 to the Against Malaria Foundation, the heavens will part and god will say: "30 quality-adjusted life-years added in expectation"; if you donate \$6000, the heavens will part and god will say: "60 quality-adjusted life-years added in expectation", and so on.
 
-Consequentialism needs to be thought of more like a general injunction to maximise good consequences, rather than a god who rains lightning on you if you don't attain the exact global maximum.[^railton] Some might find even that too demanding. But at least the basic form of the demandingness objection is deflected.
+Consequentialism needs to be thought of more like a general injunction to maximise good consequences, rather than a god who rains lightning on you if you don't attain the exact global maximum.[^railton] 
+
+Some might find even that too demanding[^d]. But at least the basic form of the demandingness objection is deflected.
+
+[^d]: But they might have a hard time finding a plausible theory that is less demanding. In "[Global poverty and the demands of morality](https://www.fhi.ox.ac.uk/wp-content/uploads/Global-Poverty-and-the-Demands-of-Morality-1.pdf)", Ord writes:
+> The third variant was that the level of the demand is unintuitively high, and that morality cannot demand so much of us. However, many widely accepted moral principles demand more than this. For example, it wrong to kill the innocent. Suppose you are framed for murder in the United States, and are likely to be executed if brought to trial. The only way to escape is to kill the arresting officer, but since he is innocent, it is wrong to do so. Morality thus requires that you allow yourself to be executed in order to meet its demands. This is a much higher demand than that of donating much of your income, yet we (rightly) accept it. Similarly, it is wrong to keep slaves, and morality demanded that slave owners free their slaves even if it meant financial ruin. There are many similar cases in which morality demands a very high sacrifice and yet we find it acceptable. Most of these are extreme life-or-death cases, but so is global poverty
 
 ### Self-defeat, decision-making and motivation
-Act-consequentialism is often said to be self-defeating in some damaging way. For example: Making decisions by means of consequentialist calculation might lead to a sort of “alienation” between one’s affections and one’s deliberative self – one that in turn leads to a sense of loneliness and emptiness, and is destructive to valuable relationships. Hence even a consequentialist should not, by his own lights, desire that people make decisions by explicit appeal to consequentialist reasoning. Hence Bernard Williams writes “Utilitarianism’s fate is to usher itself from the scene” (‘A critique of utilitarianism’, p.134)[^greaves].
+Consequentialism is often said to be self-defeating in some damaging way. For example: making decisions by means of consequentialist calculation might lead to a sort of “alienation” between one’s affections and one’s deliberative self – one that in turn leads to a sense of loneliness and emptiness, and is destructive to valuable relationships. Hence even a consequentialist should not, by his own lights, desire that people make decisions by explicit appeal to consequentialist reasoning. Hence Bernard Williams writes “Utilitarianism’s fate is to usher itself from the scene” (‘A critique of utilitarianism’, p.134)[^greaves].
 
-In part I of Reasons and Persons, Parfit painstakingly shows the mistakes in these objections. But the solution to the purported puzzle would have been more obvious, I claim, if the focus had been from the start on theory C rather than only on act-consequentialism. Act-consequentialism may be viewed as a historical accident which led us into thickets of confusion. Theory C (Ord's 'global' consequentialism[^ordthesis]) is simpler and more general. It just says: "The right explicit moral reasoning is that which makes things best", "the right motive is that which makes things best", "the right act is that which makes things best", and so on. These statements do not contradict each other. Hence there is nothing self-defeating about consequentialism when applied to decision-making and motivation. A further question is whether _homo sapiens_ are best thought of as "choosing" acts, policies, entire sets of motives, or something else. It's a topic for decision theory and psychology. 
+In part I of Reasons and Persons, Parfit painstakingly shows the mistakes in these objections. But the solution to the purported puzzle would have been more obvious, I claim, if the focus had been from the start on theory C rather than only on Act-C. Act-C may be viewed as a historical accident which led us into thickets of confusion. Theory C (Ord's 'global' consequentialism[^ordthesis]) is simpler and more general. It just says: "The right explicit moral reasoning is that which makes things best", "the right motive is that which makes things best", "the right act is that which makes things best", and so on.
+
+These statements do not contradict each other. Hence there is nothing self-defeating about C when applied to decision-making and motivation. There is no logical contradiction. It is somewhat counter-intuitive that the act recommended by C may fail to coincide with the act that would be chosen given the decision procedure or character trait recommended by the same theory. But it actually fits perfectly with our picture of human psychology.
+
+Theory C takes no view on the question of whether _homo sapiens_ are best thought of as "choosing" acts, policies, entire sets of motives, or something else. It's a topic for decision theory and psychology. It may have great practical importance, but in the realm of evaluating C, it is not relevant.
+
+In this context, the self-defeat objection could be rephrased as: "Humans shouldn't be thought of as really _choosing_ acts. Rather, the proper evaluand of human moral theorising is motive or character." The consequentialist may well agree. She might reply: "this claim seems to have some truth to it, but is certainly not an objection to C. It's a claim about which parts of C are most useful for humans."
+
+<hr> <!-- hr to be added before footnotes-->  
 
 [^ordthesis]: 
     The abstract of his thesis:
@@ -99,6 +118,3 @@ In part I of Reasons and Persons, Parfit painstakingly shows the mistakes in the
 [^greaves]: I take this from Ethics lecture notes by Hilary Greaves.
 
 [^railton]: This is very similar to Peter Railton's idea, who "abandons normative terms altogether in the consequentialist part of his theory, arguing that the consequentialist account of wrongness as suboptimality is too much at odds with the pre-philosophic conception of wrongness as truly unacceptable behaviour" (Ord p. 115). Railton "proposed a theory that he called valoric utilitarianism. This theory differs from act-utilitarianism in two ways. The first is that it is not directly concerned with either rightness or goodness. Instead, Railton defines an act to be more morally fortunate than another if it leads to the promotion of more non-moral value. To this, one could add a theory of rightness and goodness which need not be a maximising theory. The idea is that the combined theory might be able to make consequentialist-style judgments concerning the need for maximization (using the language of moral fortunateness), and yet reserve the everyday terms rightness, wrongness, blameworthiness to bear meanings closer to their commonsense use." (Ord p. 33)
-
-
-<hr> <!-- hr to be added before footnotes-->  
