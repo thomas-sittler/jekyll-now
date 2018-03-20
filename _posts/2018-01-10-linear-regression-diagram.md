@@ -33,6 +33,6 @@ The second diagram gives the asymptotic distribution of the IV estimator[^ivcaus
 
 [![iv](/images/instrumental-variables.png)](/images/instrumental-variables.png)
 
-[^ivcausal]: Again, there's no reason you would care about this unless the interpretation is causal. But I follow good econometrics practice and make only mathematical claims. 
+[^ivcausal]: For IV, it's even clearer that the only reason to care is the causal interpretation. But I follow good econometrics practice and make only mathematical claims. 
 
 <hr> <!-- hr to be added before footnotes-->
