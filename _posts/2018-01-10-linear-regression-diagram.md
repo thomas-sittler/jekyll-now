@@ -7,21 +7,32 @@ I made a big diagram describing some assumptions (MLR1-6) that are used in linea
 
 [![thelinearmodel](/images/linear-regression-diagram.png)](/images/linear-regression-diagram.png)
 
-In the diagram, I stick to the brute mathematics, which is entirely independent of its (causal) interpretation. But of course what really matters is the causal interpretation.
+A couple of comments about the diagram are in order.
 
-As Pearl (2009) writes, “behind every causal claim there must lie some causal assumption that is not discernible from the joint distribution and, hence, not testable in observational studies”. If we wish to interpret $$\beta$$ (and hence $$\hat{\beta}$$) causally, we must interpret MLR4 causally; it becomes a (strong) causal assumption.
+* $$U$$,$$Y$$ are a $$n \times 1$$ vectors of random variables. $$X$$ may contain numbers or random variables. $$\beta$$ is a $$K \times 1$$ vector of numbers.
+* We measure: realisations of $$Y$$, (realisations of) $$X$$. We do not measure: $$\beta$$, $$U$$. We have one equation and two unknowns: we need additional assumptions on $$U$$.
+* We make a set of assumptions (MLR1-6) about the joint distribution $$f(U,X)$$. These assumptions imply some theorems relating the distribution of $$b$$ and the distribution of $$\beta$$.
+* Note the difference between MLR4 and MLR4’. The point of using the stronger MLR4 is that, in some cases, provided MLR4, MLR2 is not needed. To prove unbiasedness, we don’t need MLR2. For finite sample inference, we also don't need MLR2. But whenever the law of large numbers is involved, we do need MLR2 as a standalone condition.
+* In the diagram, I stick to the brute mathematics, which is entirely independent of its (causal) interpretation.[^causal]
 
-As far as I can tell, when econometricians give a causal interpretation it is typically done thus (they are rarely explicit about it):
+[^causal]: 
+    But of course what really matters is the causal interpretation. 
 
-* MLR1 holds in every possible world (alternatively: it specifies not just actual, but all potential outcomes), hence $$U$$ is unobservable even in principle.
-* yet we make assumption MLR4 about $$U$$
+    As Pearl (2009) writes, “behind every causal claim there must lie some causal assumption that is not discernible from the joint distribution and, hence, not testable in observational studies”. If we wish to interpret $$\beta$$ (and hence $$b$$) causally, we must interpret MLR4 causally; it becomes a (strong) causal assumption.
 
-This talk of the distribution of a fundamentally unobservable "variable" is a confusing device. Pearl’s method is more explicit: replace MLR$$\{1 \quad 4\}$$ with the causal graph below, where $$:=$$ is used to make it extra clear that the causation only runs one way. MLR1 corresponds to the expression for $$Y$$ (and, redundantly, the two arrows towards $$Y$$), MLR4 corresponds to the absence of arrows connecting $$X$$ and $$U$$. We thus avoid “hiding causal assumptions under the guise of latent variables” (Pearl). (Because of the confusing device, econometricians, to put it kindly, don't always sharply distinguish the mathematics of the diagram from its (causal) interpretation. To see me rant about this, see [here](/econometrics-notation/#inconsistent-causal-language).)
+    As far as I can tell, when econometricians give a causal interpretation it is typically done thus (they are rarely explicit about it):
 
-![](/images/regression-causal-diagram.png)
+    * MLR1 holds in every possible world (alternatively: it specifies not just actual, but all potential outcomes), hence $$U$$ is unobservable even in principle.
+    * yet we make assumption MLR4 about $$U$$
 
-The second diagram gives the asymptotic distribution of the IV estimator.
+    This talk of the distribution of a fundamentally unobservable "variable" is a confusing device. Pearl’s method is more explicit: replace MLR$$\{1 \quad 4\}$$ with the causal graph below, where $$:=$$ is used to make it extra clear that the causation only runs one way. MLR1 corresponds to the expression for $$Y$$ (and, redundantly, the two arrows towards $$Y$$), MLR4 corresponds to the absence of arrows connecting $$X$$ and $$U$$. We thus avoid “hiding causal assumptions under the guise of latent variables” (Pearl). (Because of the confusing device, econometricians, to put it kindly, don't always sharply distinguish the mathematics of the diagram from its (causal) interpretation. To see me rant about this, see [here](/econometrics-notation/#inconsistent-causal-language).)
+
+    ![](/images/regression-causal-diagram.png)
+
+The second diagram gives the asymptotic distribution of the IV estimator[^ivcausal].
 
 [![iv](/images/instrumental-variables.png)](/images/instrumental-variables.png)
+
+[^ivcausal]: Again, there's no reason you would care about this unless the interpretation is causal. But I follow good econometrics practice and make only mathematical claims. 
 
 <hr> <!-- hr to be added before footnotes-->
