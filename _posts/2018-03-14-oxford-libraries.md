@@ -101,6 +101,8 @@ There are very few desks compared to the size of the library. The desks and seat
 ## Leopold Muller Memorial Library
 ## Linacre College Library
 ## Lincoln College Library
+6/10.
+Housed in a gorgeous church building. Has a big-ass chandelier. A bit noisy. 
 
 # M
 
@@ -175,6 +177,9 @@ Interesting circular architecture. Good for taking walks around during pomodoro 
 ## Sherardian Library of Plant Taxonomy
 ## Sir William Dunn School of Pathology Library
 ## Social Science Library
+3/10.
+
+Meh.
 ## Somerville College Library
 ## St Anne's College Library
 ## St Antony's College Library
@@ -194,6 +199,9 @@ Interesting circular architecture. Good for taking walks around during pomodoro 
 ## Taylor Institution Library
 ## Trinity College Library
 ## Tylor Library
+Score not available.
+
+I didn't know this existed until I saw it on the list. I suspect the only reason anyone would ever go there is if they mistook it for the Taylorian. (At 53 Banbury road, it lies further to the icy north than any student has ever dared to venture. It [looks](https://www.bodleian.ox.ac.uk/anthropology) small and shabby.)
 
 # U
 
@@ -202,6 +210,16 @@ Interesting circular architecture. Good for taking walks around during pomodoro 
 # V
 
 ## Vere Harmsworth Library at the Rothermere American Institute
+
+7/10.
+
+Underrated. Bright and airy, this hidden gem of a library is tucked behing Mansfield college. One side of the building is entirely transparent glass panels, looking onto the Mansfield lawn.
+
+My favourite spot are the little nooks on the higher floors. You are sort of perched up there, facing the glass panels, with quite a lot of space below you. Each cubicle  is reserved, by name, for a graduate student at the American institute, but you can use them when the grad student is not there, which is most of the time. Once, I found a student's origami otter in her cubicle. In a speech bubble, it berated her: "you otter be working on your thesis!", but she was not there to heed its call, which I guess is a case or irony or something. 
+
+The nooks are excellent: walled off to the sides, they function almost like a mini-office; the desks are ingeniously shaped at right-angles, to give you more usable space.
+
+Location suboptimal.
 
 # W
 
