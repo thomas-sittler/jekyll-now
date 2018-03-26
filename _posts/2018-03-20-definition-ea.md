@@ -48,27 +48,29 @@ MacAskill considers the following desiderata for a definition of EA:
 5. Practical value of public concept: how valuable it is to have the concept, so defined, discussed in the public sphere.
 
 And he notes that different definitions proposed so far have varied insofar as they sometimes do, and sometimes do not: 
-
-  a. Build in some theory of value  
-  b. Include a prohibition against violating side-constraints  
-  c. Include a sacrifice component  
-  d. State the view as a normative claim  
+1. Build in some theory of value  
+2. Include a prohibition against violating side-constraints
+3. Include a sacrifice component  
+4. State the view as a normative claim  
 
 Within this framework, we may note that in MacAskill's definition:
 * **EA is an intellectual and practical project, not a normative claim**
+    - According to a survey of EA leaders, a large majority believe the definition should not be a normative claim and should not include a sacrifice component.
     - The definition is compatible with practising EA being supererogatory, and with the view that there are no normative claims at all. (Both are common views among EAs).
     - Most EAs want to get on with the project of figuring out how to maximise welfare, rather than asking how much is required of one.
     - A project is more appealing as a public concept than a normative claim.
     - Any normative claim risks being inflexible. By analogy: it's a good thing that science was not defined as some specific empirical claims believed by Galileo or Bacon. 
 * **This project’s aims are welfarist, impartial, and maximising**. (Some values should be immediately emphasised, but aren’t part of the definition, such as: cause-neutrality, epistemic humility, good conduct (including respect for rights and co-operation), moral commitment, excitement.)
-    - _Philosophical support_: it can’t just be ‘doing good’, given whatever conception of the good. What about Neonazis?
-    - _Compatibility with current practice_:
+    - To be philosophically well-supported, it can’t just be ‘doing good’, given whatever conception of the good. What about Neonazis?
+    - A majority of EA leaders surveyed believe the definition should include welfarism and the equal consideration of interests.
+    - Compatibility with current practice:
         * All current projects within the effective altruism community are focused on promoting welfare.
         * Most members of the community state that they identify as, or are sympathetic to, utilitarianism.
-    - _Ecumenism_: Promoting welfare (within constraints) is at least permissible on almost all moral views (given the way the world is) and is very important on many moral views.
-    - _Value as a public concept_: This definition avoids EA losing all of its value by becoming so diluted as to be meaningless, or falling into relativism.
+    - Ecumenism: Promoting welfare (within constraints) is at least permissible on almost all moral views (given the way the world is) and is very important on many moral views.
+    - This definition avoids EA losing all of its value by becoming so diluted as to be meaningless, or falling into relativism.
 
 * **A prohibition against violating side-constraints is not included in the definition**
+    * EA leaders in the survey were evenly split on whether the definition should include respect for common-sense ethical prohibitions.
     * Science is the use of evidence and reason to discover truths. It would seem strange to include a “without killing anyone” clause, even though it’s true. 
     * Defining EA as a project, not a normative claim, escapes ‘the end justifies the means’ worries.
 

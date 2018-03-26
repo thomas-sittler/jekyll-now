@@ -209,5 +209,16 @@ John P. Burgess, in *The Princeton companion to mathematics*, elaborates on the 
 > of an operation of differentiation $$d/dx$$ applied to a
 > function $$f (x)$$.
 
+# "That depends what the meaning of 'is' is"
+Bill Clinton's quote has become infamous, but he's got a point. There are at least four meanings of 'is'. They can bec clearly distinguished using predicate logic.
+
+predication
+set membership
+subsethood
+numerical identity
+
+examples of ppl being confused about "is". 
+
+
 <!-- <hr> to be added before footnotes-->
 ---
