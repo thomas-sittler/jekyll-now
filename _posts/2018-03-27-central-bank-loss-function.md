@@ -34,12 +34,12 @@ This argument works for both positive $$x$$ and $$x=0$$.
 
 Even if $$i$$ is not currently at the ZLB, there could be measurement error or forecasting failures, so that $$i$$ could unexpectedly hit the ZLB. The CB uses a target $$\pi>0$$ to stay safely away from the ZLB.
 
+In fact, the target rate of $$\pi^T=2\%$$ is typically used. Why 2%? We have seen that the ZLB provides a good reason to avoid levels of inflation very close to zero. But why not target higher inflation? The qualitative considerations discussed above could go either way, and provide no particular justification for the specific choice of $$\pi^T=2\%$$. Choosing the optimal level of inflation is a very difficult empirical and moral question.
+
 # A typical loss function
 The CB is conventionally taken to be minimising, at each time $$t$$:
 
 $$L=(y_t - y_e)^2 + \beta(\pi_t - \pi^T)^2$$
-
-Where, typically, $$\pi^T=2\%$$.[^why2pc]
 
 This loss function makes no sense from the point of view of the considerations we discussed above. 
 
@@ -59,6 +59,5 @@ $$L = \sum_{t=0}^\infty \delta^t (\beta y_t - \gamma(\pi_t-\pi^T)^2 -\theta(\pi_
 
 where $$\delta$$ is the discount factor, $$\beta y_t$$ represents the fact that more output is good, $$\gamma(\pi_t-\pi^T)^2$$ reflects the fact that inflation has costs and benefits, so we want to aim for an optimal rate $$\pi^T$$, and $$\theta(\pi_t - \pi_{t-1})^2$$ is present because volatile inflation is costly.
 
-[^why2pc]: why $$\pi^T=2\%$$? We have seen that the ZLB provides a good reason to avoid levels of inflation very close to zero. But why not target higher inflation? The qualitative considerations discussed above could go either way, and provide no particular justification for the specific choice of $$\pi^T=2\%$$.
 
 <hr> <!-- hr to be added before footnotes--> 
