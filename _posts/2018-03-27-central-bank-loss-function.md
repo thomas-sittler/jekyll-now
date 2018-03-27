@@ -28,14 +28,14 @@ There are costs to high absolute values of $$\pi$$:
 There are also benefits to higher levels of inflation. Workers are particularly resistant to nominal wage cuts. So inflation oils the wheels of the labour market.
 
 # Which level?
-As we said above, the bank's primary concern is to avoid runaway inflation or delfation. But what level of inflation should the CB target? Inflation has costs and benefits. So it might not seem unreasonable to target $$\pi=0$$ or even $$\pi<0$$. But there is a good reason to aim for a positive level of inflation. Because of the zero lower bound on $i$, it’s more prudent to stay away from low or negative $$\pi$$. Suppose aggregate demand falls when $$\pi = -x$$. Then $$r=i-\pi$$ has a lower bound of $$x$$ and cannot be lowered enough to bring the WS-PS market into equilibrium. The result is a deflationary spiral. 
+As we said above, the bank's primary concern is to avoid runaway inflation or delfation. But what level of inflation should the CB target? Inflation has costs and benefits. So it might not seem unreasonable to target $$\pi=0$$ or even $$\pi<0$$. But there is a good reason to aim for a positive level of inflation. Because of the zero lower bound on $$i$$, it’s more prudent to stay away from low or negative $$\pi$$. Suppose aggregate demand falls when $$\pi = -x$$. Then $$r=i-\pi$$ has a lower bound of $$x$$ and cannot be lowered enough to bring the WS-PS market into equilibrium. The result is a deflationary spiral. 
 
 This argument works for both positive $$x$$ and $$x=0$$. 
 
 Even if $$i$$ is not currently at the ZLB, there could be measurement error or forecasting failures, so that $$i$$ could unexpectedly hit the ZLB. The CB uses a target $$\pi>0$$ to stay safely away from the ZLB.
 
 # A typical loss function
-The CB is conventionally taken to be minimising, at each time $t$:
+The CB is conventionally taken to be minimising, at each time $$t$$:
 
 $$L=(y_t - y_e)^2 + \beta(\pi_t - \pi^T)^2$$
 
@@ -51,7 +51,7 @@ I think there's a confusion here between final and instrumental goals. Minimisin
 
 Carlin and Soskice write: "The policy maker is modelled as an inflation-targeting central bank not because this is necessarily the best policy-making arrangement, but because it most closely resembles hoe modern stabilisation policy is undertaken". They also say: "Note that this loss function [...] assumes a symmetrical attitude to positive and negative deviations [...] from the equilibrium level of output. The most straightforward way of thinking about this is that the central bank understands the model and realises that inflation is only constant at $$y_t=y_e$$. If $$y_t<y_e$$ then this represents unnecessary unemployment that should be eliminated. If $$y_t> y_e$$, this is unsustainable and will require costly increases in unemployment to bring the associated inflation back down".
 
-Unfortunately, I think this confuses rather than clarifies matters. According to the WS-PS model, $$y_t<y_e$$ will lead to runaway deflation, and $$y_>y_e$$ will lead to runaway inflation. In the same breath, the authors mix instrumental goals (If $$y_t> y_e$$, this is unsustainable and will require costly increases in unemployment...) and final goals (If $$y_t<y_e$$ then this represents unnecessary unemployment). 
+Unfortunately, I think this confuses rather than clarifies matters. According to the WS-PS model, $$y_t < y_e$$ will lead to runaway deflation, and $$y_t>y_e$$ will lead to runaway inflation. In the same breath, the authors mix instrumental goals ("If $$y_t > y_e$$, this is unsustainable and will require costly increases in unemployment...") and final goals ("If $$y_t<y_e$$ then this represents unnecessary unemployment"). 
 
 Instead, I think the (final) loss function of the CB should be something like:
 
