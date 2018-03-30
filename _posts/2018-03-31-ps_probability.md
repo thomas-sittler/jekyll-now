@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Philosophy success story IV: the formalisation of probability"
-2018-03-31 12:01:00
+date: 2018-03-31 12:01:00
 ---
 
 > Thus, joining the rigour of demonstrations in mathematics with the uncertainty of chance, and conciliating these apparently contradictory matters, it can, taking its name from both of them, with justice arrogate the stupefying name: The Mathematics of Chance (Aleae Geometria).
