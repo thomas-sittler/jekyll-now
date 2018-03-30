@@ -182,33 +182,13 @@ At this point, I'm hearing distinct echoes of the knowledge merry-go-round. Afte
 
 I think the value would be very limited. We are able to fully describe any situtation without making use of the word "causation" (see below). Why then spend all this time considering baroque thought experiments? In the case of Suzy and Billy's bottle, I honestly haven't got that strong an intuition of what was the cause of the shattering. I think it's playing games with open texture.
 
-How is it that we can eliminate[^russel] causation from our langauge? To describe what actually happens in the world, including in the above cases, only counterfactuals are needed. Brain Tomasik [explains](http://reducing-suffering.org/the-many-fallacies-of-dualism/#Causation):
+How is it that we can eliminate[^russel] causation from our langauge? To describe what actually happens in the world, including in the above cases, we only need to describe each counterfactual situation. Brain Tomasik [describes](http://reducing-suffering.org/the-many-fallacies-of-dualism/#Causation) one  way of doing so:
 
-> But if we had a complete physical model of the multiverse (e.g., a giant computer program that specified how the multiverse evolved), then we could define whether X *actually* causes Y as follows: Change the program to remove X in some way and see if Y still happens. If not, then X was at least one of the causes of Y.  
+> But if we had a complete physical model of the multiverse (e.g., a giant computer program that specified how the multiverse evolved), [we could ] change the program to remove X in some way and see if Y still happens.
 
-[^russel]: This idea has a good pedigree: in the words of Russell: "The law of causation, […] is a relic of a bygone age, surviving, like the monarchy, only because it is erroneously supposed to do no harm. [...] In the motions of mutually gravitating bodies, there is nothing that can be called a cause, and nothing that can be called an effect; there is merely a formula." For more discussion see [Stanford](https://plato.stanford.edu/entries/causation-metaphysics/) and [Judea Pearl](link to quote). 
+[^russel]: This idea has a good pedigree: in the words of Russell: "The law of causation, […] is a relic of a bygone age, surviving, like the monarchy, only because it is erroneously supposed to do no harm. [...] In the motions of mutually gravitating bodies, there is nothing that can be called a cause, and nothing that can be called an effect; there is merely a formula." For more discussion see [Stanford](https://plato.stanford.edu/entries/causation-metaphysics/) and [Judea Pearl](https://quotables.github.io/2018/01/17/filename.html). 
 
-Tomasik wants to stipulate a definition of causation. It's an example of regimentation. 
-
-## Counterfactuals
-Counterfactuals have themselves been the recipients of much philosophical attention, often from the same protagonists we encountered in the analysis of causation.
-
-Chapter 8 of *Logic for Philosophy* (Sider) gives a good overview.
-
-> What do counterfactuals mean? What are their truth conditions? David Lewis (1973a) and Robert Stalnaker (1968) give versions of the following answer. To determine whether a counterfactual P \boxarow Q is true, we must consider all the possible worlds in which P is true, and fnd the one that is most similar to the actual world. P \boxarow Q is true in the actual world if and only if Q is true in that most similar world. Consider Lewis’s example:
-> > If kangaroos had no tails, they would topple over.
-> When we consider the possible world that would be actual if kangaroos had no tails, we do not depart gratuitously from actuality. We do not consider a world in which kangaroos have wings, or crutches. We do not consider a world with different laws of nature, in which there is no gravity. We keep the kangaroos and the laws of nature as similar as we can to how they actually are (while still removing the tails). It seems that the kangaroos would then fall over.
-
-Stalnaker proposed one analysis of counterfactuals in terms of similar possible worlds. Lewis found some counter-examples to it, and developed a 
-
-* Desiderata for the logic of counterfactuals
-* Stalnaker's theory
-* Lewis' criticisms
-* The problem of disjunctive antecedents
-
-As with causation, eliminativism is an (underrated) option here. It seems clear to me that if we have a complete SC-model or LC-model (a description of all the possible worlds, and how similar they are to each other), there is no further fact about any counterfactuals. We have fully described the universe. 
-
-But perhaps, as with "species", maintaining the flawed analysis is a decent option too.
+Alternatively, you could specify your model using a [causal graph](https://en.wikipedia.org/wiki/Causal_graph). Once the causal graph is fully specified, it's an empty question what _truly_ caused the bottle to shatter. 
 
 # How the most successful conceptual analyses become definitions
 The analysis of limit, has become a universally accepted definition. The same thing is in the (largely completed) process of happening for the analysis of computability. Soare 1996 draws the analogy beautifully:
