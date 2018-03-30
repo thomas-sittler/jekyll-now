@@ -8,7 +8,7 @@ the distilled insights of a remarkable collection of logicians, developed
 over centuries.
 <p style="text-align:right;">— Martin Davis (2000)</p>
 
-*This is part of my series on success stories in philosophy. See [this page](/ps) for an explanation of the project and links to other items in the series.*
+*This is part of my series on success stories in philosophy. See [this page](/ps) for an explanation of the project and links to other items in the series. I also have a related discussion of conceptual analysis [here](/conceptual)*
 
 # Contents
 {: .no_toc}
