@@ -226,9 +226,13 @@ Location suboptimal.
 ## Wadham College Library
 ## Wellcome Unit for the History of Medicine Library
 ## Weston Library
-9/10
+10/10
     
-The library was established in 2015 (the year I arrived in Oxford) after extensive refurbishment of the New Bodleian Library building in which it is housed. The new facilities are incredibly luxurious, artfully combining old-style wood panels with pleasant, modern design. The specially designed chairs are amazing. I especially recommend the Charles Wendell David reading room on the top floor, which has light flooding in from all sides and offers an amazing view of the Old Bod and Rad Cam. There is only one donwside: since the Weston contains the Bodlein Libraries' special collections, no pens are allowed in the reading rooms. Pencils only, say signs everywhere.
+The library was established in 2015 (the year I arrived in Oxford) after extensive refurbishment of the New Bodleian Library building in which it is housed. The new facilities are incredibly luxurious, artfully combining old-style wood panels with pleasant, modern design. The specially designed chairs are amazing. 
+
+I especially recommend the Charles Wendell David reading room on the top floor, which has light flooding in from all sides and offers an amazing view of the Old Bod and Rad Cam. It even has a motorised standing desk!
+
+There is only one donwside: since the Weston contains the Bodlein Libraries' special collections, no pens are allowed in the reading rooms. Pencils only, say signs everywhere.
 ## Wolfson College Library
 ## Worcester College Library
 
