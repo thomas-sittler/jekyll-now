@@ -5,10 +5,12 @@ date: 2018-03-31 12:01:00
 ---
 
 > Thus, joining the rigour of demonstrations in mathematics with the uncertainty of chance, and conciliating these apparently contradictory matters, it can, taking its name from both of them, with justice arrogate the stupefying name: The Mathematics of Chance (Aleae Geometria).
-- Blaise Pascal, in an address to the Académie Parisienne de Mathématiques, 1654
+
+<p style="text-align:right;"> — Blaise Pascal, in an address to the Académie Parisienne de Mathématiques, 1654 </p>
 
 > In view of the achievements of the Greeks in mathematics and science, it is surprising that they did not use the symmetry of games of chance or the stability of relative frequencies to create an axiomatic theory of probability analogous to their geometry. However, the symmetry and stability which is obvious to us may not have been noticed in ancient times because of the imperfections of the randomizers used. David (1955, 1962) has pointed out that instead of regular dice, astragali (heel bones of hooved animals) were normally used, and Samburski (1956) remarks that in a popular game with four astragali, a certain throw was valued higher than all the others despite the fact that other outcomes have smaller probabilities, which indicates that the Greeks had not noticed the magnitudes of the corresponding relative frequencies.
-- Anders Hald
+
+<p style="text-align:right;"> — Anders Hald </p>
 
 _This is part of my series on success stories in philosophy. See [this page](/ps) for an explanation of the project and links to other items in the series._
 

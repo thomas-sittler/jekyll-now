@@ -64,8 +64,8 @@ Aristole's could be taken to reason thus:
 3. If Battle, then Necessarily Battle
 
 But this is an obvious modal fallacy, drawing on the ambiguity of (1) between
-* The true statement $$\box (B \lor \neg B)$$ which implies $$\box(B \rightarrow \neg\neg B)$$ 
-* The false statement $$(B \rightarrow \box \neg\neg B) \iff (B \rightarrow \box B)$$
+* The true statement $$\Box (B \lor \neg B)$$ which implies $$\Box(B \rightarrow \neg\neg B)$$ 
+* The false statement $$(B \rightarrow \Box \neg\neg B) \iff (B \rightarrow \Box B)$$
 
 Philosophy is littered with variations on this confusion between necessity of the consequence and necessity of the consequent.
 
@@ -91,10 +91,10 @@ SEP [writes](https://plato.stanford.edu/entries/metaphysics/):
 
 And [elsewhere](https://plato.stanford.edu/entries/possible-worlds/):
 
-> (15) Algol is a dog essentially: $$\box (\exists a  \rightarrow Da)$$
+> (15) Algol is a dog essentially: $$\Box (\exists a  \rightarrow Da)$$
 > 
 > Sentences like (15) in which properties are ascribed to a specific individual in a modal context are said to exhibit modality de re (modality of the thing). Modal sentences that do not, like
- Necessarily, all dogs are mammals: $$\box \forall x (Dx \rightarrow Mx)$$
+ Necessarily, all dogs are mammals: $$\Box \forall x (Dx \rightarrow Mx)$$
 are said to exhibit modality de dicto (roughly, modality of the proposition). 
 
 As Plantiga writes Quine has us confused:
