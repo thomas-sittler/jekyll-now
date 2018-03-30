@@ -14,7 +14,7 @@ title: "The successes and failures of conceptual analysis"
 
 # Introduction
 
-The point has been made often and well ([Wittgenstein](https://en.wikipedia.org/wiki/Family_resemblance), [Ramsey](https://link.springer.com/article/10.1007%2FBF00768299), [Muehlhauser](http://commonsenseatheism.com/?p=16103), [Yudkowsky](https://wiki.lesswrong.com/wiki/A_Human's_Guide_to_Words)) , that conceptual analysis is doomed by resting on falsified assumptions about human cognition, and a mistaken view of the nature of empirical categories.
+The point has been made often and well ([Wittgenstein](https://en.wikipedia.org/wiki/Family_resemblance), [Ramsey](https://link.springer.com/article/10.1007%2FBF00768299), [Muehlhauser](http://commonsenseatheism.com/?p=16103), [Yudkowsky](https://wiki.lesswrong.com/wiki/A_Human's_Guide_to_Words)), that conceptual analysis is doomed by resting on falsified assumptions about human cognition, and a mistaken view of the nature of empirical categories.
 
 A first problem is with necessary and sufficient conditions:
 > Category-membership for concepts in the human brain is not a yes/no affair, as the “necessary and sufficient conditions” approach of the classical view assumes. Instead, category membership is fuzzy. ([Muehlhauser](http://commonsenseatheism.com/?p=16103))

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Philosophy success story II: the analysis of computability"
+date: 2017-12-03 13:30:00
 ---
 
 > a computing machine is really a logic machine. Its circuits embody
