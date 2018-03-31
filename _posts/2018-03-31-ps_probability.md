@@ -12,6 +12,10 @@ date: 2018-03-31 12:01:00
 
 <p style="text-align:right;"> — Anders Hald </p>
 
+> Wherefore in all great works are Clerkes so much desired? Wherefore are Auditors so richly fed? What causeth Geometricians so highly to be enhaunsed? Why are Astronomers so greatly advanced? Because that by number such things they finde, which else would farre excell mans minde.
+
+<p style="text-align:right;"> — Robert Recorde, Arithmetic (1543) </p>
+
 _This is part of my series on success stories in philosophy. See [this page](/ps) for an explanation of the project and links to other items in the series._
 
 # Contents
@@ -83,7 +87,7 @@ winning, $$a = s - s_1$$ and $$b = s - s_2$$, say. He introduces a new play wher
 Note how different this type of disagreement is from mathematical disagreements. When people reach different solutions about a "toy" problem case, and muddle through with heursitics, they are not facing a recalcitrant mathematical puzzle. They are confused on a much deeper level.
 
 # Pascal and Fermat's solution
-Pascal and Fermat's story is [well known](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf): in the 1650s they developed the basic notion of probability and expected value.
+Pascal and Fermat's story is well known. In a [famous correspondence](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf) in the 1654, they developed the basic notion of probability and expected value.
 
 Keith Devlin (2008):
 
