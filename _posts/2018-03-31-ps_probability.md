@@ -50,6 +50,8 @@ One can find throughout history people grasping at the intuition that when the s
 > In the Talmud itself, the demand for a high standard of evidence in criminal cases developed into a prohibition of any uncertainty in evidence: 
 > > Witnesses in capital charges were brought in and warned: perhaps what you say is based only on conjecture, or hearsay, or is evidence from the mouth of another witness, or even from the mouth of an untrustworthy person: perhaps you are unaware that ultimately we shall scrutinize your evidence by cross-examination and inquiry? Know then that capital cases are not like monetary cases. In civil suits, one can make restitution in money, and thereby make his atonement; but in capital cases one is held responsible for his blood and the blood of his descendants till the end of the world . . . whoever destroys a single soul of Israel, scripture imputes to him as though he had destroyed a whole world . . . Our Rabbis taught: What is meant by “based only on conjecture”?—He [the judge] says to them: Perhaps you saw him running after his fellow into a ruin, you pursued him, and found him sword in hand with blood dripping from it, whilst the murdered man was writhing. If this is what you saw, you saw nothing.
 
+
+Thomas Aquinas wrote:
 > And yet the fact that in so many it is not possible to have certitude without fear of error is no reason why we should reject the certitude which can probably be had [quae probabiliter haberi potest] through two or three witnesses … (Thomas Aquinas, Summa theologiae, II-II, q. 70, 2, 1488)
 
 James Franklin writes:
@@ -77,6 +79,8 @@ winning, $$a = s - s_1$$ and $$b = s - s_2$$, say. He introduces a new play wher
     More on Cardano, in Section 4.3 of Hald: 
     > [Cardano's] _De Ludo Aleae_ is a treatise on the moral, practical, and theoretical aspects of gambling, written in colorful language and containing some anecdotes on Cardano’s own experiences. Most of the theory in the book is given in the form of examples from which general principles are or may be inferred. In some cases Cardano arrives at the solution of a problem through trial and error, and the book contains both the false and the correct solutions. He also tackles some problems that he cannot solve and then tries to give approximate solutions. [...] In Chap. 14, he defines the concept of a fair games in the following terms: 
     > > So there is one general rule, namely, that we should consider the whole circuit [the total number of equally possible cases], and the number of those casts which represents in how many ways the favorable result can occur, and compare that number to the remainder of the circuit, and according to that proportion should the mutual wagers be laid so that one may contend on equal terms.
+
+Note how different this type of disagreement is from mathematical disagreements. When people reach different solutions about a "toy" problem case, and muddle through with heursitics, they are not facing a recalcitrant mathematical puzzle. They are confused on a much deeper level.
 
 # Pascal's solution
 Pascal and Fermat's story is [well known](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf): in the 1650s they developed the basic notion of probability and expected value.
