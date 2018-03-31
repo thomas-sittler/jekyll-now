@@ -8,9 +8,11 @@ date: 2018-03-31 12:01:00
 
 <p style="text-align:right;"> — Blaise Pascal, in an address to the Académie Parisienne de Mathématiques, 1654 </p>
 
-> In view of the achievements of the Greeks in mathematics and science, it is surprising that they did not use the symmetry of games of chance or the stability of relative frequencies to create an axiomatic theory of probability analogous to their geometry. However, the symmetry and stability which is obvious to us may not have been noticed in ancient times because of the imperfections of the randomizers used. David (1955, 1962) has pointed out that instead of regular dice, astragali (heel bones of hooved animals) were normally used, and Samburski (1956) remarks that in a popular game with four astragali, a certain throw was valued higher than all the others despite the fact that other outcomes have smaller probabilities, which indicates that the Greeks had not noticed the magnitudes of the corresponding relative frequencies.
 
-<p style="text-align:right;"> — Anders Hald </p>
+> Researchers in the field have wondered why the development of probability theory was so slow—especially why the apparently quite simple mathematical theory of dice throwing did not appear until the 1650s. The main part of the answer lies in appreciating just how diffi- cult it is to make concepts precise.
+
+<p style="text-align:right;"> -- James Franklin, The Science of Conjecture </p> 
+
 
 > Wherefore in all great works are Clerkes so much desired? Wherefore are Auditors so richly fed? What causeth Geometricians so highly to be enhaunsed? Why are Astronomers so greatly advanced? Because that by number such things they finde, which else would farre excell mans minde.
 
@@ -85,6 +87,9 @@ winning, $$a = s - s_1$$ and $$b = s - s_2$$, say. He introduces a new play wher
     > > So there is one general rule, namely, that we should consider the whole circuit [the total number of equally possible cases], and the number of those casts which represents in how many ways the favorable result can occur, and compare that number to the remainder of the circuit, and according to that proportion should the mutual wagers be laid so that one may contend on equal terms.
 
 Note how different this type of disagreement is from mathematical disagreements. When people reach different solutions about a "toy" problem case, and muddle through with heursitics, they are not facing a recalcitrant mathematical puzzle. They are confused on a much deeper level.
+
+Anders Hald also has this interesting quote:
+> In view of the achievements of the Greeks in mathematics and science, it is surprising that they did not use the symmetry of games of chance or the stability of relative frequencies to create an axiomatic theory of probability analogous to their geometry. However, the symmetry and stability which is obvious to us may not have been noticed in ancient times because of the imperfections of the randomizers used. David (1955, 1962) has pointed out that instead of regular dice, astragali (heel bones of hooved animals) were normally used, and Samburski (1956) remarks that in a popular game with four astragali, a certain throw was valued higher than all the others despite the fact that other outcomes have smaller probabilities, which indicates that the Greeks had not noticed the magnitudes of the corresponding relative frequencies.
 
 # Pascal and Fermat's solution
 Pascal and Fermat's story is well known. In a [famous correspondence](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf) in the 1654, they developed the basic notion of probability and expected value.
@@ -176,13 +181,7 @@ Elsewhere, Keith Devlin writes:
 ## Handing over to mathematics
 Solving a philosophical problem is to take it out of the realm of philosophy. Once the fundamental methodology is agreed upon, the question can be spun off into its own independent field.
 
-The development of probability is often considered part of Pascal's mathematical rather than philosophical work. But I think the mathematisation of probability is in an important sense philosophical. In [another post](/ps_looks-like), I write much more about why successful philosophy often looks like mathematics in retrospect. James Franklin also writes:
-
-> Researchers in the field have wondered why the development of
-probability theory was so slow—especially why the apparently quite
-simple mathematical theory of dice throwing did not appear until the
-1650s. The main part of the answer lies in appreciating just how diffi-
-cult it is to make concepts precise.
+The development of probability is often considered part of Pascal's mathematical rather than philosophical work. But I think the mathematisation of probability is in an important sense philosophical. In [another post](/ps_looks-like), I write much more about why successful philosophy often looks like mathematics in retrospect.
 
 After Pascal and Fermat's breakthrough, things developed very fast, highlighting once again the specificity of that ititial step.
 
