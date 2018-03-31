@@ -94,8 +94,8 @@ And [elsewhere](https://plato.stanford.edu/entries/possible-worlds/):
 > (15) Algol is a dog essentially: $$\Box (\exists a  \rightarrow Da)$$
 > 
 > Sentences like (15) in which properties are ascribed to a specific individual in a modal context are said to exhibit modality de re (modality of the thing). Modal sentences that do not, like
- Necessarily, all dogs are mammals: $$\Box \forall x (Dx \rightarrow Mx)$$
-are said to exhibit modality de dicto (roughly, modality of the proposition). 
+> > Necessarily, all dogs are mammals: $$\Box \forall x (Dx \rightarrow Mx)$$
+> are said to exhibit modality de dicto (roughly, modality of the proposition). 
 
 As Plantiga writes Quine has us confused:
 > The essentialist, Quine thinks, will presumably accept
