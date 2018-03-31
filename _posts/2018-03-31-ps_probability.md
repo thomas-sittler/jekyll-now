@@ -82,8 +82,91 @@ winning, $$a = s - s_1$$ and $$b = s - s_2$$, say. He introduces a new play wher
 
 Note how different this type of disagreement is from mathematical disagreements. When people reach different solutions about a "toy" problem case, and muddle through with heursitics, they are not facing a recalcitrant mathematical puzzle. They are confused on a much deeper level.
 
-# Pascal's solution
+# Pascal and Fermat's solution
 Pascal and Fermat's story is [well known](https://www.york.ac.uk/depts/maths/histstat/pascal.pdf): in the 1650s they developed the basic notion of probability and expected value.
+
+Keith Devlin (2008):
+
+> Before we take a look at their exchange and the methods
+> it contains, let’s look at a present-day solution of the simple
+> version of the problem. In this version, the players, Blaise
+> and Pierre, place equal bets on who will win the best of five
+> tosses of a fair coin. We’ll suppose that on each round, Blaise
+> chooses heads, Pierre tails. Now suppose they have to abandon
+> the game after three tosses, with Blaise ahead 2 to 1.
+> How do they divide the pot?
+> The idea is to look at all possible ways the game might
+> have turned out had they played all five rounds. Since Blaise
+> is ahead 2 to 1 after round three, the first three rounds must
+> have yielded two heads and one tail.
+> The remaining two throws can yield
+> 
+> HH HT TH TT
+> 
+> Each of these four is equally likely. In the first (H H), the
+> final outcome is four heads and one tail, so Blaise wins; in
+> the second and the third (H T and T H), the final outcome is
+> three heads and two tails, so again Blaise wins; in the fourth
+> (T T), the final outcome is two heads and three tails, so
+> Pierre wins. This means that in three of the four possible
+> ways the game could have ended, Blaise wins, and in only
+> one possible play does Pierre win. Blaise has a 3-to-1 advantage
+> over Pierre when they abandon the game; therefore,
+> the pot should be divided 3/4 for Blaise and 1/4 for Pierre.
+> Many people, on seeing this solution, object, saying that
+> the first two possible endings (H H and H T) are in reality
+> the same one. They argue that if the fourth throw gives a
+> head, then at that point, Blaise has his three heads and has
+> won, so there would be no fifth throw. Accordingly, they
+> argue, the correct way to think about the end of the game is
+> that there are actually only three possibilities, namely
+> 
+> H TH TT
+> 
+> in which case, Blaise has a 2-to-1 advantage and the pot
+> should be divided 2/3 for Blaise and 1/3 for Pierre, not 3/4 and
+> 1/4. This reasoning is incorrect, but it took Pascal and Fermat
+> some time to resolve this issue. Their colleagues, whom they
+> consulted as they wrestled with the matter, had differing opinions.
+> So if you are one of those people who finds this alternative
+> argument appealing (or even compelling), take heart; you
+> are in good company (though still wrong).
+> 
+> The issue behind the dilemma here is complex and lies at
+> the heart of probability theory. The question is, What is the
+> right way to think about the future (more accurately, the
+> range of possible futures) and model it mathematically?
+
+
+The key insight was one that Cardano had already flailingly grapsed at, but was difficult to understand even for Pascal:
+
+> As I observed earlier in this chapter, Cardano had already
+> realized that the key was to look at the number of points
+> each player would need in order to win, not the points they
+> had already accumulated. In the second section of his letter
+> to Fermat, Pascal acknowledged the tricky point we just encountered
+> ourselves, that you have to look at all possible
+> ways the game could have played out, ignoring the fact that
+> the players would normally stop once one person had clearly
+> won. But Pascal’s words make clear that he found this hard
+> to grasp, and he accepted it only because the great Fermat
+> had explained it in his previous letter.
+
+Elsewhere, Keith Devlin writes:
+
+> Today, we would use the word probability to refer to the
+> focus of Pascal and Fermat’s discussion, but that term was
+> not introduced until nearly a century after the mathematicians’
+> deaths. Instead, they spoke of “hazards,” or number of
+> chances. Much of their difficulty was that they did not yet
+> have the notion of mathematical probability—because they
+> were in the process of inventing it.
+> 
+> From our perspective, it is hard to understand just why they
+> found it so difficult. But that reflects the massive change in
+> human thinking that their work led to. Today, it is part of our
+> very worldview that we see things in terms of probabilities.
+
 
 # Extensions
 ## Handing over to mathematics
@@ -97,11 +180,40 @@ simple mathematical theory of dice throwing did not appear until the
 1650s. The main part of the answer lies in appreciating just how diffi-
 cult it is to make concepts precise.
 
+After Pascal and Fermat's breakthrough, things developed very fast, highlighting once again the specificity of that ititial step.
+
+Keith Devlin writes:
+> In 1654, Pascal had struggled hard to understand why
+> Fermat counted endings of the unfinished game that would
+> never have arisen in practice (“it is not a general method
+> and it is good only in the case where it is necessary to play
+> exactly a certain number of times”). Just fifteen years later,
+> in 1669, Christiaan Huygens was using axiom-based abstract
+> mathematics on top of statistically processed data tables to
+> determine the probability that a sixteen-year-old young man
+> would die before he reached thirty-six.
+
 After the crucial first step for formalisation, probability was ripe to be handed over to mathematicians. SEP writes:
 > These early calculations [of Pascal, Fermay and Huygens] were considerably refined in the eighteenth century by the Bernoullis, Montmort, De Moivre, Laplace, Bayes, and others (Daston 1988; Hacking 2006; Hald 2003). 
 
 For example, the crucial idea of _conditional probability_ was developed. According to [MathOverflow](https://mathoverflow.net/questions/163582/what-is-the-early-history-of-the-concepts-of-probabilistic-independence-and-cond), in the 1738 second edition of _The Doctrine of Chances_, de Moivre writes,
 > The Probability of the happening of two Events dependent, is the product of the Probability of the happening of one of them, by the Probability which the other will have of happening, when the first shall be consider'd as having happened; and the same Rule will extend to the happening of as many Events as may be assigned.
+
+People began to _get it_, philosophically speaking. We begin to see quotes that, unlike those of Circeo, sound decidedly modern. In his book Ars conjectandi (The Art of Conjecture, 1713), Jakob Bernoulli wrote:
+> To conjecture about something is to measure its probability.
+> The Art of Conjecturing or the Stochastic Art is therefore
+> defined as the art of measuring as exactly as possible the
+> probabilities of things so that in our judgments and actions
+> we can always choose or follow that which seems to be better,
+> more satisfactory, safer and more considered.
+
+Keth Devlin writes:
+> Within a hundred years of Pascal’s letter, life-expectancy
+tables formed the basis for the sale of life annuities in England,
+and London was the center of a flourishing marine insurance
+business, without which sea transportation would
+have remained a domain only for those who could afford to
+assume the enormous risks it entailed. 
 
 ## Axiomatisation
 Much later, probability theory was put on an unshakeable footing, with [Kolomogorov's axioms](https://en.wikipedia.org/wiki/Probability_axioms). 
