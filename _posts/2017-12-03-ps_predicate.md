@@ -212,12 +212,9 @@ John P. Burgess, in *The Princeton companion to mathematics*, elaborates on the 
 # "That depends what the meaning of 'is' is"
 Bill Clinton's quote has become infamous, but he's got a point. There are at least four meanings of 'is'. They can bec clearly distinguished using predicate logic.
 
-predication
-set membership
-subsethood
-numerical identity
+Hintikka ‎2004: 
+> Perhaps the most conspicuous feature that distinguishes our contemporary « modern » logic created by Frege, Peirce, Russell and Hilbert from its predecessors is the assumption that verbs for being are ambiguous between the is of predication (the copula), the is of existence, the is of identity, and the is of subsumption. This assumption will be called the Frege-Russell ambiguity thesis. This ambiguity thesis is built into the usual notation of first-order logic and more generally into the usual notation for quantifiers of any order, in that the allegedly different meanings of verbs like « is » are expressed differently in it. The is of existence is expressed by the existential quantifier (\exists x), the is of predication by juxtaposition (or, more accurately speaking, by a singular term's filling the argument slot of a predicative expression), the is of identity by = , and the is of subsumption by a general conditional.
 
-examples of ppl being confused about "is". 
 
 
 <!-- <hr> to be added before footnotes-->
