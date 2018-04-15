@@ -3,20 +3,21 @@ layout: post
 title: "What success in philosophy sometimes looks like"
 ---
 
-Many [success stories in philosophy](/ps) can usefully be viewed as _disambiguations_ or _formalisations_. 
+Many [success stories in philosophy](/ps) can usefully be viewed as _disambiguations_ or _formalisations_.
 
 # Disambiguation
 Wittgenstein wrote that "philosophy is a battle against the bewitchment of our intelligence by means of language". Ordinary language developed to work in ordinary contexts. When we deal with philosophically tricky issues, however, ordinary language rarely coincides with the underlying concepts in a one-to-one mapping. Sometimes ordinary language will use two different words for the same concept. This case rarely leads to problems. But when instead ordinary terms are ambiguous between two or more meanings, this is fertile ground for confusion. A lot of good philosophy disambiguates between these meanings to dissolve apparent paradoxes.
 
 Phrases that have been disambiguated include:
-* "The present king of France is not bald"
-* "Some cat is feared by every mouse"
-* "If P is true, then P _cannot_ be false"
-* "I decided to do that of my own free will"
+* "The present king of France is not bald" ([Quantification vs reference, Negation scope ambiguity](/ps_predicate))
+* "Some cat is feared by every mouse" ([Universal quantifier scope](/ps_predicate))
+* "If P is true, then P _cannot_ be false" ([Modal scope ambiguity](/ps_modal))
+* "I decided to do that of my own free will" (Could-have-been-otherwise vs unconstrained)
+* "We should expect humans to behave selfishly" (Is vs ought)
 
 
 # Formalisation
-Sometimes people find my purported success stories mathematical rather than philosophical. I've even been accused of lumping the whole of mathematics into philosophy. I see why this intuition is compelling. Logic, the analysis of computability, Bayesianism and so on just _look_ mathsy. It seems natural to cluster them with maths rather than philosophy. And that definitely makes sense in some contexts. 
+Sometimes people find my purported success stories mathematical rather than philosophical. I've even been accused of lumping the whole of mathematics into philosophy. I see why this intuition is compelling. Logic, the analysis of computability, Bayesianism and so on just _look_ mathsy. It seems natural to cluster them with maths rather than philosophy. And that definitely makes sense in some contexts.
 
 Here, I'm trying to understand how philosophy works, and what it can do for us when it's successful. In that context, I claim, these stories should be clustered with philosophy. We should look beyond superficial patterns, like what the work looks like on the printed page, and instead ask: what kind of cognitive work is being done?
 
@@ -31,11 +32,11 @@ Here's another example. Logic has nothing to do with quantity or number, but is 
 I don't mean to claim that all of mathematics should be clustered with philosophy. I just mean the initial _mathematisation_ of a previously informal area of study. Once the formal cornerstones have been laid, philosophy really does hand off to mathematics.  My rough picture of intellectual progress is the following:
 
 1. Confusion reigns. People get lost in vague verbiage, and there is no standard way to adjudicate disagreements.
-2. Much work is done in the service of clarification. Ultimately, maximal clarification is achieved through formalisation. 
+2. Much work is done in the service of clarification. Ultimately, maximal clarification is achieved through formalisation.
 3. With a formal system at hand, people go to town with it, proving things left and right, extending the system, and so on.
 4. We begin to view this area of study as mathematical or even part of mathematics.
 
-Stage (1) is what most people think philosophy looks like. I say: it's philosophy when it's still failing. Stage (2) is successful philosophy (or at least one kind it). But the philosophical nature of the contribution in (2) is often forgotten in the subsequent wave of mathematical enthusiasm for steps (3) and (4). 
+Stage (1) is what most people think philosophy looks like. I say: it's philosophy when it's still failing. Stage (2) is successful philosophy (or at least one kind it). But the philosophical nature of the contribution in (2) is often forgotten in the subsequent wave of mathematical enthusiasm for steps (3) and (4).
 
 I hope I've now built the intuition enough to move on to the success stories that people have found most counter-intuitive.
 
@@ -43,4 +44,4 @@ With the [analysis of computability](/ps_computability), the philosophical work 
 
 In the case of the development of [probability theory](/ps_probability), it's emphatically not the case that, pre-Pascal, people were disagreeing on a point of mathematics. They were much more deeply confused. They just had no appropriate notion of probability or expected value, and were trying to cobble together solutions to particular problems using ad-hoc intuitions. Because Pascal launched probability theory, it seems only natural to view his first step as part of probability theory. But in an important sense the first step is very different. It's much more philosophical.
 
-<hr> <!-- hr to be added before footnotes--> 
+<hr> <!-- hr to be added before footnotes-->

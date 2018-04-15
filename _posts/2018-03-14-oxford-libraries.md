@@ -133,6 +133,12 @@ A classic of the Oxford repertoire, the Old Bod needs no introduction and is loc
 
 ## Oriel College Library
 ## Oriental Institute Library
+4/10
+
+Tucked away on the minuscule Pusey Lane, this library is cute, homely, and unpretentious. Facilities thouroughly average. Quiet.
+
+One thing stands out: it has an actual card catalogue! The wooden filing system lines the back wall of the library. I'm unsure if it's still in use.
+
 ## Ornithology Library
 ## Oxford Centre for Islamic Studies Library
 ## Oxford Centre for Mission Studies Library
