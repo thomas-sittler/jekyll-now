@@ -8,7 +8,7 @@ _I'll update this page regularly with new reviews_
 # Contents
 {: .no_toc}
 1. toc
-{:toc} 
+{:toc}
 
 # A
 
@@ -102,7 +102,7 @@ There are very few desks compared to the size of the library. The desks and seat
 ## Linacre College Library
 ## Lincoln College Library
 6/10.
-Housed in a gorgeous church building. Has a big-ass chandelier. A bit noisy. 
+Housed in a gorgeous church building. Has a big-ass chandelier. A bit noisy.
 
 # M
 
@@ -166,6 +166,12 @@ One thing stands out: it has an actual card catalogue! The wooden filing system 
 
 ## Radcliffe Camera
 ## Radcliffe Science Library
+1/10
+
+The lower floors are a disgrace. They look like Podunk University built them in 1971, and ran out of money before the interior decoration could be completed. Old swivel chairs in an offensive shade of brown, harsh neon lights.
+
+Upper floors are average, unremarkable. 
+
 ## Regent's Park College Library
 ## Research Laboratory for Archaeology and the History of Art Library
 ## Rewley House Continuing Education Library
@@ -175,7 +181,7 @@ One thing stands out: it has an actual card catalogue! The wooden filing system 
 # S
 
 ## Sackler Library
-5/10 
+5/10
 
 Interesting circular architecture. Good for taking walks around during pomodoro breaks. Otherwise unremarkable. The antechamber might be the most impressive part. Has fucking _huge_ volumes if you want to take a funny picture for likes on social media.
 
@@ -221,7 +227,7 @@ I didn't know this existed until I saw it on the list. I suspect the only reason
 
 Underrated. Bright and airy, this hidden gem of a library is tucked behing Mansfield college. One side of the building is entirely transparent glass panels, looking onto the Mansfield lawn.
 
-My favourite spot are the little nooks on the higher floors. You are sort of perched up there, facing the glass panels, with quite a lot of space below you. Each cubicle  is reserved, by name, for a graduate student at the American institute, but you can use them when the grad student is not there, which is most of the time. Once, I found a student's origami otter in her cubicle. In a speech bubble, it berated her: "you otter be working on your thesis!", but she was not there to heed its call, which I guess is a case or irony or something. 
+My favourite spot are the little nooks on the higher floors. You are sort of perched up there, facing the glass panels, with quite a lot of space below you. Each cubicle  is reserved, by name, for a graduate student at the American institute, but you can use them when the grad student is not there, which is most of the time. Once, I found a student's origami otter in her cubicle. In a speech bubble, it berated her: "you otter be working on your thesis!", but she was not there to heed its call, which I guess is a case or irony or something.
 
 The nooks are excellent: walled off to the sides, they function almost like a mini-office; the desks are ingeniously shaped at right-angles, to give you more usable space.
 
@@ -233,8 +239,8 @@ Location suboptimal.
 ## Wellcome Unit for the History of Medicine Library
 ## Weston Library
 10/10
-    
-The library was established in 2015 (the year I arrived in Oxford) after extensive refurbishment of the New Bodleian Library building in which it is housed. The new facilities are incredibly luxurious, artfully combining old-style wood panels with pleasant, modern design. The specially designed chairs are amazing. 
+
+The library was established in 2015 (the year I arrived in Oxford) after extensive refurbishment of the New Bodleian Library building in which it is housed. The new facilities are incredibly luxurious, artfully combining old-style wood panels with pleasant, modern design. The specially designed chairs are amazing.
 
 I especially recommend the Charles Wendell David reading room on the top floor, which has light flooding in from all sides and offers an amazing view of the Old Bod and Rad Cam. It even has a motorised standing desk!
 
@@ -242,4 +248,4 @@ There is only one donwside: since the Weston contains the Bodlein Libraries' spe
 ## Wolfson College Library
 ## Worcester College Library
 
-<hr> <!-- hr to be added before footnotes--> 
+<hr> <!-- hr to be added before footnotes-->
