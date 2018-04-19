@@ -43,7 +43,9 @@ Remove all but the least distracting apps from your home screen.
 > _Home screen, before and after_
 
 ### Nova launcher
-Use this custom Android launcher to remove the left-hand-side Google feed from the homescreen, and to remove the Google search bar.
+Use this custom Android launcher[^siempo] to remove the left-hand-side Google feed from the homescreen, and to remove the Google search bar.
+
+[^siempo]: I've been told there's also another launcher, called [Siempo](https://medium.com/@getsiempo/siempo-home-app-a-sneak-peek-8661f4724aa9), which is designed for mindful use. It's in Beta but looks  like it  has some cool features.
 
 > <img src="../images/mf-tec/google-feed.png" style="max-height: 400px;"/>
 >
