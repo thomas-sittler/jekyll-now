@@ -3,7 +3,7 @@ layout: post
 title: "Diagrams of linear regression"
 ---
 
-I made a big diagram describing some assumptions (MLR1-6) that are used in linear regression. In my diagram, there are categories (in rectangles with dotted lines) of mathematical facts that follow from different subsets of MLR1-6. References in brackets are to Hayashi (2000). 
+I made a big diagram describing some assumptions (MLR1-6) that are used in linear regression. In my diagram, there are categories (in rectangles with dotted lines) of mathematical facts that follow from different subsets of MLR1-6. References in brackets are to Hayashi (2000).
 
 [![thelinearmodel](/images/linear-regression-diagram.png)](/images/linear-regression-diagram.png)
 
@@ -12,11 +12,13 @@ A couple of comments about the diagram are in order.
 * $$U$$,$$Y$$ are a $$n \times 1$$ vectors of random variables. $$X$$ may contain numbers or random variables. $$\beta$$ is a $$K \times 1$$ vector of numbers.
 * We measure: realisations of $$Y$$, (realisations of) $$X$$. We do not measure: $$\beta$$, $$U$$. We have one equation and two unknowns: we need additional assumptions on $$U$$.
 * We make a set of assumptions (MLR1-6) about the joint distribution $$f(U,X)$$. These assumptions imply some theorems relating the distribution of $$b$$ and the distribution of $$\beta$$.
-* Note the difference between MLR4 and MLR4’. The point of using the stronger MLR4 is that, in some cases, provided MLR4, MLR2 is not needed. To prove unbiasedness, we don’t need MLR2. For finite sample inference, we also don't need MLR2. But whenever the law of large numbers is involved, we do need MLR2 as a standalone condition.
+* Note the difference between MLR4 and MLR4’. The point of using the stronger MLR4 is that, in some cases, provided MLR4, MLR2 is not needed. To prove unbiasedness, we don’t need MLR2. For finite sample inference, we also don't need MLR2. But whenever the law of large numbers is involved, we do need MLR2 as a standalone condition. Note also that, since MLR2 and MLR4’ together imply MLR4, clearly MLR2 and MLR4 are never both needed. But I follow standard practise (e.g. Hayashi) in including them both, for example in the asymptotic inference theorems.
+* Note that since $$X’X$$ is a symmetric square matrix, $$Q$$ has full rank $$K$$ iff $$Q is positive definite; these are equivalent statements (see Wooldridge 2010 p. 57). Furthermore, if $$X$$ has full rank $$K$$, then $$X’X$$ has full rank $$K$$, so MLR3* is equivalent to MLR3 plus the fact that $$Q$$ is finite (i.e actually converges).
+* Note that $$Q$$ could alternatively be written $$E[X’X]$$
 * In the diagram, I stick to the brute mathematics, which is entirely independent of its (causal) interpretation.[^causal]
 
-[^causal]: 
-    But of course what really matters is the causal interpretation. 
+[^causal]:
+    But of course what really matters is the causal interpretation.
 
     As Pearl (2009) writes, “behind every causal claim there must lie some causal assumption that is not discernible from the joint distribution and, hence, not testable in observational studies”. If we wish to interpret $$\beta$$ (and hence $$b$$) causally, we must interpret MLR4 causally; it becomes a (strong) causal assumption.
 
@@ -33,6 +35,6 @@ The second diagram gives the asymptotic distribution of the IV estimator[^ivcaus
 
 [![iv](/images/instrumental-variables.png)](/images/instrumental-variables.png)
 
-[^ivcausal]: For IV, it's even clearer that the only reason to care is the causal interpretation. But I follow good econometrics practice and make only mathematical claims. 
+[^ivcausal]: For IV, it's even clearer that the only reason to care is the causal interpretation. But I follow good econometrics practice and make only mathematical claims.
 
 <hr> <!-- hr to be added before footnotes-->

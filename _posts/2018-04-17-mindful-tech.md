@@ -36,6 +36,7 @@ Disabling notifications can be a double-edged sword. You might remove one potent
 You can use the "trend micro security" app to block websites. I only weakly recommend it because the interface is crap and the blocking is pretty shallow. You can always go edit your settings. You could install another app like AppBlock to in turn block Trend micro and to block itself. But apps can be very easily and quickly uninstalled on Android, so you'd probably just uninstall them both if you got a big craving. At some point I had a clever scheme with blocking the android system app that uninstalls apps, but it became too brittle. Still, Trend micro's blocking can give you a couple of seconds to reconsider whether you _really_ want to open Twitter for the thirty-second time today.
 
 ## Home Screen
+<!--  white background -->
 ### Remove shortcuts
 Remove all but the least distracting apps from your home screen.
 
@@ -44,6 +45,8 @@ Remove all but the least distracting apps from your home screen.
 
 ### Nova launcher
 Use this custom Android launcher[^siempo] to remove the left-hand-side Google feed from the homescreen, and to remove the Google search bar.
+
+<!--  nova launcher grid size -->
 
 [^siempo]: I've been told there's also another launcher, called [Siempo](https://medium.com/@getsiempo/siempo-home-app-a-sneak-peek-8661f4724aa9), which is designed for mindful use. It's in Beta but looks  like it  has some cool features.
 
