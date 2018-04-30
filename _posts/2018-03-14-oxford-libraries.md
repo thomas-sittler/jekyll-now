@@ -65,9 +65,9 @@ There are very few desks compared to the size of the library. The desks and seat
 ## Education Library
 ## English Faculty Library
 
-One day I was supposed to meet my friends at the law library, in the St Cross building. Having arrived early, I told them I was on floor 2, by the windows, in the Mark Twain section. In retrospect, sitting in the Mark Twain section of the law library should, perhaps, have raised some red flags. My  friends messaged protesting they could not find me. I told them to just walk around until they saw me, noting that this library is not that fucking big, come on. It further transpired that the law library has no floor 2.
+I was supposed to meet my friends at the law library, in the St Cross building. Having arrived early, I told them I was on floor 2, by the windows, in the Mark Twain section. In retrospect, sitting in the Mark Twain section of the law library should, perhaps, have raised some red flags. My  friends messaged protesting they could not find me. I told them to just walk around until they saw me, noting that this library is not that fucking big, come on. It further transpired that the law library has no floor 2.
 
-English Faculty Library: 6/10, very bright, comfortable chairs. In the same building as the law library, and looks shockingly similar to it:
+English Faculty Library: 6/10, very bright, comfortable chairs. In the same building as the law library, and looks _very_ similar to it:
 
 ![](../images/bodleian-law-english.png)
 
