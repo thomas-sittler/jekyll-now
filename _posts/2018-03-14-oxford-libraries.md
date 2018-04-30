@@ -64,6 +64,14 @@ There are very few desks compared to the size of the library. The desks and seat
 ## Earth Sciences Library
 ## Education Library
 ## English Faculty Library
+
+One day I was supposed to meet my friends at the law library, in the St Cross building. Having arrived early, I told them I was on floor 2, by the windows, in the Mark Twain section. In retrospect, sitting in the Mark Twain section of the law library should, perhaps, have raised some red flags. My  friends messaged protesting they could not find me. I told them to just walk around until they saw me, noting that this library is not that fucking big, come on. It further transpired that the law library has no floor 2.
+
+English Faculty Library: 6/10, very bright, comfortable chairs. In the same building as the law library, and looks shockingly similar to it:
+
+![](../_images/bodleian-law-english.png)
+
+
 ## Exeter College Library
 
 # G
@@ -170,7 +178,7 @@ One thing stands out: it has an actual card catalogue! The wooden filing system 
 
 The lower floors are a disgrace. They look like Podunk University built them in 1971, and ran out of money before the interior decoration could be completed. Old swivel chairs in an offensive shade of brown, harsh neon lights.
 
-Upper floors are average, unremarkable. 
+Upper floors are average, unremarkable.
 
 ## Regent's Park College Library
 ## Research Laboratory for Archaeology and the History of Art Library
