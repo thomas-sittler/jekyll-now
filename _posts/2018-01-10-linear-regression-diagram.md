@@ -14,7 +14,7 @@ A couple of comments about the diagram are in order.
 * We make a set of assumptions (MLR1-6) about the joint distribution $$f(U,X)$$. These assumptions imply some theorems relating the distribution of $$b$$ and the distribution of $$\beta$$.
 * Note the difference between MLR4 and MLR4’. The point of using the stronger MLR4 is that, in some cases, provided MLR4, MLR2 is not needed. To prove unbiasedness, we don’t need MLR2. For finite sample inference, we also don't need MLR2. But whenever the law of large numbers is involved, we do need MLR2 as a standalone condition. Note also that, since MLR2 and MLR4’ together imply MLR4, clearly MLR2 and MLR4 are never both needed. But I follow standard practise (e.g. Hayashi) in including them both, for example in the asymptotic inference theorems.
 * Note that since $$X’X$$ is a symmetric square matrix, $$Q$$ has full rank $$K$$ iff $$Q$$ is positive definite; these are equivalent statements (see Wooldridge 2010 p. 57). Furthermore, if $$X$$ has full rank $$K$$, then $$X’X$$ has full rank $$K$$, so MLR3* is equivalent to MLR3 plus the fact that $$Q$$ is finite (i.e actually converges).
-* Note that $$Q$$ could alternatively be written $$E[X’X]$$
+* Note that given MLR2 and the law of large numbers, $$Q$$ could alternatively be written $$E[X’X]$$
 * Note that whenever I write a $$p\lim$$ and set it equal to some matrix, I am assuming the matrix is finite. Some treatments will explicitly say $$Q$$ is finite, but I omit this.
 * In the diagram, I stick to the brute mathematics, which is entirely independent of its (causal) interpretation.[^causal]
 
