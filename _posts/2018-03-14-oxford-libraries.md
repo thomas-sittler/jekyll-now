@@ -37,6 +37,13 @@ There are very few desks compared to the size of the library. The desks and seat
 ## Bodleian K B Chen China Centre Library
 ## Bodleian Latin American Centre Library
 ## Bodleian Law Library
+
+8/10
+
+Architecturally, a resounding success. Now I understand why the St Cross Building which houses it is Grade II listed. Huge. More than 500,000 volumes. The main reading room is genuinely imposing, white and flooded with light. On a stormy day you can hear the hiss of the wind whiz through the building. That somehow only reinforces the airy feeling of the reading room. The desk lamps are of an artfully brushed metal that feels at once négligé and luxurious.
+
+Mostly just incredibly bright. Almost like sitting outside.
+
 ## Bodleian Library
 ## Bodleian Library - Old Library
 ## Bodleian Library - Radcliffe Camera
@@ -67,7 +74,7 @@ There are very few desks compared to the size of the library. The desks and seat
 
 I was supposed to meet my friends at the law library, in the St Cross building. Having arrived early, I told them I was on floor 2, by the windows, in the Mark Twain section. In retrospect, sitting in the Mark Twain section of the law library should, perhaps, have raised some red flags. My  friends messaged protesting they could not find me. I told them to just walk around until they saw me, noting that this library is not that fucking big, come on. It further transpired that the law library has no floor 2.
 
-English Faculty Library: 6/10, very bright, comfortable chairs. In the same building as the law library, and looks _very_ similar to it:
+English Faculty Library: 6/10, bright, comfortable chairs. In the same building as the law library, and in pictures looks _very_ similar to it:
 
 ![](../images/bodleian-law-english.png)
 
