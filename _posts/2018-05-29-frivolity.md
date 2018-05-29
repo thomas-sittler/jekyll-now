@@ -2,6 +2,7 @@
 layout: post
 title: "Philosophy frivolity"
 ---
+<br><br><br>
 
 Oh love  
 why are you  
@@ -13,7 +14,7 @@ I too can be reduced
 to tears.
 <p style="text-align:right;"> — Oxford, September 2017</p> 
 
-<br><br><br><br>
+<br><br><br>
 
 
 
