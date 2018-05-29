@@ -13,7 +13,7 @@ I too can be reduced
 to tears.
 <p style="text-align:right;"> — Oxford, September 2017</p> 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 
 
@@ -32,3 +32,6 @@ was only love.
 For even the reasoner's art  
 bends to the treasonous heart.
 <p style="text-align:right;"> — Oxford, May 2018</p>
+
+<!-- <hr> to be added before footnotes-->
+--- 
