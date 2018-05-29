@@ -34,5 +34,6 @@ For even the reasoner's art
 bends to the treasonous heart.
 <p style="text-align:right;"> — Oxford, May 2018</p>
 
+<br><br><br>
 <!-- <hr> to be added before footnotes-->
 --- 
