@@ -18,11 +18,11 @@ to tears.
 
 
 
-I met a dutch gambler in a dream,  
-she had a mischievous, savage beauty.
+I met a Dutch gambler in a dream;  
+she had a raw beauty, Savage and mischievous.
 
-We bet, and each wager did seem  
-enticing, advantageous, truly.
+We bet and her wagers did seem  
+so full of promise, each innocent and auspicious. 
 
 But no matter the twists and turns of chance  
 it was a sure loss, she had known in advance.
