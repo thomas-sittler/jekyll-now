@@ -21,8 +21,8 @@ to tears.
 I met a Dutch gambler in a dream;  
 she had a raw beauty, Savage and mischievous.
 
-We bet and her wagers did seem  
-so full of promise, each innocent and auspicious. 
+We bet and all her wagers did seem  
+so full of promise, innocent and auspicious. 
 
 But no matter the twists and turns of chance  
 it was a sure loss, she had known in advance.
