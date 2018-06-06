@@ -17,6 +17,10 @@ A couple of comments about the diagram are in order.
 * Note that given MLR2 and the law of large numbers, $$Q$$ could alternatively be written $$E[X’X]$$
 * Note that whenever I write a $$p\lim$$ and set it equal to some matrix, I am assuming the matrix is finite. Some treatments will explicitly say $$Q$$ is finite, but I omit this.
 * In the diagram, I stick to the brute mathematics, which is entirely independent of its (causal) interpretation.[^causal]
+* Note that by the magic of matrix inversion, $$((X'X)^{-1})_{kk} = \frac{1}{\sum_{i=1}^n (x_{ki} - \bar x _{k})^2}$$. [^matrixintuition]  
+* Note that these expressions are equal: $$\frac{b_k -\beta_k}{se(b_k)} = \frac{(b_k - \beta_k)\sqrt{n-K}} {\hat{U'} \hat{U} ((X'X)^{-1})_{kk}}$$. Seeing this helps with inutition.
+
+[^matrixintuition]: Think about it! This seems intuitive when you don't think about it, mysterious when you think about it a little, and presumably becomes obvious again if you really understand matrix algebra. I haven't reached the third stage.
 
 [^causal]:
     But of course what really matters is the causal interpretation.
@@ -32,7 +36,7 @@ A couple of comments about the diagram are in order.
 
     ![](/images/regression-causal-diagram.png)
 
-The second diagram gives the asymptotic distribution of the IV estimator[^ivcausal].
+The second diagram gives the asymptotic distribution of the IV and 2SLS estimators.[^ivcausal]
 
 [![iv](/images/instrumental-variables.png)](/images/instrumental-variables.png)
 
