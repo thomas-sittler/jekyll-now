@@ -42,4 +42,7 @@ The second diagram gives the asymptotic distribution of the IV and 2SLS estimato
 
 [^ivcausal]: For IV, it's even clearer that the only reason to care is the causal interpretation. But I follow good econometrics practice and make only mathematical claims.
 
+
+I made this is PowerPoint, not knowing how to do it better. [Here](../files/thelinearmodel.pptx) is the file.
+
 <hr> <!-- hr to be added before footnotes-->
