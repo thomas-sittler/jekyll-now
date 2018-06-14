@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Relationships between games and solution concepts"
+date: 2018-06-14 12:00:00
 ---
 
 The basic notion of strategic game can be extended in two directions: adding imperfect information, and adding sequential moves. This gives nice matryoshka dolls of types of games, depicted below with page numbers in Osborne and Rubinstein (OR) in brackets.
