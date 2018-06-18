@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Price effects of cash transfers: an under-rated policy implication"
+title: "Should we prioritise cash transfers to the urban poor?"
 ---
 
-_Note: I owe these ideas to Rossa O'Keeffe-O'Donovan and Natalie Quinn._
+_Note: I owe these ideas to Rossa O'Keeffe-O'Donovan and Natalie Quinn. However, this post does not aim to reflect their views._
 
 It's well known that cash transfers have effects on prices. For instance, [Cunha, De Giorgi and Jayachandran](https://www.povertyactionlab.org/evaluation/price-effects-cash-versus-kind-transfers-mexico) (2017) write:
 > [According to standard models], cash transfers increase the demand for normal goods, which will lead to price increases. This prediction holds either with perfect competition and marginal costs that are increasing in quantity, or with imperfect competition even if marginal costs are constant or decreasing [...].
