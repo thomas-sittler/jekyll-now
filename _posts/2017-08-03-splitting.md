@@ -264,7 +264,7 @@ I'm not convinced by most of the reasons people give for splitting. Cooperation 
 To some degree, we may be using splitting to satisfy our urge to [purchase "fuzzies"](http://lesswrong.com/lw/6z/purchase_fuzzies_and_utilons_separately/). I say this without negative judgement, I agree with Claire Zabel that we should "de-stigmatize talking about emotional attachment to causes". I think we should satisfy our various desires, like emotional satisfaction or positive impact, in the most efficient way possible. It may not be psychologically realistic to plan to stop splitting altogether. Instead, one could give as much as possible to the recipient with the highest expected value, while satisfying the desire to split with the small remaining part. Personally, I donate 90% to the Far Future EA fund and 10% to the Animal Welfare fund for this reason. 
 
 # Appendix: R code
-```
+{% highlight r %}
 library(readr)
 library(plotrix)
 library(plyr)
@@ -304,6 +304,6 @@ f2 <- subset(f, isdupl == FALSE)
 # weighted histogram of fundfrac
 z <- weighted.hist(f2$fundfrac,f2$usersum_fund,breaks=bseq/100,freq = FALSE, xlab="Fund fraction (per user)", ylab = "Density, weighted by fund sum (per user)")
 z_n <- data.frame(bucket=z$breaks[2:length(z$breaks)],prob=(z$counts/sum(z$counts)))
-```
+{% endhighlight %}
 
 ---
