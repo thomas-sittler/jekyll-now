@@ -13,14 +13,6 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
-  <div class="date"> <!-- replaces class="gitlink" for a more discreet look -->
-    <br> Feedback? You're very welcome to <a href="maito:tmksitt@gmail.com">get in touch</a>. Broken link? Try the <a href="http://web.archive.org/web/{{ page.date}}/{{ site.url }}{{ page.url }}">archived version</a>.
-  </div>
-
   
   {% include disqus.html %}
 </article>
